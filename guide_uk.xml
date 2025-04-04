@@ -1,0 +1,267 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Optus Sport 11">
+    <display-name lang="en">Optus Sport 11</display-name>
+    <icon src="https://static.sport.optus.com.au/images/optus-sport-yes.svg" />
+    <url>http://www.optussport.com.au</url>
+  </channel>
+  <channel id="Optus Sport 2">
+    <display-name lang="en">Optus Sport 2</display-name>
+    <icon src="https://static.sport.optus.com.au/images/optus-sport-yes.svg" />
+    <url>http://www.optussport.com.au</url>
+  </channel>
+  <channel id="Optus Sport 8">
+    <display-name lang="en">Optus Sport 8</display-name>
+    <icon src="https://static.sport.optus.com.au/images/optus-sport-yes.svg" />
+    <url>http://www.optussport.com.au</url>
+  </channel>
+  <channel id="Optus Sport 7">
+    <display-name lang="en">Optus Sport 7</display-name>
+    <icon src="https://static.sport.optus.com.au/images/optus-sport-yes.svg" />
+    <url>http://www.optussport.com.au</url>
+  </channel>
+  <channel id="Optus Sport 1">
+    <display-name lang="en">Optus Sport 1</display-name>
+    <icon src="https://static.sport.optus.com.au/images/optus-sport-yes.svg" />
+    <url>http://www.optussport.com.au</url>
+  </channel>
+  <channel id="Optus Sport 3">
+    <display-name lang="en">Optus Sport 3</display-name>
+    <icon src="https://static.sport.optus.com.au/images/optus-sport-yes.svg" />
+    <url>http://www.optussport.com.au</url>
+  </channel>
+  <channel id="Optus Sport 9">
+    <display-name lang="en">Optus Sport 9</display-name>
+    <icon src="https://static.sport.optus.com.au/images/optus-sport-yes.svg" />
+    <url>http://www.optussport.com.au</url>
+  </channel>
+  <channel id="Optus Sport 10">
+    <display-name lang="en">Optus Sport 10</display-name>
+    <icon src="https://static.sport.optus.com.au/images/optus-sport-yes.svg" />
+    <url>http://www.optussport.com.au</url>
+  </channel>
+  <channel id="Optus Sport 6">
+    <display-name lang="en">Optus Sport 6</display-name>
+    <icon src="https://static.sport.optus.com.au/images/optus-sport-yes.svg" />
+    <url>http://www.optussport.com.au</url>
+  </channel>
+  <channel id="Optus Sport 4">
+    <display-name lang="en">Optus Sport 4</display-name>
+    <icon src="https://static.sport.optus.com.au/images/optus-sport-yes.svg" />
+    <url>http://www.optussport.com.au</url>
+  </channel>
+  <channel id="Optus Sport 5">
+    <display-name lang="en">Optus Sport 5</display-name>
+    <icon src="https://static.sport.optus.com.au/images/optus-sport-yes.svg" />
+    <url>http://www.optussport.com.au</url>
+  </channel>
+  <channel id="Optus Sport 12">
+    <display-name lang="en">Optus Sport 12</display-name>
+    <icon src="https://static.sport.optus.com.au/images/optus-sport-yes.svg" />
+    <url>http://www.optussport.com.au</url>
+  </channel>
+  <channel id="Optus Sport 202">
+    <display-name lang="en">Optus Sport 202</display-name>
+    <icon src="https://static.sport.optus.com.au/images/optus-sport-yes.svg" />
+    <url>http://www.optussport.com.au</url>
+  </channel>
+  <channel id="Optus Sport 205">
+    <display-name lang="en">Optus Sport 205</display-name>
+    <icon src="https://static.sport.optus.com.au/images/optus-sport-yes.svg" />
+    <url>http://www.optussport.com.au</url>
+  </channel>
+  <channel id="Optus Sport 204">
+    <display-name lang="en">Optus Sport 204</display-name>
+    <icon src="https://static.sport.optus.com.au/images/optus-sport-yes.svg" />
+    <url>http://www.optussport.com.au</url>
+  </channel>
+  <channel id="Optus Sport 203">
+    <display-name lang="en">Optus Sport 203</display-name>
+    <icon src="https://static.sport.optus.com.au/images/optus-sport-yes.svg" />
+    <url>http://www.optussport.com.au</url>
+  </channel>
+  <programme start="20250407120000 +0000" stop="20250407130000 +0000" channel="Optus Sport 11">
+    <title lang="en">The Kelly &amp; Wrighty Show</title>
+    <desc lang="en">Arsenal legend Ian Wright is joined by Kelly Cates and a host of Premier League personalities as they take a more in-depth look at the headlines that follow the football each weekend and explore issues and topics away from the pitch.(n)</desc>
+    <category lang="en">Soccer</category>
+    <icon src="https://static.sport.optus.com.au/resources/static/98e974b8-b73e-419c-86c9-2a3c34df367e_plpkellywrighty169.png" />
+  </programme>
+  <programme start="20250407160000 +0000" stop="20250407170000 +0000" channel="Optus Sport 11">
+    <title lang="en">Generation xG</title>
+    <desc lang="en">A deep dive into the tactical trends and statistical insights of modern football with input from players, managers and data experts from the fanalytics community.(n)</desc>
+    <category lang="en">Soccer</category>
+    <icon src="https://static.sport.optus.com.au/resources/static/82479dbd-826d-4995-9cbb-5b3f2912466f_plpgenerationxg169.png" />
+  </programme>
+  <programme start="20250407213000 +0000" stop="20250407223000 +0000" channel="Optus Sport 11">
+    <title lang="en">The Final Word</title>
+    <desc lang="en">Join a panel of special guests to give the definitive verdict on the weekend’s action.(n)</desc>
+    <category lang="en">Soccer</category>
+    <icon src="https://static.sport.optus.com.au/resources/static/6d495356-3612-4685-b3ca-adb153c4a56a_plpthefinalword169.png" />
+  </programme>
+  <programme start="20250407233000 +0000" stop="20250408003000 +0000" channel="Optus Sport 11">
+    <title lang="en">Premier League Highlights Show</title>
+    <desc lang="en">Catch up on all the latest action from the Premier League.(n)</desc>
+    <category lang="en">Soccer</category>
+    <icon src="https://static.sport.optus.com.au/resources/static/cfe8438f-0db2-43cb-8008-80ed6eccfa9d_plpreview169.png" />
+  </programme>
+  <programme start="20250408010000 +0000" stop="20250408013000 +0000" channel="Optus Sport 11">
+    <title lang="en">Netbusters</title>
+    <desc lang="en">All the best angles of all the best goals from the latest Premier League action.(n)</desc>
+    <category lang="en">Soccer</category>
+    <icon src="https://static.sport.optus.com.au/resources/static/1c18dc95-934b-4186-b386-45aaef1a3145_plpnetbusters169.png" />
+  </programme>
+  <programme start="20250408080000 +0000" stop="20250408090000 +0000" channel="Optus Sport 11">
+    <title lang="en">The Art of... The Central Defensive Midfielder</title>
+    <desc lang="en">Some of the finest players in PL history explain the techniques and temperaments that took them to the top.(n)</desc>
+    <category lang="en">Soccer</category>
+    <icon src="https://static.sport.optus.com.au/resources/static/b9c1168e-d9e6-4bd2-9b8b-6e8707e8be6f_plptheartof.png" />
+  </programme>
+  <programme start="20250409140000 +0000" stop="20250409150000 +0000" channel="Optus Sport 11">
+    <title lang="en">The Catch-Up Show</title>
+    <desc lang="en">Miss some of the action over the last round of Premier League matches? The Catch-Up Show covers everything you need to know.(n)</desc>
+    <category lang="en">Soccer</category>
+    <icon src="https://static.sport.optus.com.au/resources/static/38bcf692-9aa2-4907-b1d2-c269c38d6620_plpthecatchupshow169.png" />
+  </programme>
+  <programme start="20250409170000 +0000" stop="20250409173000 +0000" channel="Optus Sport 11">
+    <title lang="en">PL Stories: The Run In - True Turning Points</title>
+    <desc lang="en">Showcasing the personalities who have shaped the Premier League era, in each episode we tell their unique story that will be sure to engage and entertain all fans.(n)</desc>
+    <category lang="en">Soccer</category>
+    <icon src="https://static.sport.optus.com.au/resources/static/48f51ed9-0d41-4d9e-8bfc-b5eb404505b7_pl-stories.png" />
+  </programme>
+  <programme start="20250410123000 +0000" stop="20250410130000 +0000" channel="Optus Sport 11">
+    <title lang="en">The Big Interview: Robert Pires</title>
+    <desc lang="en">Catch a unique sit-down with one of the Premier League's biggest names.(n)</desc>
+    <category lang="en">Soccer</category>
+    <icon src="https://static.sport.optus.com.au/resources/static/5df659c3-202b-4234-9742-f2031ea34abd_tbi16x9.jpeg" />
+  </programme>
+  <programme start="20250405135000 +0000" stop="20250405161000 +0000" channel="Optus Sport 2">
+    <title lang="en">West Ham United v Bournemouth</title>
+    <sub-title lang="en">Premier League</sub-title>
+    <desc lang="en">Season: 2024/2025.(n)</desc>
+    <category lang="en">Soccer</category>
+    <icon src="https://static.sport.optus.com.au/resources/static/fd1a866c-fb44-402b-8752-59c6eafd2223_plmw31assetcleanwest-hambournemouth06apr1250am.png" />
+  </programme>
+  <programme start="20250406125000 +0000" stop="20250406151000 +0000" channel="Optus Sport 2">
+    <title lang="en">Tottenham Hotspur v Southampton</title>
+    <sub-title lang="en">Premier League</sub-title>
+    <desc lang="en">Season: 2024/2025.(n)</desc>
+    <category lang="en">Soccer</category>
+    <icon src="https://static.sport.optus.com.au/resources/static/14c9a478-459a-41c5-9a28-27ccfb1cf35f_plmw31assetcleanspurssouthampton06apr1050pm.png" />
+  </programme>
+  <programme start="20250405045500 +0000" stop="20250405071000 +0000" channel="Optus Sport 8">
+    <title lang="en">Yokohama FM v Tokyo Verdy</title>
+    <sub-title lang="en">J1 League</sub-title>
+    <desc lang="en">Season: 2025.(n)</desc>
+    <category lang="en">Soccer</category>
+    <icon src="https://static.sport.optus.com.au/resources/static/096d9103-583f-4c77-a4a7-b410e0c48f3f_jlmw9assetcleanyokohama-fmtokyo-verdy05apr355pm.png" />
+  </programme>
+  <programme start="20250406055500 +0000" stop="20250406081000 +0000" channel="Optus Sport 8">
+    <title lang="en">Sanfrecce v Cerezo</title>
+    <sub-title lang="en">J1 League</sub-title>
+    <desc lang="en">Season: 2025.(n)</desc>
+    <category lang="en">Soccer</category>
+    <icon src="https://static.sport.optus.com.au/resources/static/276c6147-a632-41eb-86e9-65de8c20ab07_jlmw9assetcleansanfreccecerezo-osaka06apr355pm.png" />
+  </programme>
+  <programme start="20250405045000 +0000" stop="20250405071000 +0000" channel="Optus Sport 7">
+    <title lang="en">Ulsan v Seoul</title>
+    <category lang="en">Soccer</category>
+    <icon src="https://static.sport.optus.com.au/resources/static/4c39a866-4a0b-41a1-8376-a33c0ca617a8_klrd7assetcleanulsanseoul05apr350pm.png" />
+  </programme>
+  <programme start="20250406045500 +0000" stop="20250406071000 +0000" channel="Optus Sport 7">
+    <title lang="en">Machida v Kawasaki</title>
+    <sub-title lang="en">J1 League</sub-title>
+    <desc lang="en">Season: 2025.(n)</desc>
+    <category lang="en">Soccer</category>
+    <icon src="https://static.sport.optus.com.au/resources/static/0c402a7c-b816-4670-93f1-3e831321623f_jlmw9assetcleanmachida-zelviakawasaki06apr255pm.png" />
+  </programme>
+  <programme start="20250406072000 +0000" stop="20250406094000 +0000" channel="Optus Sport 7">
+    <title lang="en">Gwangju v Jeju</title>
+    <category lang="en">Soccer</category>
+    <icon src="https://static.sport.optus.com.au/resources/static/fb0056ac-8552-4a3a-96c8-9999daee53b9_klrd7assetcleangwangjujeju06apr520pm.png" />
+  </programme>
+  <programme start="20250405103000 +0000" stop="20250405135000 +0000" channel="Optus Sport 1">
+    <title lang="en">Everton v Arsenal</title>
+    <sub-title lang="en">Premier League</sub-title>
+    <desc lang="en">Season: 2024/2025.(n)</desc>
+    <category lang="en">Soccer</category>
+    <icon src="https://static.sport.optus.com.au/resources/static/b37284c2-2a1b-4ac2-a094-6a6d77bb78c2_plmw31assetcleanevertonarsenal05apr930pm.png" />
+  </programme>
+  <programme start="20250405135000 +0000" stop="20250405162000 +0000" channel="Optus Sport 1">
+    <title lang="en">Goal Rush - Overnight Saturday</title>
+    <desc lang="en">Here's your hub for the matches ahead, as you watch Ipswich Town v Wolverhampton plus updates of every goal and key moment from around the grounds!(n)</desc>
+    <category lang="en">Soccer</category>
+    <icon src="https://static.sport.optus.com.au/resources/static/82ef55f7-00a9-4287-8b6c-9173f66584ad_plpgoalrush169.jpg" />
+  </programme>
+  <programme start="20250405162000 +0000" stop="20250405190000 +0000" channel="Optus Sport 1">
+    <title lang="en">Aston Villa v Nottingham Forest</title>
+    <sub-title lang="en">Premier League</sub-title>
+    <desc lang="en">Season: 2024/2025.(n)</desc>
+    <category lang="en">Soccer</category>
+    <icon src="https://static.sport.optus.com.au/resources/static/a25720f8-d746-49f9-9283-38ac695b0a88_plmw31assetcleanaston-villaforest06apr220am.png" />
+  </programme>
+  <programme start="20250406120000 +0000" stop="20250406152000 +0000" channel="Optus Sport 1">
+    <title lang="en">Goal Rush - Overnight Sunday</title>
+    <desc lang="en">Here's your hub for the matches ahead, as you watch Fulham v Liverpool plus updates of every goal and key moment from around the grounds!(n)</desc>
+    <category lang="en">Soccer</category>
+    <icon src="https://static.sport.optus.com.au/resources/static/82ef55f7-00a9-4287-8b6c-9173f66584ad_plpgoalrush169.jpg" />
+  </programme>
+  <programme start="20250406152000 +0000" stop="20250406183000 +0000" channel="Optus Sport 1">
+    <title lang="en">Manchester United v Manchester City</title>
+    <sub-title lang="en">Premier League</sub-title>
+    <desc lang="en">Season: 2024/2025.(n)</desc>
+    <category lang="en">Soccer</category>
+    <icon src="https://static.sport.optus.com.au/resources/static/48630b51-c824-41e3-bbe6-eddafc2be081_plmw31assetcleanman-unitedman-city07apr120am.png" />
+  </programme>
+  <programme start="20250407183000 +0000" stop="20250407213000 +0000" channel="Optus Sport 1">
+    <title lang="en">Leicester City v Newcastle United</title>
+    <sub-title lang="en">Premier League</sub-title>
+    <desc lang="en">Season: 2024/2025.(n)</desc>
+    <category lang="en">Soccer</category>
+    <icon src="https://static.sport.optus.com.au/resources/static/2fd5310b-f917-4b82-b238-d7a6ab5874d7_plmw31assetcleanleicesternewcastle08apr430am.png" />
+  </programme>
+  <programme start="20250405135000 +0000" stop="20250405161000 +0000" channel="Optus Sport 3">
+    <title lang="en">Crystal Palace v Brighton</title>
+    <sub-title lang="en">Premier League</sub-title>
+    <desc lang="en">Season: 2024/2025.(n)</desc>
+    <category lang="en">Soccer</category>
+    <icon src="https://static.sport.optus.com.au/resources/static/0feaa739-8c40-49d7-9c19-370213f08cb3_plmw31assetcleancrystal-palacebrighton06apr1250am.png" />
+  </programme>
+  <programme start="20250406125000 +0000" stop="20250406151000 +0000" channel="Optus Sport 3">
+    <title lang="en">Brentford v Chelsea</title>
+    <sub-title lang="en">Premier League</sub-title>
+    <desc lang="en">Season: 2024/2025.(n)</desc>
+    <category lang="en">Soccer</category>
+    <icon src="https://static.sport.optus.com.au/resources/static/f6d97fec-a0a5-4e02-8212-6c4bdf0e11c6_plmw31assetcleanbrentfordchelsea06apr1050pm.png" />
+  </programme>
+  <programme start="20250405072000 +0000" stop="20250405094000 +0000" channel="Optus Sport 9">
+    <title lang="en">Daejeon v Jeonbuk</title>
+    <category lang="en">Soccer</category>
+    <icon src="https://static.sport.optus.com.au/resources/static/63038a20-05e2-49ea-a07f-476e7838db4b_klrd7assetcleandaejeonjeonbuk05apr620pm.png" />
+  </programme>
+  <programme start="20250406055500 +0000" stop="20250406081000 +0000" channel="Optus Sport 9">
+    <title lang="en">Kashiwa v Gamba</title>
+    <sub-title lang="en">J1 League</sub-title>
+    <desc lang="en">Season: 2025.(n)</desc>
+    <category lang="en">Soccer</category>
+    <icon src="https://static.sport.optus.com.au/resources/static/0e3197fd-3d8c-4e35-becc-9a30f876c38e_jlmw9assetcleankashiwagamba-osaka06apr355pm.png" />
+  </programme>
+  <programme start="20250406072000 +0000" stop="20250406094000 +0000" channel="Optus Sport 10">
+    <title lang="en">Anyang v Gangwon</title>
+    <category lang="en">Soccer</category>
+    <icon src="https://static.sport.optus.com.au/resources/static/49b5b2e5-8f0e-4425-9ecd-c2340ac7b751_klrd7assetcleananyanggangwon06apr520pm.png" />
+  </programme>
+  <programme start="20250405135000 +0000" stop="20250405161000 +0000" channel="Optus Sport 4">
+    <title lang="en">Ipswich v Wolverhampton Wanderers</title>
+    <sub-title lang="en">Premier League</sub-title>
+    <desc lang="en">Season: 2024/2025.(n)</desc>
+    <category lang="en">Soccer</category>
+    <icon src="https://static.sport.optus.com.au/resources/static/71c74286-da50-49d4-8215-b2ab666e61bd_plmw31assetcleanipswichwolves06apr1250am.png" />
+  </programme>
+  <programme start="20250406125000 +0000" stop="20250406151000 +0000" channel="Optus Sport 4">
+    <title lang="en">Fulham v Liverpool</title>
+    <sub-title lang="en">Premier League</sub-title>
+    <desc lang="en">Season: 2024/2025.(n)</desc>
+    <category lang="en">Soccer</category>
+    <icon src="https://static.sport.optus.com.au/resources/static/0cdda328-8953-4bf1-aee5-afd4d41ea7e5_plmw31assetcleanfulhamliverpool06apr1050pm.png" />
+  </programme>
+</tv>
