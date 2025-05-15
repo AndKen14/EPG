@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Ginx eSports TV">
+    <display-name lang="en">Ginx eSports TV</display-name>
+    <url>http://www.supersport.com</url>
+  </channel>
+  <channel id="SS Premier League">
+    <display-name lang="en">SS Premier League</display-name>
+    <url>http://www.supersport.com</url>
+  </channel>
+  <channel id="SS Football">
+    <display-name lang="en">SS Football</display-name>
+    <url>http://www.supersport.com</url>
+  </channel>
+  <channel id="SuperSport LaLiga">
+    <display-name lang="en">SuperSport LaLiga</display-name>
+    <url>http://www.supersport.com</url>
+  </channel>
+  <channel id="SS Action">
+    <display-name lang="en">SS Action</display-name>
+    <url>http://www.supersport.com</url>
+  </channel>
+  <channel id="SS Cricket">
+    <display-name lang="en">SS Cricket</display-name>
+    <url>http://www.supersport.com</url>
+  </channel>
+  <channel id="SS Golf">
+    <display-name lang="en">SS Golf</display-name>
+    <url>http://www.supersport.com</url>
+  </channel>
+  <channel id="SS Grandstand">
+    <display-name lang="en">SS Grandstand</display-name>
+    <url>http://www.supersport.com</url>
+  </channel>
+  <channel id="SS Motorsport">
+    <display-name lang="en">SS Motorsport</display-name>
+    <url>http://www.supersport.com</url>
+  </channel>
+  <channel id="SuperSport PSL">
+    <display-name lang="en">SuperSport PSL</display-name>
+    <url>http://www.supersport.com</url>
+  </channel>
+  <channel id="SS Rugby">
+    <display-name lang="en">SS Rugby</display-name>
+    <url>http://www.supersport.com</url>
+  </channel>
+  <channel id="SS Tennis">
+    <display-name lang="en">SS Tennis</display-name>
+    <url>http://www.supersport.com</url>
+  </channel>
+  <channel id="SS Variety 1">
+    <display-name lang="en">SS Variety 1</display-name>
+    <url>http://www.supersport.com</url>
+  </channel>
+  <channel id="SS Variety 2">
+    <display-name lang="en">SS Variety 2</display-name>
+    <url>http://www.supersport.com</url>
+  </channel>
+  <channel id="SS Variety 3">
+    <display-name lang="en">SS Variety 3</display-name>
+    <url>http://www.supersport.com</url>
+  </channel>
+  <channel id="SS Variety 4">
+    <display-name lang="en">SS Variety 4</display-name>
+    <url>http://www.supersport.com</url>
+  </channel>
+  <channel id="SuperSport MáXimo 1">
+    <display-name lang="en">SuperSport MáXimo 1</display-name>
+    <url>http://www.supersport.com</url>
+  </channel>
+  <channel id="ESPN HD">
+    <display-name lang="en">ESPN HD</display-name>
+    <url>http://www.supersport.com</url>
+  </channel>
+  <channel id="SuperSport Blitz">
+    <display-name lang="en">SuperSport Blitz</display-name>
+    <url>http://www.supersport.com</url>
+  </channel>
+  <channel id="Optus Sport 11">
+    <display-name lang="en">Optus Sport 11</display-name>
+    <url>http://www.optussport.com.au</url>
+  </channel>
+  <channel id="Optus Sport 2">
+    <display-name lang="en">Optus Sport 2</display-name>
+    <url>http://www.optussport.com.au</url>
+  </channel>
+  <channel id="Optus Sport 8">
+    <display-name lang="en">Optus Sport 8</display-name>
+    <url>http://www.optussport.com.au</url>
+  </channel>
+  <channel id="Optus Sport 7">
+    <display-name lang="en">Optus Sport 7</display-name>
+    <url>http://www.optussport.com.au</url>
+  </channel>
+  <channel id="Optus Sport 1">
+    <display-name lang="en">Optus Sport 1</display-name>
+    <url>http://www.optussport.com.au</url>
+  </channel>
+  <channel id="Optus Sport 3">
+    <display-name lang="en">Optus Sport 3</display-name>
+    <url>http://www.optussport.com.au</url>
+  </channel>
+  <channel id="Optus Sport 9">
+    <display-name lang="en">Optus Sport 9</display-name>
+    <url>http://www.optussport.com.au</url>
+  </channel>
+  <channel id="Optus Sport 10">
+    <display-name lang="en">Optus Sport 10</display-name>
+    <url>http://www.optussport.com.au</url>
+  </channel>
+  <channel id="Optus Sport 6">
+    <display-name lang="en">Optus Sport 6</display-name>
+    <url>http://www.optussport.com.au</url>
+  </channel>
+  <channel id="Optus Sport 4">
+    <display-name lang="en">Optus Sport 4</display-name>
+    <url>http://www.optussport.com.au</url>
+  </channel>
+  <channel id="Optus Sport 5">
+    <display-name lang="en">Optus Sport 5</display-name>
+    <url>http://www.optussport.com.au</url>
+  </channel>
+  <channel id="Optus Sport 12">
+    <display-name lang="en">Optus Sport 12</display-name>
+    <url>http://www.optussport.com.au</url>
+  </channel>
+  <channel id="Optus Sport 202">
+    <display-name lang="en">Optus Sport 202</display-name>
+    <url>http://www.optussport.com.au</url>
+  </channel>
+  <channel id="Optus Sport 205">
+    <display-name lang="en">Optus Sport 205</display-name>
+    <url>http://www.optussport.com.au</url>
+  </channel>
+  <channel id="Optus Sport 204">
+    <display-name lang="en">Optus Sport 204</display-name>
+    <url>http://www.optussport.com.au</url>
+  </channel>
+  <channel id="Optus Sport 203">
+    <display-name lang="en">Optus Sport 203</display-name>
+    <url>http://www.optussport.com.au</url>
+  </channel>
+  <channel id="Boxing TV">
+    <display-name lang="en">Boxing TV</display-name>
+    <url>http://www.distro.tv</url>
+  </channel>
+  <channel id="Red Bull TV">
+    <display-name lang="cs">Red Bull TV</display-name>
+    <url>http://www.tv.sms.cz.m</url>
+  </channel>
+  <channel id="Sky Sport Pop-Up 1">
+    <display-name lang="en">Sky Sport Pop-Up 1</display-name>
+    <url>http://www.skygo.co.nz</url>
+  </channel>
+  <channel id="Sky Sport Pop-Up 2">
+    <display-name lang="en">Sky Sport Pop-Up 2</display-name>
+    <url>http://www.skygo.co.nz</url>
+  </channel>
+</tv>
