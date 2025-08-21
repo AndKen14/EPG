@@ -429,7 +429,9 @@
 <programme start="20250821000000 +0000" stop="20250826235959 +0000" channel="B1GLivePPV02.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250821000000 +0000" stop="20250826235959 +0000" channel="B1GLivePPV03.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250821000000 +0000" stop="20250826235959 +0000" channel="B1GLivePPV04.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250821000000 +0000" stop="20250826235959 +0000" channel="B1G UFC00.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250821000000 +0000" stop="20250822045500 +0000" channel="B1G UFC00.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250822045500 +0000" stop="20250822100000 +0000" channel="B1G UFC00.uk"><title lang="en">LIVE | UFC / Triller </title><desc lang="en">LIVE | UFC / Triller TV UFC 00 : FUSION FIGHTING CHAMPIONSHIP 94</desc></programme>
+<programme start="20250822100000 +0000" stop="20250826235959 +0000" channel="B1G UFC00.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250821000000 +0000" stop="20250826235959 +0000" channel="B1G UFC01.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250821000000 +0000" stop="20250826235959 +0000" channel="B1G UFC02.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250821000000 +0000" stop="20250826235959 +0000" channel="B1G UFC03.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
@@ -960,15 +962,31 @@
 <programme start="20250821000000 +0000" stop="20250826235959 +0000" channel="B1GMLS13.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250821000000 +0000" stop="20250826235959 +0000" channel="B1GMLS14.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250821000000 +0000" stop="20250826235959 +0000" channel="B1GMLS15.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250821000000 +0000" stop="20250826235959 +0000" channel="B1GMLB01.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250821000000 +0000" stop="20250826235959 +0000" channel="B1GMLB02.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250821000000 +0000" stop="20250826235959 +0000" channel="B1GMLB03.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250821000000 +0000" stop="20250826235959 +0000" channel="B1GMLB04.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250821000000 +0000" stop="20250826235959 +0000" channel="B1GMLB05.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250821000000 +0000" stop="20250821181000 +0000" channel="B1GMLB01.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250821181000 +0000" stop="20250822012320 +0000" channel="B1GMLB01.uk"><title lang="en">US | MLB MLB 1 | Athl</title><desc lang="en">US | MLB MLB 1 | Athletics x Twins</desc></programme>
+<programme start="20250822012320 +0000" stop="20250826235959 +0000" channel="B1GMLB01.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250821000000 +0000" stop="20250821191000 +0000" channel="B1GMLB02.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250821191000 +0000" stop="20250822022320 +0000" channel="B1GMLB02.uk"><title lang="en">US | MLB MLB 2 | Rang</title><desc lang="en">US | MLB MLB 2 | Rangers x Royals</desc></programme>
+<programme start="20250822022320 +0000" stop="20250826235959 +0000" channel="B1GMLB02.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250821000000 +0000" stop="20250821192000 +0000" channel="B1GMLB03.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250821192000 +0000" stop="20250822023320 +0000" channel="B1GMLB03.uk"><title lang="en">US | MLB MLB 3 | Brew</title><desc lang="en">US | MLB MLB 3 | Brewers x Cubs</desc></programme>
+<programme start="20250822023320 +0000" stop="20250826235959 +0000" channel="B1GMLB03.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250821000000 +0000" stop="20250821201000 +0000" channel="B1GMLB04.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250821201000 +0000" stop="20250822032320 +0000" channel="B1GMLB04.uk"><title lang="en">US | MLB MLB 4 | Dodg</title><desc lang="en">US | MLB MLB 4 | Dodgers x Rockies</desc></programme>
+<programme start="20250822032320 +0000" stop="20250826235959 +0000" channel="B1GMLB04.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250821000000 +0000" stop="20250821210500 +0000" channel="B1GMLB05.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250821210500 +0000" stop="20250822041820 +0000" channel="B1GMLB05.uk"><title lang="en">US | MLB MLB 5 | Mets</title><desc lang="en">US | MLB MLB 5 | Mets x Nationals</desc></programme>
+<programme start="20250822041820 +0000" stop="20250826235959 +0000" channel="B1GMLB05.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250821000000 +0000" stop="20250826235959 +0000" channel="B1GMLB06.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250821000000 +0000" stop="20250826235959 +0000" channel="B1GMLB07.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250821000000 +0000" stop="20250826235959 +0000" channel="B1GMLB08.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250821000000 +0000" stop="20250826235959 +0000" channel="B1GMLB09.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250821000000 +0000" stop="20250822001500 +0000" channel="B1GMLB07.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250822001500 +0000" stop="20250822072820 +0000" channel="B1GMLB07.uk"><title lang="en">US | MLB MLB 7 | Astr</title><desc lang="en">US | MLB MLB 7 | Astros x Orioles</desc></programme>
+<programme start="20250822072820 +0000" stop="20250826235959 +0000" channel="B1GMLB07.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250821000000 +0000" stop="20250822001500 +0000" channel="B1GMLB08.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250822001500 +0000" stop="20250822072820 +0000" channel="B1GMLB08.uk"><title lang="en">US | MLB MLB 8 | Red </title><desc lang="en">US | MLB MLB 8 | Red Sox x Yankees</desc></programme>
+<programme start="20250822072820 +0000" stop="20250826235959 +0000" channel="B1GMLB08.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250821000000 +0000" stop="20250822003500 +0000" channel="B1GMLB09.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250822003500 +0000" stop="20250822074820 +0000" channel="B1GMLB09.uk"><title lang="en">US | MLB MLB 9 | Card</title><desc lang="en">US | MLB MLB 9 | Cardinals x Rays</desc></programme>
+<programme start="20250822074820 +0000" stop="20250826235959 +0000" channel="B1GMLB09.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250821000000 +0000" stop="20250826235959 +0000" channel="B1GMLB10.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250821000000 +0000" stop="20250826235959 +0000" channel="B1GMLB11.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250821000000 +0000" stop="20250826235959 +0000" channel="B1GMLB12.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>

@@ -448,7 +448,7 @@
 <channel id="AUOptusSport09.us"><display-name>Optus Sport 09</display-name><url>https://sky.com</url></channel>
 <channel id="AUOptusSport10.us"><display-name>Optus Sport 10</display-name><url>https://sky.com</url></channel>
 <channel id="AUOptusSport11.us"><display-name>Optus Sport 11</display-name><url>https://sky.com</url></channel>
-<programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="PPVBoxing00.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250821000000 +0000" stop="20250826235959 +0000" channel="PPVBoxing00.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="PPVBoxing01.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="PPVBoxing02.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="PPVBoxing03.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
@@ -460,7 +460,9 @@
 <programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="PPVUFCPPV03.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="PPVUFCPPV04.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="PPVUFCPPV05.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="PPVUFC00.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250821000000 +0000" stop="20250822045500 +0000" channel="PPVUFC00.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250822045500 +0000" stop="20250822100000 +0000" channel="PPVUFC00.us"><title lang="en">PPV| UFC 00 : FUSION </title><desc lang="en">PPV| UFC 00 : FUSION FIGHTING CHAMPIONSHIP 94</desc></programme>
+<programme start="20250822100000 +0000" stop="20250826235959 +0000" channel="PPVUFC00.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="PPVUFC01.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="PPVUFC02.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="PPVUFC03.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
@@ -471,12 +473,24 @@
 <programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="USUFCFeed2.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="USUFCFeed3.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="USUFCFeed4.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="PPVLiveEvent01.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="PPVLiveEvent02.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="PPVLiveEvent03.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="PPVLiveEvent04.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="PPVLiveEvent05.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="PPVLiveEvent06.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250821000000 +0000" stop="20250821220000 +0000" channel="PPVLiveEvent01.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250821220000 +0000" stop="20250822010000 +0000" channel="PPVLiveEvent01.us"><title lang="en">PPV| LIVE EVENT 01 - </title><desc lang="en">PPV| LIVE EVENT 01 - 5PM PDRA Thunder Valley Throwdown</desc></programme>
+<programme start="20250822010000 +0000" stop="20250826235959 +0000" channel="PPVLiveEvent01.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250821000000 +0000" stop="20250821230000 +0000" channel="PPVLiveEvent02.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250821230000 +0000" stop="20250822020000 +0000" channel="PPVLiveEvent02.us"><title lang="en">PPV| LIVE EVENT 02 - </title><desc lang="en">PPV| LIVE EVENT 02 - 6PM Short Track Super Series New Egypt</desc></programme>
+<programme start="20250822020000 +0000" stop="20250826235959 +0000" channel="PPVLiveEvent02.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250821000000 +0000" stop="20250821231500 +0000" channel="PPVLiveEvent03.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250821231500 +0000" stop="20250822021500 +0000" channel="PPVLiveEvent03.us"><title lang="en">PPV| LIVE EVENT 03 - </title><desc lang="en">PPV| LIVE EVENT 03 - 6:15PM USAC Sprint Car Smackdown Kokomo</desc></programme>
+<programme start="20250822021500 +0000" stop="20250826235959 +0000" channel="PPVLiveEvent03.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250821000000 +0000" stop="20250822000000 +0000" channel="PPVLiveEvent04.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250822000000 +0000" stop="20250822030000 +0000" channel="PPVLiveEvent04.us"><title lang="en">PPV| LIVE EVENT 04 - </title><desc lang="en">PPV| LIVE EVENT 04 - 7PM Flying Tiger at Thunder Road</desc></programme>
+<programme start="20250822030000 +0000" stop="20250826235959 +0000" channel="PPVLiveEvent04.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250821000000 +0000" stop="20250822021500 +0000" channel="PPVLiveEvent05.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250822021500 +0000" stop="20250822051500 +0000" channel="PPVLiveEvent05.us"><title lang="en">PPV| LIVE EVENT 05 - </title><desc lang="en">PPV| LIVE EVENT 05 - 9:15PM Kubota HLR Gold Cup Silver Dollar</desc></programme>
+<programme start="20250822051500 +0000" stop="20250826235959 +0000" channel="PPVLiveEvent05.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250821000000 +0000" stop="20250822030000 +0000" channel="PPVLiveEvent06.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250822030000 +0000" stop="20250822060000 +0000" channel="PPVLiveEvent06.us"><title lang="en">PPV| LIVE EVENT 06 - </title><desc lang="en">PPV| LIVE EVENT 06 - 8PM Sooner Showdown Arrowhead</desc></programme>
+<programme start="20250822060000 +0000" stop="20250826235959 +0000" channel="PPVLiveEvent06.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="PPVLiveEvent07.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="PPVLiveEvent08.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="PPVLiveEvent09.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
@@ -508,15 +522,15 @@
 <programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="PPVNetflix01.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="PPVNetflix02.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="PPVNetflix03.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250820000000 +0000" stop="20250821194500 +0000" channel="PPVUEFA01.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250821000000 +0000" stop="20250821194500 +0000" channel="PPVUEFA01.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250821194500 +0000" stop="20250821221500 +0000" channel="PPVUEFA01.us"><title lang="en">PPV| UEFA 01 - Aberde</title><desc lang="en">PPV| UEFA 01 - Aberdeen vs FCSB 7:45pm</desc></programme>
-<programme start="20250821221500 +0000" stop="20250825235959 +0000" channel="PPVUEFA01.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250820000000 +0000" stop="20250821194500 +0000" channel="PPVUEFA02.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250821221500 +0000" stop="20250826235959 +0000" channel="PPVUEFA01.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250821000000 +0000" stop="20250821194500 +0000" channel="PPVUEFA02.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250821194500 +0000" stop="20250821221500 +0000" channel="PPVUEFA02.us"><title lang="en">PPV| UEFA 02 - Shelbo</title><desc lang="en">PPV| UEFA 02 - Shelbourne vs Linfield 7:45pm</desc></programme>
-<programme start="20250821221500 +0000" stop="20250825235959 +0000" channel="PPVUEFA02.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250820000000 +0000" stop="20250821200000 +0000" channel="PPVUEFA03.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250821221500 +0000" stop="20250826235959 +0000" channel="PPVUEFA02.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250821000000 +0000" stop="20250821200000 +0000" channel="PPVUEFA03.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250821200000 +0000" stop="20250821223000 +0000" channel="PPVUEFA03.us"><title lang="en">PPV| UEFA 03 - Crysta</title><desc lang="en">PPV| UEFA 03 - Crystal Palace vs Fredrikstad 8:00pm</desc></programme>
-<programme start="20250821223000 +0000" stop="20250825235959 +0000" channel="PPVUEFA03.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250821223000 +0000" stop="20250826235959 +0000" channel="PPVUEFA03.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="PPVUEFA04.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="PPVUEFA05.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="PPVUEFA06.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
@@ -579,9 +593,7 @@
 <programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="UKLiveFootball31.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="UKLiveFootball32.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="UKSkySport+00.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250820000000 +0000" stop="20250820193000 +0000" channel="UKSkySport+01.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250820193000 +0000" stop="20250820220000 +0000" channel="UKSkySport+01.us"><title lang="en">UK| SKY SPORT+ 01 | N</title><desc lang="en">UK| SKY SPORT+ 01 | Notts County vs Shrewsbury // UK Wed 20 Aug 7:30pm // ET Wed 20 Aug 1:30pm</desc></programme>
-<programme start="20250820220000 +0000" stop="20250825235959 +0000" channel="UKSkySport+01.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="UKSkySport+01.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="UKSkySport+02.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="UKSkySport+03.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="UKSkySport+04.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
@@ -641,9 +653,7 @@
 <programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="AUNRL09.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="AUNRL10.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="AUNRL11.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250820000000 +0000" stop="20250821105000 +0000" channel="UKRugbyLive01.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250821105000 +0000" stop="20250821132000 +0000" channel="UKRugbyLive01.us"><title lang="en">UK| RUGBY LIVE 01: Ra</title><desc lang="en">UK| RUGBY LIVE 01: Rabbitohs vs Dragons 10:50am</desc></programme>
-<programme start="20250821132000 +0000" stop="20250825235959 +0000" channel="UKRugbyLive01.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="UKRugbyLive01.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="UKRugbyLive02.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="UKRugbyLive03.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="UKRugbyLive04.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
@@ -659,15 +669,15 @@
 <programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="UKRugbyLive14.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="UKRugbyLive15.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="UKRugbyLive16.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="UKSuperLeague01.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250821000000 +0000" stop="20250821195500 +0000" channel="UKSuperLeague01.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250821195500 +0000" stop="20250821222500 +0000" channel="UKSuperLeague01.us"><title lang="en">UK| SUPER LEAGUE PLUS</title><desc lang="en">UK| SUPER LEAGUE PLUS EVENT 01 Leeds Rhinos v Hull KR | Betfred Super League Round 23 // UK Thu 21 Aug 7:55pm // ET Thu 21 Aug 2:55pm</desc></programme>
+<programme start="20250821222500 +0000" stop="20250826235959 +0000" channel="UKSuperLeague01.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="UKSuperLeague02.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="UKSuperLeague03.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="UKSuperLeague04.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="UKSuperLeague05.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="UKSuperLeague06.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250820000000 +0000" stop="20250821090500 +0000" channel="PPVFloRugby00.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250821090500 +0000" stop="20250821130500 +0000" channel="PPVFloRugby00.us"><title lang="en">PPV| FLO RUGBY 00 : 2</title><desc lang="en">PPV| FLO RUGBY 00 : 2025 Bay of Plenty vs Southland</desc></programme>
-<programme start="20250821130500 +0000" stop="20250822090500 +0000" channel="PPVFloRugby00.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250821000000 +0000" stop="20250822090500 +0000" channel="PPVFloRugby00.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250822090500 +0000" stop="20250822130500 +0000" channel="PPVFloRugby00.us"><title lang="en">PPV| FLO RUGBY 00 : 2</title><desc lang="en">PPV| FLO RUGBY 00 : 2025 Hawkes Bay vs Canterbury</desc></programme>
 <programme start="20250822130500 +0000" stop="20250822170000 +0000" channel="PPVFloRugby00.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250822170000 +0000" stop="20250822210000 +0000" channel="PPVFloRugby00.us"><title lang="en">PPV| FLO RUGBY 00 : 2</title><desc lang="en">PPV| FLO RUGBY 00 : 2025 Airlink Pumas vs Sanlam Boland Kavaliers</desc></programme>
@@ -683,8 +693,8 @@
 <programme start="20250824040500 +0000" stop="20250824080500 +0000" channel="PPVFloRugby00.us"><title lang="en">PPV| FLO RUGBY 00 : 2</title><desc lang="en">PPV| FLO RUGBY 00 : 2025 Manawatu vs Hawkes Bay - Womens</desc></programme>
 <programme start="20250824080500 +0000" stop="20250824150000 +0000" channel="PPVFloRugby00.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250824150000 +0000" stop="20250824190000 +0000" channel="PPVFloRugby00.us"><title lang="en">PPV| FLO RUGBY 00 : 2</title><desc lang="en">PPV| FLO RUGBY 00 : 2025 Vodacom Bulls vs Suzuki Griquas</desc></programme>
-<programme start="20250824190000 +0000" stop="20250825235959 +0000" channel="PPVFloRugby00.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250820000000 +0000" stop="20250822191000 +0000" channel="PPVFloRugby01.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250824190000 +0000" stop="20250826235959 +0000" channel="PPVFloRugby00.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250821000000 +0000" stop="20250822191000 +0000" channel="PPVFloRugby01.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250822191000 +0000" stop="20250822231000 +0000" channel="PPVFloRugby01.us"><title lang="en">PPV| FLO RUGBY 01 : 2</title><desc lang="en">PPV| FLO RUGBY 01 : 2025 Hollywoodbets Sharks vs Western Province</desc></programme>
 <programme start="20250822231000 +0000" stop="20250823040500 +0000" channel="PPVFloRugby01.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250823040500 +0000" stop="20250823080500 +0000" channel="PPVFloRugby01.us"><title lang="en">PPV| FLO RUGBY 01 : 2</title><desc lang="en">PPV| FLO RUGBY 01 : 2025 Taranaki vs Waikato</desc></programme>
@@ -696,15 +706,15 @@
 <programme start="20250824013500 +0000" stop="20250824053500 +0000" channel="PPVFloRugby01.us"><title lang="en">PPV| FLO RUGBY 01 : 2</title><desc lang="en">PPV| FLO RUGBY 01 : 2025 Otago vs Northland - Womens</desc></programme>
 <programme start="20250824053500 +0000" stop="20250824063500 +0000" channel="PPVFloRugby01.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250824063500 +0000" stop="20250824103500 +0000" channel="PPVFloRugby01.us"><title lang="en">PPV| FLO RUGBY 01 : 2</title><desc lang="en">PPV| FLO RUGBY 01 : 2025 Manawatu vs Wellington</desc></programme>
-<programme start="20250824103500 +0000" stop="20250825235959 +0000" channel="PPVFloRugby01.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250820000000 +0000" stop="20250823040500 +0000" channel="PPVFloRugby02.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250824103500 +0000" stop="20250826235959 +0000" channel="PPVFloRugby01.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250821000000 +0000" stop="20250823040500 +0000" channel="PPVFloRugby02.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250823040500 +0000" stop="20250823080500 +0000" channel="PPVFloRugby02.us"><title lang="en">PPV| FLO RUGBY 02 : 2</title><desc lang="en">PPV| FLO RUGBY 02 : 2025 North Harbour vs Wellington - Womens</desc></programme>
 <programme start="20250823080500 +0000" stop="20250824040500 +0000" channel="PPVFloRugby02.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250824040500 +0000" stop="20250824080500 +0000" channel="PPVFloRugby02.us"><title lang="en">PPV| FLO RUGBY 02 : 2</title><desc lang="en">PPV| FLO RUGBY 02 : 2025 Otago vs Counties Manukau</desc></programme>
-<programme start="20250824080500 +0000" stop="20250825235959 +0000" channel="PPVFloRugby02.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250820000000 +0000" stop="20250823063500 +0000" channel="PPVFloRugby03.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250824080500 +0000" stop="20250826235959 +0000" channel="PPVFloRugby02.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250821000000 +0000" stop="20250823063500 +0000" channel="PPVFloRugby03.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250823063500 +0000" stop="20250823103500 +0000" channel="PPVFloRugby03.us"><title lang="en">PPV| FLO RUGBY 03 : 2</title><desc lang="en">PPV| FLO RUGBY 03 : 2025 North Harbour vs Tasman</desc></programme>
-<programme start="20250823103500 +0000" stop="20250825235959 +0000" channel="PPVFloRugby03.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250823103500 +0000" stop="20250826235959 +0000" channel="PPVFloRugby03.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="PPVFloRugby04.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="PPVFloRugby05.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="PPVFloRugby06.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
@@ -727,48 +737,38 @@
 <programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="USMLSLive16.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="USMLSLive17.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="USMLSLive18.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250820000000 +0000" stop="20250820173500 +0000" channel="USMLBLive01.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250820173500 +0000" stop="20250821004820 +0000" channel="USMLBLive01.us"><title lang="en">US| MLB LIVE 01 | Blu</title><desc lang="en">US| MLB LIVE 01 | Blue Jays x Pirates</desc></programme>
-<programme start="20250821004820 +0000" stop="20250825235959 +0000" channel="USMLBLive01.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250820000000 +0000" stop="20250820180500 +0000" channel="USMLBLive02.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250820180500 +0000" stop="20250821011820 +0000" channel="USMLBLive02.us"><title lang="en">US| MLB LIVE 02 | Mar</title><desc lang="en">US| MLB LIVE 02 | Mariners x Phillies</desc></programme>
-<programme start="20250821011820 +0000" stop="20250825235959 +0000" channel="USMLBLive02.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250820000000 +0000" stop="20250820181000 +0000" channel="USMLBLive03.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250820181000 +0000" stop="20250821012320 +0000" channel="USMLBLive03.us"><title lang="en">US| MLB LIVE 03 | Ast</title><desc lang="en">US| MLB LIVE 03 | Astros x Tigers</desc></programme>
-<programme start="20250821012320 +0000" stop="20250825235959 +0000" channel="USMLBLive03.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250820000000 +0000" stop="20250820204000 +0000" channel="USMLBLive04.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250820204000 +0000" stop="20250821035320 +0000" channel="USMLBLive04.us"><title lang="en">US| MLB LIVE 04 | Gua</title><desc lang="en">US| MLB LIVE 04 | Guardians x D-backs</desc></programme>
-<programme start="20250821035320 +0000" stop="20250825235959 +0000" channel="USMLBLive04.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250820000000 +0000" stop="20250820234000 +0000" channel="USMLBLive05.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250820234000 +0000" stop="20250821065320 +0000" channel="USMLBLive05.us"><title lang="en">US| MLB LIVE 05 | Car</title><desc lang="en">US| MLB LIVE 05 | Cardinals x Marlins</desc></programme>
-<programme start="20250821065320 +0000" stop="20250825235959 +0000" channel="USMLBLive05.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250820000000 +0000" stop="20250820234500 +0000" channel="USMLBLive06.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250820234500 +0000" stop="20250821065820 +0000" channel="USMLBLive06.us"><title lang="en">US| MLB LIVE 06 | Met</title><desc lang="en">US| MLB LIVE 06 | Mets x Nationals</desc></programme>
-<programme start="20250821065820 +0000" stop="20250825235959 +0000" channel="USMLBLive06.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250820000000 +0000" stop="20250821001500 +0000" channel="USMLBLive07.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250821001500 +0000" stop="20250821072820 +0000" channel="USMLBLive07.us"><title lang="en">US| MLB LIVE 07 | Whi</title><desc lang="en">US| MLB LIVE 07 | White Sox x Braves</desc></programme>
-<programme start="20250821072820 +0000" stop="20250825235959 +0000" channel="USMLBLive07.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250820000000 +0000" stop="20250821003500 +0000" channel="USMLBLive08.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250821003500 +0000" stop="20250821074820 +0000" channel="USMLBLive08.us"><title lang="en">US| MLB LIVE 08 | Yan</title><desc lang="en">US| MLB LIVE 08 | Yankees x Rays</desc></programme>
-<programme start="20250821074820 +0000" stop="20250825235959 +0000" channel="USMLBLive08.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250820000000 +0000" stop="20250821004000 +0000" channel="USMLBLive09.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250821004000 +0000" stop="20250821075320 +0000" channel="USMLBLive09.us"><title lang="en">US| MLB LIVE 09 | Ran</title><desc lang="en">US| MLB LIVE 09 | Rangers x Royals</desc></programme>
-<programme start="20250821075320 +0000" stop="20250825235959 +0000" channel="USMLBLive09.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250820000000 +0000" stop="20250821004000 +0000" channel="USMLBLive10.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250821004000 +0000" stop="20250821075320 +0000" channel="USMLBLive10.us"><title lang="en">US| MLB LIVE 10 | Ath</title><desc lang="en">US| MLB LIVE 10 | Athletics x Twins</desc></programme>
-<programme start="20250821075320 +0000" stop="20250825235959 +0000" channel="USMLBLive10.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250820000000 +0000" stop="20250821024000 +0000" channel="USMLBLive11.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250821024000 +0000" stop="20250821095320 +0000" channel="USMLBLive11.us"><title lang="en">US| MLB LIVE 11 | Gia</title><desc lang="en">US| MLB LIVE 11 | Giants x Padres</desc></programme>
-<programme start="20250821095320 +0000" stop="20250825235959 +0000" channel="USMLBLive11.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250820000000 +0000" stop="20250821010500 +0000" channel="USMLBLive12.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250821010500 +0000" stop="20250821081820 +0000" channel="USMLBLive12.us"><title lang="en">US| MLB LIVE 12 | Bre</title><desc lang="en">US| MLB LIVE 12 | Brewers x Cubs</desc></programme>
-<programme start="20250821081820 +0000" stop="20250825235959 +0000" channel="USMLBLive12.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250820000000 +0000" stop="20250821014000 +0000" channel="USMLBLive13.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250821014000 +0000" stop="20250821085320 +0000" channel="USMLBLive13.us"><title lang="en">US| MLB LIVE 13 | Dod</title><desc lang="en">US| MLB LIVE 13 | Dodgers x Rockies</desc></programme>
-<programme start="20250821085320 +0000" stop="20250825235959 +0000" channel="USMLBLive13.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250820000000 +0000" stop="20250821023800 +0000" channel="USMLBLive14.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250821023800 +0000" stop="20250821095120 +0000" channel="USMLBLive14.us"><title lang="en">US| MLB LIVE 14 | Red</title><desc lang="en">US| MLB LIVE 14 | Reds x Angels</desc></programme>
-<programme start="20250821095120 +0000" stop="20250825235959 +0000" channel="USMLBLive14.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250821000000 +0000" stop="20250821181000 +0000" channel="USMLBLive01.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250821181000 +0000" stop="20250822012320 +0000" channel="USMLBLive01.us"><title lang="en">US| MLB LIVE 01 | Ath</title><desc lang="en">US| MLB LIVE 01 | Athletics x Twins</desc></programme>
+<programme start="20250822012320 +0000" stop="20250826235959 +0000" channel="USMLBLive01.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250821000000 +0000" stop="20250821191000 +0000" channel="USMLBLive02.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250821191000 +0000" stop="20250822022320 +0000" channel="USMLBLive02.us"><title lang="en">US| MLB LIVE 02 | Ran</title><desc lang="en">US| MLB LIVE 02 | Rangers x Royals</desc></programme>
+<programme start="20250822022320 +0000" stop="20250826235959 +0000" channel="USMLBLive02.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250821000000 +0000" stop="20250821192000 +0000" channel="USMLBLive03.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250821192000 +0000" stop="20250822023320 +0000" channel="USMLBLive03.us"><title lang="en">US| MLB LIVE 03 | Bre</title><desc lang="en">US| MLB LIVE 03 | Brewers x Cubs</desc></programme>
+<programme start="20250822023320 +0000" stop="20250826235959 +0000" channel="USMLBLive03.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250821000000 +0000" stop="20250821201000 +0000" channel="USMLBLive04.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250821201000 +0000" stop="20250822032320 +0000" channel="USMLBLive04.us"><title lang="en">US| MLB LIVE 04 | Dod</title><desc lang="en">US| MLB LIVE 04 | Dodgers x Rockies</desc></programme>
+<programme start="20250822032320 +0000" stop="20250826235959 +0000" channel="USMLBLive04.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250821000000 +0000" stop="20250821210500 +0000" channel="USMLBLive05.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250821210500 +0000" stop="20250822041820 +0000" channel="USMLBLive05.us"><title lang="en">US| MLB LIVE 05 | Met</title><desc lang="en">US| MLB LIVE 05 | Mets x Nationals</desc></programme>
+<programme start="20250822041820 +0000" stop="20250826235959 +0000" channel="USMLBLive05.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250821000000 +0000" stop="20250821211000 +0000" channel="USMLBLive06.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250821211000 +0000" stop="20250822042320 +0000" channel="USMLBLive06.us"><title lang="en">US| MLB LIVE 06 | Gia</title><desc lang="en">US| MLB LIVE 06 | Giants x Padres</desc></programme>
+<programme start="20250822042320 +0000" stop="20250826235959 +0000" channel="USMLBLive06.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250821000000 +0000" stop="20250822001500 +0000" channel="USMLBLive07.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250822001500 +0000" stop="20250822072820 +0000" channel="USMLBLive07.us"><title lang="en">US| MLB LIVE 07 | Ast</title><desc lang="en">US| MLB LIVE 07 | Astros x Orioles</desc></programme>
+<programme start="20250822072820 +0000" stop="20250826235959 +0000" channel="USMLBLive07.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250821000000 +0000" stop="20250822001500 +0000" channel="USMLBLive08.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250822001500 +0000" stop="20250822072820 +0000" channel="USMLBLive08.us"><title lang="en">US| MLB LIVE 08 | Red</title><desc lang="en">US| MLB LIVE 08 | Red Sox x Yankees</desc></programme>
+<programme start="20250822072820 +0000" stop="20250826235959 +0000" channel="USMLBLive08.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250821000000 +0000" stop="20250822003500 +0000" channel="USMLBLive09.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250822003500 +0000" stop="20250822074820 +0000" channel="USMLBLive09.us"><title lang="en">US| MLB LIVE 09 | Car</title><desc lang="en">US| MLB LIVE 09 | Cardinals x Rays</desc></programme>
+<programme start="20250822074820 +0000" stop="20250826235959 +0000" channel="USMLBLive09.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="USMLBLive10.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="USMLBLive11.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="USMLBLive12.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="USMLBLive13.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="USMLBLive14.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="USMLBLive15.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="USMLBLive16.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="USMLBLive17.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
@@ -787,20 +787,30 @@
 <programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="USNBALive13.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="USNBALive14.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="USNBALive15.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250820000000 +0000" stop="20250821030000 +0000" channel="USWNBALive01.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250821030000 +0000" stop="20250821050000 +0000" channel="USWNBALive01.us"><title lang="en">US| WNBA GAME 01 Dall</title><desc lang="en">US| WNBA GAME 01 Dallas Wings @ Los Angeles Sparks</desc></programme>
-<programme start="20250821050000 +0000" stop="20250825235959 +0000" channel="USWNBALive01.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="USWNBALive02.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="USWNBALive03.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="USWNBALive04.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250821000000 +0000" stop="20250822000000 +0000" channel="USWNBALive01.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250822000000 +0000" stop="20250822020000 +0000" channel="USWNBALive01.us"><title lang="en">US| WNBA GAME 01 Wash</title><desc lang="en">US| WNBA GAME 01 Washington Mystics @ Connecticut Sun</desc></programme>
+<programme start="20250822020000 +0000" stop="20250826235959 +0000" channel="USWNBALive01.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250821000000 +0000" stop="20250822030000 +0000" channel="USWNBALive02.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250822030000 +0000" stop="20250822050000 +0000" channel="USWNBALive02.us"><title lang="en">US| WNBA GAME 02 Phoe</title><desc lang="en">US| WNBA GAME 02 Phoenix Mercury @ Las Vegas Aces</desc></programme>
+<programme start="20250822050000 +0000" stop="20250826235959 +0000" channel="USWNBALive02.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250821000000 +0000" stop="20250822000000 +0000" channel="USWNBALive03.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250822000000 +0000" stop="20250822020000 +0000" channel="USWNBALive03.us"><title lang="en">US| WNBA GAME 03 Chic</title><desc lang="en">US| WNBA GAME 03 Chicago Sky @ New York Liberty</desc></programme>
+<programme start="20250822020000 +0000" stop="20250826235959 +0000" channel="USWNBALive03.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250821000000 +0000" stop="20250822003000 +0000" channel="USWNBALive04.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250822003000 +0000" stop="20250822023000 +0000" channel="USWNBALive04.us"><title lang="en">US| WNBA GAME 04 Minn</title><desc lang="en">US| WNBA GAME 04 Minnesota Lynx @ Atlanta Dream</desc></programme>
+<programme start="20250822023000 +0000" stop="20250826235959 +0000" channel="USWNBALive04.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="USWNBALive05.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="USWNBALive06.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="USWNBALive07.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="USWNBALive08.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="USWNBALive09.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="USWNBALive10.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="USNFLLive01.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="USNFLLive02.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250821000000 +0000" stop="20250822000000 +0000" channel="USNFLLive01.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250822000000 +0000" stop="20250822033000 +0000" channel="USNFLLive01.us"><title lang="en">US| NFL LIVE 01 - 7PM</title><desc lang="en">US| NFL LIVE 01 - 7PM Steelers at Panthers</desc></programme>
+<programme start="20250822033000 +0000" stop="20250826235959 +0000" channel="USNFLLive01.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250821000000 +0000" stop="20250822010000 +0000" channel="USNFLLive02.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250822010000 +0000" stop="20250822043000 +0000" channel="USNFLLive02.us"><title lang="en">US| NFL LIVE 02 - 8PM</title><desc lang="en">US| NFL LIVE 02 - 8PM Patriots at Giants</desc></programme>
+<programme start="20250822043000 +0000" stop="20250826235959 +0000" channel="USNFLLive02.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="USNFLLive03.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="USNFLLive04.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="USNFLLive05.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
@@ -831,40 +841,34 @@
 <programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="USNHLLive14.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="USNHLLive15.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="USNHLLive16.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250820000000 +0000" stop="20250820190000 +0000" channel="CADAZNEvent01.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250820190000 +0000" stop="20250820213000 +0000" channel="CADAZNEvent01.us"><title lang="en">VIP-CA| DAZN CA 01 | </title><desc lang="en">VIP-CA| DAZN CA 01 | Nigeria vs Senegal // UK Wed 20 Aug 7:00pm // ET Wed 20 Aug 2:00pm</desc></programme>
-<programme start="20250820213000 +0000" stop="20250821130000 +0000" channel="CADAZNEvent01.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250821130000 +0000" stop="20250821153000 +0000" channel="CADAZNEvent01.us"><title lang="en">VIP-CA| DAZN CA 01 | </title><desc lang="en">VIP-CA| DAZN CA 01 | Rafferty vs Chamberlain Press Conference // UK Thu 21 Aug 1:00pm // ET Thu 21 Aug 8:00am</desc></programme>
-<programme start="20250821153000 +0000" stop="20250825235959 +0000" channel="CADAZNEvent01.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250820000000 +0000" stop="20250820220000 +0000" channel="CADAZNEvent02.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250820220000 +0000" stop="20250821020000 +0000" channel="CADAZNEvent02.us"><title lang="en">VIP-CA| DAZN CA 02 | </title><desc lang="en">VIP-CA| DAZN CA 02 | Monterrey Open Day 3 // UK Wed 20 Aug 10:00pm // ET Wed 20 Aug 5:00pm</desc></programme>
-<programme start="20250821020000 +0000" stop="20250825235959 +0000" channel="CADAZNEvent02.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250821000000 +0000" stop="20250821200000 +0000" channel="CADAZNEvent01.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250821200000 +0000" stop="20250821223000 +0000" channel="CADAZNEvent01.us"><title lang="en">CA-VIP| DAZN CA 01 | </title><desc lang="en">CA-VIP| DAZN CA 01 | Spain vs Germany // UK Thu 21 Aug 8:00pm // ET Thu 21 Aug 3:00pm</desc></programme>
+<programme start="20250821223000 +0000" stop="20250826235959 +0000" channel="CADAZNEvent01.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250821000000 +0000" stop="20250821210000 +0000" channel="CADAZNEvent02.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250821210000 +0000" stop="20250821223000 +0000" channel="CADAZNEvent02.us"><title lang="en">CA-VIP| DAZN CA 02 | </title><desc lang="en">CA-VIP| DAZN CA 02 | Rivera vs Cordova Press Conference // UK Thu 21 Aug 9:00pm // ET Thu 21 Aug 4:00pm</desc></programme>
+<programme start="20250821223000 +0000" stop="20250826235959 +0000" channel="CADAZNEvent02.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="CADAZNEvent03.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="CADAZNEvent04.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="CADAZNEvent05.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="CADAZNEvent06.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="CADAZNEvent07.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250821000000 +0000" stop="20250821223000 +0000" channel="CADAZNEvent04.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250821223000 +0000" stop="20250822013000 +0000" channel="CADAZNEvent04.us"><title lang="en">CA-VIP| DAZN CA 04 | </title><desc lang="en">CA-VIP| DAZN CA 04 | PFL World Tournament Finals // UK Thu 21 Aug 10:30pm // ET Thu 21 Aug 5:30pm</desc></programme>
+<programme start="20250822013000 +0000" stop="20250826235959 +0000" channel="CADAZNEvent04.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250821000000 +0000" stop="20250821223000 +0000" channel="CADAZNEvent05.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250821223000 +0000" stop="20250822000000 +0000" channel="CADAZNEvent05.us"><title lang="en">CA-VIP| DAZN CA 05 | </title><desc lang="en">CA-VIP| DAZN CA 05 | Rivera vs Bailey WeighIn // UK Thu 21 Aug 10:30pm // ET Thu 21 Aug 5:30pm</desc></programme>
+<programme start="20250822000000 +0000" stop="20250826235959 +0000" channel="CADAZNEvent05.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250821000000 +0000" stop="20250822000000 +0000" channel="CADAZNEvent06.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250822000000 +0000" stop="20250822033000 +0000" channel="CADAZNEvent06.us"><title lang="en">CA-VIP| DAZN CA 06 | </title><desc lang="en">CA-VIP| DAZN CA 06 | Steelers @ Panthers // UK Fri 22 Aug 12:00am // ET Thu 21 Aug 7:00pm</desc></programme>
+<programme start="20250822033000 +0000" stop="20250826235959 +0000" channel="CADAZNEvent06.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250821000000 +0000" stop="20250822010000 +0000" channel="CADAZNEvent07.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250822010000 +0000" stop="20250822043000 +0000" channel="CADAZNEvent07.us"><title lang="en">CA-VIP| DAZN CA 07 | </title><desc lang="en">CA-VIP| DAZN CA 07 | Patriots @ Giants // UK Fri 22 Aug 1:00am // ET Thu 21 Aug 8:00pm</desc></programme>
+<programme start="20250822043000 +0000" stop="20250826235959 +0000" channel="CADAZNEvent07.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="CADAZNEvent08.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="CADAZNEvent09.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="CADAZNEvent10.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250820000000 +0000" stop="20250820200000 +0000" channel="CADAZNEvent11.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250820200000 +0000" stop="20250820223000 +0000" channel="CADAZNEvent11.us"><title lang="en">CA| DAZN CA 11 | Fene</title><desc lang="en">CA| DAZN CA 11 | Fenerbahce vs Benfica // UK Wed 20 Aug 8:00pm // ET Wed 20 Aug 3:00pm</desc></programme>
-<programme start="20250820223000 +0000" stop="20250825235959 +0000" channel="CADAZNEvent11.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250820000000 +0000" stop="20250820200000 +0000" channel="CADAZNEvent12.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250820200000 +0000" stop="20250820223000 +0000" channel="CADAZNEvent12.us"><title lang="en">CA| DAZN CA 12 | Celt</title><desc lang="en">CA| DAZN CA 12 | Celtic vs Kairat // UK Wed 20 Aug 8:00pm // ET Wed 20 Aug 3:00pm</desc></programme>
-<programme start="20250820223000 +0000" stop="20250825235959 +0000" channel="CADAZNEvent12.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250820000000 +0000" stop="20250820200000 +0000" channel="CADAZNEvent13.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250820200000 +0000" stop="20250820223000 +0000" channel="CADAZNEvent13.us"><title lang="en">CA| DAZN CA 13 | Fene</title><desc lang="en">CA| DAZN CA 13 | Fenerbahce vs Benfica (Commentaires en Francais) // UK Wed 20 Aug 8:00pm // ET Wed 20 Aug 3:00pm</desc></programme>
-<programme start="20250820223000 +0000" stop="20250825235959 +0000" channel="CADAZNEvent13.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250820000000 +0000" stop="20250820200000 +0000" channel="CADAZNEvent14.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250820200000 +0000" stop="20250820223000 +0000" channel="CADAZNEvent14.us"><title lang="en">CA| DAZN CA 14 | Bodo</title><desc lang="en">CA| DAZN CA 14 | Bodo/Glimt vs Sturm Graz // UK Wed 20 Aug 8:00pm // ET Wed 20 Aug 3:00pm</desc></programme>
-<programme start="20250820223000 +0000" stop="20250825235959 +0000" channel="CADAZNEvent14.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250820000000 +0000" stop="20250820200000 +0000" channel="CADAZNEvent15.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250820200000 +0000" stop="20250820223000 +0000" channel="CADAZNEvent15.us"><title lang="en">CA| DAZN CA 15 | Base</title><desc lang="en">CA| DAZN CA 15 | Basel vs Copenhagen // UK Wed 20 Aug 8:00pm // ET Wed 20 Aug 3:00pm</desc></programme>
-<programme start="20250820223000 +0000" stop="20250825235959 +0000" channel="CADAZNEvent15.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250820000000 +0000" stop="20250820200000 +0000" channel="CADAZNEvent16.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250820200000 +0000" stop="20250820223000 +0000" channel="CADAZNEvent16.us"><title lang="en">CA| DAZN CA 16 | Bolt</title><desc lang="en">CA| DAZN CA 16 | Bolton vs Reading // UK Wed 20 Aug 8:00pm // ET Wed 20 Aug 3:00pm</desc></programme>
-<programme start="20250820223000 +0000" stop="20250825235959 +0000" channel="CADAZNEvent16.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="CADAZNEvent11.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="CADAZNEvent12.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="CADAZNEvent13.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="CADAZNEvent14.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="CADAZNEvent15.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="CADAZNEvent16.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="CADAZNEvent17.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="CADAZNEvent18.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="CADAZNEvent19.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
@@ -879,14 +883,22 @@
 <programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="CADAZNEvent28.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="CADAZNEvent29.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="CADAZNEvent30.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250820000000 +0000" stop="20250820194500 +0000" channel="UKDAZNEvent01.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250820194500 +0000" stop="20250820231000 +0000" channel="UKDAZNEvent01.us"><title lang="en">UK-VIP| DAZN UK 01 : </title><desc lang="en">UK-VIP| DAZN UK 01 : Southend vs. York</desc></programme>
-<programme start="20250820231000 +0000" stop="20250825235959 +0000" channel="UKDAZNEvent01.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="UKDAZNEvent02.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250820000000 +0000" stop="20250820194500 +0000" channel="UKDAZNEvent03.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250820194500 +0000" stop="20250820231000 +0000" channel="UKDAZNEvent03.us"><title lang="en">UK-VIP| DAZN UK 03 : </title><desc lang="en">UK-VIP| DAZN UK 03 : Yeovil vs. Brackley</desc></programme>
-<programme start="20250820231000 +0000" stop="20250825235959 +0000" channel="UKDAZNEvent03.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="UKDAZNEvent04.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250821000000 +0000" stop="20250821210000 +0000" channel="UKDAZNEvent01.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250821210000 +0000" stop="20250822040000 +0000" channel="UKDAZNEvent01.us"><title lang="en">UK-VIP| DAZN UK 01 : </title><desc lang="en">UK-VIP| DAZN UK 01 : Rivera vs. Cordova: Press Conference</desc></programme>
+<programme start="20250822040000 +0000" stop="20250826235959 +0000" channel="UKDAZNEvent01.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250821000000 +0000" stop="20250821200000 +0000" channel="UKDAZNEvent02.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250821200000 +0000" stop="20250821221700 +0000" channel="UKDAZNEvent02.us"><title lang="en">UK-VIP| DAZN UK 02 : </title><desc lang="en">UK-VIP| DAZN UK 02 : Spain vs. Germany</desc></programme>
+<programme start="20250821221700 +0000" stop="20250821223000 +0000" channel="UKDAZNEvent02.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250821223000 +0000" stop="20250822004700 +0000" channel="UKDAZNEvent02.us"><title lang="en">UK-VIP| DAZN UK 02 : </title><desc lang="en">UK-VIP| DAZN UK 02 : PFL World Tournament: Finals</desc></programme>
+<programme start="20250822004700 +0000" stop="20250822010000 +0000" channel="UKDAZNEvent02.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250822010000 +0000" stop="20250822031700 +0000" channel="UKDAZNEvent02.us"><title lang="en">UK-VIP| DAZN UK 02 : </title><desc lang="en">UK-VIP| DAZN UK 02 : Patriots @ Giants</desc></programme>
+<programme start="20250822031700 +0000" stop="20250826235959 +0000" channel="UKDAZNEvent02.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250821000000 +0000" stop="20250821223000 +0000" channel="UKDAZNEvent03.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250821223000 +0000" stop="20250822053000 +0000" channel="UKDAZNEvent03.us"><title lang="en">UK-VIP| DAZN UK 03 : </title><desc lang="en">UK-VIP| DAZN UK 03 : Rivera vs. Bailey: Weigh-In</desc></programme>
+<programme start="20250822053000 +0000" stop="20250826235959 +0000" channel="UKDAZNEvent03.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250821000000 +0000" stop="20250822000000 +0000" channel="UKDAZNEvent04.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250822000000 +0000" stop="20250822021700 +0000" channel="UKDAZNEvent04.us"><title lang="en">UK-VIP| DAZN UK 04 : </title><desc lang="en">UK-VIP| DAZN UK 04 : Steelers @ Panthers</desc></programme>
+<programme start="20250822021700 +0000" stop="20250826235959 +0000" channel="UKDAZNEvent04.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="UKDAZNEvent05.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="UKDAZNEvent06.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="UKDAZNEvent07.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
@@ -964,19 +976,21 @@
 <programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="Amazon11.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="Amazon12.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="AUStanSportEvent01.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250820000000 +0000" stop="20250820195500 +0000" channel="AUStanSportEvent02.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250820195500 +0000" stop="20250820222500 +0000" channel="AUStanSportEvent02.us"><title lang="en">AU| STAN SPORT AU EVE</title><desc lang="en">AU| STAN SPORT AU EVENT 02 | Celtic v Kairat Almaty - UEFA Champions League 2025/26 // Wed 20 Aug 2025 19:55</desc></programme>
-<programme start="20250820222500 +0000" stop="20250825235959 +0000" channel="AUStanSportEvent02.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250820000000 +0000" stop="20250821000000 +0000" channel="AUStanSportEvent03.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250821000000 +0000" stop="20250821023000 +0000" channel="AUStanSportEvent03.us"><title lang="en">AU| STAN SPORT AU EVE</title><desc lang="en">AU| STAN SPORT AU EVENT 03 | Day 2 Mixed Doubles - US Open 2025 // Thu 21 Aug 2025 00:00</desc></programme>
-<programme start="20250821023000 +0000" stop="20250825235959 +0000" channel="AUStanSportEvent03.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250820000000 +0000" stop="20250821080000 +0000" channel="AUStanSportEvent04.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250821080000 +0000" stop="20250821103000 +0000" channel="AUStanSportEvent04.us"><title lang="en">AU| STAN SPORT AU EVE</title><desc lang="en">AU| STAN SPORT AU EVENT 04 | Bay of Plenty v Southland - NPC Round 4 2025 // Thu 21 Aug 2025 08:00</desc></programme>
-<programme start="20250821103000 +0000" stop="20250825235959 +0000" channel="AUStanSportEvent04.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="AUStanSportEvent05.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="AUStanSportEvent06.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="AUStanSportEvent07.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="AUStanSportEvent08.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="AUStanSportEvent02.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="AUStanSportEvent03.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="AUStanSportEvent04.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250821000000 +0000" stop="20250821223000 +0000" channel="AUStanSportEvent05.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250821223000 +0000" stop="20250822013000 +0000" channel="AUStanSportEvent05.us"><title lang="en">AU| STAN SPORT AU EVE</title><desc lang="en">AU| STAN SPORT AU EVENT 05 | World Tournament 10 Finals - PFL 2025 // Thu 21 Aug 2025 22:30</desc></programme>
+<programme start="20250822013000 +0000" stop="20250826235959 +0000" channel="AUStanSportEvent05.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250821000000 +0000" stop="20250822000000 +0000" channel="AUStanSportEvent06.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250822000000 +0000" stop="20250822023000 +0000" channel="AUStanSportEvent06.us"><title lang="en">AU| STAN SPORT AU EVE</title><desc lang="en">AU| STAN SPORT AU EVENT 06 | Stars of the Open - US Open 2025 // Fri 22 Aug 2025 00:00</desc></programme>
+<programme start="20250822023000 +0000" stop="20250826235959 +0000" channel="AUStanSportEvent06.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250821000000 +0000" stop="20250822080000 +0000" channel="AUStanSportEvent07.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250822080000 +0000" stop="20250822103000 +0000" channel="AUStanSportEvent07.us"><title lang="en">AU| STAN SPORT AU EVE</title><desc lang="en">AU| STAN SPORT AU EVENT 07 | Hawke's Bay v Canterbury - NPC Round 4 2025 // Fri 22 Aug 2025 08:00</desc></programme>
+<programme start="20250822103000 +0000" stop="20250826235959 +0000" channel="AUStanSportEvent07.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250821000000 +0000" stop="20250822105500 +0000" channel="AUStanSportEvent08.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250822105500 +0000" stop="20250822132500 +0000" channel="AUStanSportEvent08.us"><title lang="en">AU| STAN SPORT AU EVE</title><desc lang="en">AU| STAN SPORT AU EVENT 08 | Kashiwa Reysol v Urawa Red Diamonds - J.League 2025 // Fri 22 Aug 2025 10:55</desc></programme>
+<programme start="20250822132500 +0000" stop="20250826235959 +0000" channel="AUStanSportEvent08.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="AUStanSportEvent09.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="AUStanSportEvent10.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250820000000 +0000" stop="20250825235959 +0000" channel="AUStanSportEvent11.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
