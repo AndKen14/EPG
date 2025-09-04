@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tv generator-info-name="AK.ppv">
+  <channel id="B1GUKDAZN44a.uk">
+    <display-name lang="GB">B1G UK DAZN 44</display-name>
+  </channel>
+  <programme channel="B1GUKDAZN44a.uk" start="20250903000000 +0000" stop="20250906030000 +0000">
+    <title lang="zh">Program Coming Soon..</title>
+    <desc>Program Coming Soon..</desc>
+  </programme>
+  <programme channel="B1GUKDAZN44a.uk" start="20250906030000 +0000" stop="20250906060000 +0000">
+    <title lang="zh">SPORTS | DAZN CA/UK/U</title>
+    <desc>SPORTS | DAZN CA/UK/US GB-DAZN 43: Enterprise National League North & South| Dagenham & Redbridge vs. Worthing| Sat 06 Sep 3:00 PM</desc>
+  </programme>
+  <programme channel="B1GUKDAZN44a.uk" start="20250906060000 +0000" stop="20250908235959 +0000">
+    <title lang="zh">Program Coming Soon..</title>
+    <desc>Program Coming Soon..</desc>
+  </programme>
+</tv>
