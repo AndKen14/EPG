@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tv generator-info-name="AK.ppv">
+  <channel id="B1GUKDAZN44a.uk">
+    <display-name lang="GB">B1G UK DAZN 44a</display-name>
+  </channel>
+  <programme start="20250903000000 +0000" stop="20250906030000 +0000" channel="B1GUKDAZN44a.uk">
+    <title lang="en">Program Coming Soon..</title>
+    <desc lang="en">Program Coming Soon..</desc>
+  </programme>
+  <programme start="20250906030000 +0000" stop="20250906060000 +0000" channel="B1GUKDAZN44a.uk">
+    <title lang="en">Test Program Title..</title>
+    <desc lang="en">Test Program Description..</desc>
+  </programme>
+  <programme start="20250906060000 +0000" stop="20250908235959 +0000" channel="B1GUKDAZN44a.uk">
+    <title lang="en">Program Coming Soon..</title>
+    <desc lang="en">Program Coming Soon..</desc>
+  </programme>
+</tv>
