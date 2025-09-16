@@ -1,4 +1,32 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20250829">
+<channel id="CATSN+041.us"><display-name>CA TSN+ 041</display-name><url>https://sky.com</url></channel>
+<channel id="CASportsNet08.us"><display-name>CA SportsNet 08</display-name><url>https://sky.com</url></channel>
+<channel id="USESPN+028.us"><display-name>ESPN+ 028</display-name><url>https://sky.com</url></channel>
+<channel id="USESPN+029.us"><display-name>ESPN+ 029</display-name><url>https://sky.com</url></channel>
+<channel id="CASN+008.us"><display-name>CA SN+ 008</display-name><url>https://sky.com</url></channel>
+<channel id="CASN+009.us"><display-name>CA SN+ 009</display-name><url>https://sky.com</url></channel>
+<channel id="CASN+010.us"><display-name>CA SN+ 010</display-name><url>https://sky.com</url></channel>
+<channel id="CASN+011.us"><display-name>CA SN+ 011</display-name><url>https://sky.com</url></channel>
+<channel id="CASN+012.us"><display-name>CA SN+ 012</display-name><url>https://sky.com</url></channel>
+<channel id="CASN+013.us"><display-name>CA SN+ 013</display-name><url>https://sky.com</url></channel>
+<channel id="CASN+014.us"><display-name>CA SN+ 014</display-name><url>https://sky.com</url></channel>
+<channel id="CASN+015.us"><display-name>CA SN+ 015</display-name><url>https://sky.com</url></channel>
+<channel id="CASN+016.us"><display-name>CA SN+ 016</display-name><url>https://sky.com</url></channel>
+<channel id="CASN+017.us"><display-name>CA SN+ 017</display-name><url>https://sky.com</url></channel>
+<channel id="CASN+018.us"><display-name>CA SN+ 018</display-name><url>https://sky.com</url></channel>
+<channel id="CASN+019.us"><display-name>CA SN+ 019</display-name><url>https://sky.com</url></channel>
+<channel id="CASN+020.us"><display-name>CA SN+ 020</display-name><url>https://sky.com</url></channel>
+<channel id="CASN+021.us"><display-name>CA SN+ 021</display-name><url>https://sky.com</url></channel>
+<channel id="CASN+022.us"><display-name>CA SN+ 022</display-name><url>https://sky.com</url></channel>
+<channel id="CASN+023.us"><display-name>CA SN+ 023</display-name><url>https://sky.com</url></channel>
+<channel id="CASN+024.us"><display-name>CA SN+ 024</display-name><url>https://sky.com</url></channel>
+<channel id="CASN+025.us"><display-name>CA SN+ 025</display-name><url>https://sky.com</url></channel>
+<channel id="CATSN+003.us"><display-name>CA TSN+ 003</display-name><url>https://sky.com</url></channel>
+<channel id="CATSN+004.us"><display-name>CA TSN+ 004</display-name><url>https://sky.com</url></channel>
+<channel id="CATSN+005.us"><display-name>CA TSN+ 005</display-name><url>https://sky.com</url></channel>
+<channel id="CATSN+006.us"><display-name>CA TSN+ 006</display-name><url>https://sky.com</url></channel>
+<channel id="CATSN+007.us"><display-name>CA TSN+ 007</display-name><url>https://sky.com</url></channel>
+<channel id="CATSN+008.us"><display-name>CA TSN+ 008</display-name><url>https://sky.com</url></channel>
 <channel id="IELOITV01.us"><display-name>LOI TV 01</display-name><url>https://sky.com</url></channel>
 <channel id="IELOITV02.us"><display-name>LOI TV 02</display-name><url>https://sky.com</url></channel>
 <channel id="IELOITV03.us"><display-name>LOI TV 03</display-name><url>https://sky.com</url></channel>
@@ -76,8 +104,6 @@
 <channel id="USESPN+025.us"><display-name>ESPN+ 025</display-name><url>https://sky.com</url></channel>
 <channel id="USESPN+026.us"><display-name>ESPN+ 026</display-name><url>https://sky.com</url></channel>
 <channel id="USESPN+027.us"><display-name>ESPN+ 027</display-name><url>https://sky.com</url></channel>
-<channel id="USESPN+028.us"><display-name>ESPN+ 028</display-name><url>https://sky.com</url></channel>
-<channel id="USESPN+029.us"><display-name>ESPN+ 029</display-name><url>https://sky.com</url></channel>
 <channel id="USESPN+030.us"><display-name>ESPN+ 030</display-name><url>https://sky.com</url></channel>
 <channel id="USESPN+031.us"><display-name>ESPN+ 031</display-name><url>https://sky.com</url></channel>
 <channel id="USESPN+032.us"><display-name>ESPN+ 032</display-name><url>https://sky.com</url></channel>
@@ -502,24 +528,6 @@
 <channel id="CASN+005.us"><display-name>CA SN+ 005</display-name><url>https://sky.com</url></channel>
 <channel id="CASN+006.us"><display-name>CA SN+ 006</display-name><url>https://sky.com</url></channel>
 <channel id="CASN+007.us"><display-name>CA SN+ 007</display-name><url>https://sky.com</url></channel>
-<channel id="CASN+008.us"><display-name>CA SN+ 008</display-name><url>https://sky.com</url></channel>
-<channel id="CASN+009.us"><display-name>CA SN+ 009</display-name><url>https://sky.com</url></channel>
-<channel id="CASN+010.us"><display-name>CA SN+ 010</display-name><url>https://sky.com</url></channel>
-<channel id="CASN+011.us"><display-name>CA SN+ 011</display-name><url>https://sky.com</url></channel>
-<channel id="CASN+012.us"><display-name>CA SN+ 012</display-name><url>https://sky.com</url></channel>
-<channel id="CASN+013.us"><display-name>CA SN+ 013</display-name><url>https://sky.com</url></channel>
-<channel id="CASN+014.us"><display-name>CA SN+ 014</display-name><url>https://sky.com</url></channel>
-<channel id="CASN+015.us"><display-name>CA SN+ 015</display-name><url>https://sky.com</url></channel>
-<channel id="CASN+016.us"><display-name>CA SN+ 016</display-name><url>https://sky.com</url></channel>
-<channel id="CASN+017.us"><display-name>CA SN+ 017</display-name><url>https://sky.com</url></channel>
-<channel id="CASN+018.us"><display-name>CA SN+ 018</display-name><url>https://sky.com</url></channel>
-<channel id="CASN+019.us"><display-name>CA SN+ 019</display-name><url>https://sky.com</url></channel>
-<channel id="CASN+020.us"><display-name>CA SN+ 020</display-name><url>https://sky.com</url></channel>
-<channel id="CASN+021.us"><display-name>CA SN+ 021</display-name><url>https://sky.com</url></channel>
-<channel id="CASN+022.us"><display-name>CA SN+ 022</display-name><url>https://sky.com</url></channel>
-<channel id="CASN+023.us"><display-name>CA SN+ 023</display-name><url>https://sky.com</url></channel>
-<channel id="CASN+024.us"><display-name>CA SN+ 024</display-name><url>https://sky.com</url></channel>
-<channel id="CASN+025.us"><display-name>CA SN+ 025</display-name><url>https://sky.com</url></channel>
 <channel id="CASN+026.us"><display-name>CA SN+ 026</display-name><url>https://sky.com</url></channel>
 <channel id="CASN+027.us"><display-name>CA SN+ 027</display-name><url>https://sky.com</url></channel>
 <channel id="CASN+028.us"><display-name>CA SN+ 028</display-name><url>https://sky.com</url></channel>
@@ -597,12 +605,6 @@
 <channel id="CASN+100.us"><display-name>CA SN+ 100</display-name><url>https://sky.com</url></channel>
 <channel id="CATSN+001.us"><display-name>CA TSN+ 001</display-name><url>https://sky.com</url></channel>
 <channel id="CATSN+002.us"><display-name>CA TSN+ 002</display-name><url>https://sky.com</url></channel>
-<channel id="CATSN+003.us"><display-name>CA TSN+ 003</display-name><url>https://sky.com</url></channel>
-<channel id="CATSN+004.us"><display-name>CA TSN+ 004</display-name><url>https://sky.com</url></channel>
-<channel id="CATSN+005.us"><display-name>CA TSN+ 005</display-name><url>https://sky.com</url></channel>
-<channel id="CATSN+006.us"><display-name>CA TSN+ 006</display-name><url>https://sky.com</url></channel>
-<channel id="CATSN+007.us"><display-name>CA TSN+ 007</display-name><url>https://sky.com</url></channel>
-<channel id="CATSN+008.us"><display-name>CA TSN+ 008</display-name><url>https://sky.com</url></channel>
 <channel id="CATSN+009.us"><display-name>CA TSN+ 009</display-name><url>https://sky.com</url></channel>
 <channel id="CATSN+010.us"><display-name>CA TSN+ 010</display-name><url>https://sky.com</url></channel>
 <channel id="CATSN+011.us"><display-name>CA TSN+ 011</display-name><url>https://sky.com</url></channel>
@@ -635,7 +637,6 @@
 <channel id="CATSN+038.us"><display-name>CA TSN+ 038</display-name><url>https://sky.com</url></channel>
 <channel id="CATSN+039.us"><display-name>CA TSN+ 039</display-name><url>https://sky.com</url></channel>
 <channel id="CATSN+040.us"><display-name>CA TSN+ 040</display-name><url>https://sky.com</url></channel>
-<channel id="CATSN+041.us"><display-name>CA TSN+ 041</display-name><url>https://sky.com</url></channel>
 <channel id="CATSN+042.us"><display-name>CA TSN+ 042</display-name><url>https://sky.com</url></channel>
 <channel id="CATSN+043.us"><display-name>CA TSN+ 043</display-name><url>https://sky.com</url></channel>
 <channel id="CATSN+044.us"><display-name>CA TSN+ 044</display-name><url>https://sky.com</url></channel>
@@ -702,7 +703,6 @@
 <channel id="CASportsNet05.us"><display-name>CA SportsNet 05</display-name><url>https://sky.com</url></channel>
 <channel id="CASportsNet06.us"><display-name>CA SportsNet 06</display-name><url>https://sky.com</url></channel>
 <channel id="CASportsNet07.us"><display-name>CA SportsNet 07</display-name><url>https://sky.com</url></channel>
-<channel id="CASportsNet08.us"><display-name>CA SportsNet 08</display-name><url>https://sky.com</url></channel>
 <channel id="CASportsNet09.us"><display-name>CA SportsNet 09</display-name><url>https://sky.com</url></channel>
 <channel id="CASportsNet10.us"><display-name>CA SportsNet 10</display-name><url>https://sky.com</url></channel>
 <channel id="CASportsNet11.us"><display-name>CA SportsNet 11</display-name><url>https://sky.com</url></channel>
@@ -711,6 +711,90 @@
 <channel id="CASportsNet14.us"><display-name>CA SportsNet 14</display-name><url>https://sky.com</url></channel>
 <channel id="CASportsNet15.us"><display-name>CA SportsNet 15</display-name><url>https://sky.com</url></channel>
 <channel id="CASportsNet16.us"><display-name>CA SportsNet 16</display-name><url>https://sky.com</url></channel>
+<programme start="20250915000000 +0000" stop="20250916175500 +0000" channel="CATSN+041.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250916175500 +0000" stop="20250916205500 +0000" channel="CATSN+041.us"><title lang="en">CA| TSN+ 41 | Swedish</title><desc lang="en">CA| TSN+ 41 | Swedish Hockey League: Vaxjo Lakers vs. HV71 (2025-09-16 12:55:00)</desc></programme>
+<programme start="20250916205500 +0000" stop="20250920235959 +0000" channel="CATSN+041.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250915000000 +0000" stop="20250916030000 +0000" channel="CASportsNet08.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250916030000 +0000" stop="20250916063000 +0000" channel="CASportsNet08.us"><title lang="en">CA| SPORTSNET EVENT 0</title><desc lang="en">CA| SPORTSNET EVENT 08 :MLB: Philadelphia vs Los Angeles Dodgers @ Sep 15 10:00 PM</desc></programme>
+<programme start="20250916063000 +0000" stop="20250920235959 +0000" channel="CASportsNet08.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250915000000 +0000" stop="20250916030000 +0000" channel="USESPN+028.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250916030000 +0000" stop="20250916060000 +0000" channel="USESPN+028.us"><title lang="en">US| ESPN+ 28 : #16 Ut</title><desc lang="en">US| ESPN+ 28 : #16 Utah Valley vs. UC San Diego  22:00et-03:00uk</desc></programme>
+<programme start="20250916060000 +0000" stop="20250920235959 +0000" channel="USESPN+028.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250915000000 +0000" stop="20250916030000 +0000" channel="USESPN+029.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250916030000 +0000" stop="20250916060000 +0000" channel="USESPN+029.us"><title lang="en">US| ESPN+ 29 : Sacram</title><desc lang="en">US| ESPN+ 29 : Sacramento State vs. #20 San Francisco  22:00et-03:00uk</desc></programme>
+<programme start="20250916060000 +0000" stop="20250920235959 +0000" channel="USESPN+029.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250915000000 +0000" stop="20250916030000 +0000" channel="CASN+008.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250916030000 +0000" stop="20250916060000 +0000" channel="CASN+008.us"><title lang="en">CA| SN+ 8: Philadelph</title><desc lang="en">CA| SN+ 8: Philadelphia @ Los Angeles Dodgers 15-09 22:00</desc></programme>
+<programme start="20250916060000 +0000" stop="20250920235959 +0000" channel="CASN+008.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250915000000 +0000" stop="20250916100000 +0000" channel="CASN+009.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250916100000 +0000" stop="20250916130000 +0000" channel="CASN+009.us"><title lang="en">CA| SN+ 9: Sportsnet </title><desc lang="en">CA| SN+ 9: Sportsnet Central: Sep. 15 16-09 05:00</desc></programme>
+<programme start="20250916130000 +0000" stop="20250920235959 +0000" channel="CASN+009.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250915000000 +0000" stop="20250916140000 +0000" channel="CASN+010.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250916140000 +0000" stop="20250916170000 +0000" channel="CASN+010.us"><title lang="en">CA| SN+ 10: Halford a</title><desc lang="en">CA| SN+ 10: Halford and Brough: Sep. 16 16-09 09:00</desc></programme>
+<programme start="20250916170000 +0000" stop="20250920235959 +0000" channel="CASN+010.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250915000000 +0000" stop="20250916150000 +0000" channel="CASN+011.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250916150000 +0000" stop="20250916180000 +0000" channel="CASN+011.us"><title lang="en">CA| SN+ 11: Jays Talk</title><desc lang="en">CA| SN+ 11: Jays Talk Plus: Sep. 16 16-09 10:00</desc></programme>
+<programme start="20250916180000 +0000" stop="20250920235959 +0000" channel="CASN+011.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250915000000 +0000" stop="20250916210000 +0000" channel="CASN+012.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250916210000 +0000" stop="20250917000000 +0000" channel="CASN+012.us"><title lang="en">CA| SN+ 12: Blair and</title><desc lang="en">CA| SN+ 12: Blair and Barker: Sep. 16 16-09 16:00</desc></programme>
+<programme start="20250917000000 +0000" stop="20250920235959 +0000" channel="CASN+012.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250915000000 +0000" stop="20250916230000 +0000" channel="CASN+013.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250916230000 +0000" stop="20250917020000 +0000" channel="CASN+013.us"><title lang="en">CA| SN+ 13: The FAN P</title><desc lang="en">CA| SN+ 13: The FAN Pregame: Sep. 16 16-09 18:00</desc></programme>
+<programme start="20250917020000 +0000" stop="20250920235959 +0000" channel="CASN+013.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250915000000 +0000" stop="20250917000000 +0000" channel="CASN+014.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250917000000 +0000" stop="20250917030000 +0000" channel="CASN+014.us"><title lang="en">CA| SN+ 14: Toronto @</title><desc lang="en">CA| SN+ 14: Toronto @ Tampa Bay 16-09 19:00</desc></programme>
+<programme start="20250917030000 +0000" stop="20250920235959 +0000" channel="CASN+014.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250915000000 +0000" stop="20250917003000 +0000" channel="CASN+015.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250917003000 +0000" stop="20250917033000 +0000" channel="CASN+015.us"><title lang="en">CA| SN+ 15: New York </title><desc lang="en">CA| SN+ 15: New York Yankees @ Minnesota 16-09 19:30</desc></programme>
+<programme start="20250917033000 +0000" stop="20250920235959 +0000" channel="CASN+015.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250915000000 +0000" stop="20250917010000 +0000" channel="CASN+016.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250917010000 +0000" stop="20250917040000 +0000" channel="CASN+016.us"><title lang="en">CA| SN+ 16: Dana Whit</title><desc lang="en">CA| SN+ 16: Dana Whites Contender Series - Ep. 6 16-09 20:00</desc></programme>
+<programme start="20250917040000 +0000" stop="20250920235959 +0000" channel="CASN+016.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250915000000 +0000" stop="20250917030000 +0000" channel="CASN+017.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250917030000 +0000" stop="20250917060000 +0000" channel="CASN+017.us"><title lang="en">CA| SN+ 17: Philadelp</title><desc lang="en">CA| SN+ 17: Philadelphia @ Los Angeles Dodgers 16-09 22:00</desc></programme>
+<programme start="20250917060000 +0000" stop="20250920235959 +0000" channel="CASN+017.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250915000000 +0000" stop="20250917100000 +0000" channel="CASN+018.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250917100000 +0000" stop="20250917130000 +0000" channel="CASN+018.us"><title lang="en">CA| SN+ 18: Sportsnet</title><desc lang="en">CA| SN+ 18: Sportsnet Central: Sep. 16 17-09 05:00</desc></programme>
+<programme start="20250917130000 +0000" stop="20250920235959 +0000" channel="CASN+018.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250915000000 +0000" stop="20250917140000 +0000" channel="CASN+019.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250917140000 +0000" stop="20250917170000 +0000" channel="CASN+019.us"><title lang="en">CA| SN+ 19: Halford a</title><desc lang="en">CA| SN+ 19: Halford and Brough: Sep. 17 17-09 09:00</desc></programme>
+<programme start="20250917170000 +0000" stop="20250920235959 +0000" channel="CASN+019.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250915000000 +0000" stop="20250917150000 +0000" channel="CASN+020.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250917150000 +0000" stop="20250917180000 +0000" channel="CASN+020.us"><title lang="en">CA| SN+ 20: Jays Talk</title><desc lang="en">CA| SN+ 20: Jays Talk Plus: Sep. 17 17-09 10:00</desc></programme>
+<programme start="20250917180000 +0000" stop="20250920235959 +0000" channel="CASN+020.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250915000000 +0000" stop="20250917173000 +0000" channel="CASN+021.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250917173000 +0000" stop="20250917203000 +0000" channel="CASN+021.us"><title lang="en">CA| SN+ 21: Chicago C</title><desc lang="en">CA| SN+ 21: Chicago Cubs @ Pittsburgh 17-09 12:30</desc></programme>
+<programme start="20250917203000 +0000" stop="20250920235959 +0000" channel="CASN+021.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250915000000 +0000" stop="20250917185000 +0000" channel="CASN+022.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250917185000 +0000" stop="20250917215000 +0000" channel="CASN+022.us"><title lang="en">CA| SN+ 22: Feyenoord</title><desc lang="en">CA| SN+ 22: Feyenoord vs. Fortuna Sittard 17-09 13:50</desc></programme>
+<programme start="20250917215000 +0000" stop="20250920235959 +0000" channel="CASN+022.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250915000000 +0000" stop="20250917210000 +0000" channel="CASN+023.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250917210000 +0000" stop="20250918000000 +0000" channel="CASN+023.us"><title lang="en">CA| SN+ 23: Blair and</title><desc lang="en">CA| SN+ 23: Blair and Barker: Sep. 17 17-09 16:00</desc></programme>
+<programme start="20250918000000 +0000" stop="20250920235959 +0000" channel="CASN+023.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250915000000 +0000" stop="20250917230000 +0000" channel="CASN+024.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250917230000 +0000" stop="20250918020000 +0000" channel="CASN+024.us"><title lang="en">CA| SN+ 24: The FAN P</title><desc lang="en">CA| SN+ 24: The FAN Pregame: Sep. 17 17-09 18:00</desc></programme>
+<programme start="20250918020000 +0000" stop="20250920235959 +0000" channel="CASN+024.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250915000000 +0000" stop="20250917233000 +0000" channel="CASN+025.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250917233000 +0000" stop="20250918023000 +0000" channel="CASN+025.us"><title lang="en">CA| SN+ 25: Toronto @</title><desc lang="en">CA| SN+ 25: Toronto @ Tampa Bay 17-09 18:30</desc></programme>
+<programme start="20250918023000 +0000" stop="20250920235959 +0000" channel="CASN+025.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250915000000 +0000" stop="20250916175500 +0000" channel="CATSN+003.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250916175500 +0000" stop="20250916205500 +0000" channel="CATSN+003.us"><title lang="en">CA| TSN+ 03 | Swedish</title><desc lang="en">CA| TSN+ 03 | Swedish Hockey League: Vaxjo Lakers vs. HV71 (2025-09-16 12:55:00)</desc></programme>
+<programme start="20250916205500 +0000" stop="20250920235959 +0000" channel="CATSN+003.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250915000000 +0000" stop="20250917060000 +0000" channel="CATSN+004.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250917060000 +0000" stop="20250917090000 +0000" channel="CATSN+004.us"><title lang="en">CA| TSN+ 04 | ATP 250</title><desc lang="en">CA| TSN+ 04 | ATP 250 Tennis: Chengdu _ Day #1 (2025-09-17 01:00:00)</desc></programme>
+<programme start="20250917090000 +0000" stop="20250920235959 +0000" channel="CATSN+004.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250915000000 +0000" stop="20250917070000 +0000" channel="CATSN+005.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250917070000 +0000" stop="20250917100000 +0000" channel="CATSN+005.us"><title lang="en">CA| TSN+ 05 | ATP 250</title><desc lang="en">CA| TSN+ 05 | ATP 250 Tennis: Hangzhou _ Day #1 (2025-09-17 02:00:00)</desc></programme>
+<programme start="20250917100000 +0000" stop="20250920235959 +0000" channel="CATSN+005.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250915000000 +0000" stop="20250918060000 +0000" channel="CATSN+006.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250918060000 +0000" stop="20250918090000 +0000" channel="CATSN+006.us"><title lang="en">CA| TSN+ 06 | ATP 250</title><desc lang="en">CA| TSN+ 06 | ATP 250 Tennis: Chengdu _ Day #2 (2025-09-18 01:00:00)</desc></programme>
+<programme start="20250918090000 +0000" stop="20250920235959 +0000" channel="CATSN+006.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250915000000 +0000" stop="20250918063000 +0000" channel="CATSN+007.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250918063000 +0000" stop="20250918093000 +0000" channel="CATSN+007.us"><title lang="en">CA| TSN+ 07 | ATP 250</title><desc lang="en">CA| TSN+ 07 | ATP 250 Tennis: Hangzhou _ Day #2 (2025-09-18 01:30:00)</desc></programme>
+<programme start="20250918093000 +0000" stop="20250920235959 +0000" channel="CATSN+007.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250915000000 +0000" stop="20250918175500 +0000" channel="CATSN+008.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250918175500 +0000" stop="20250918205500 +0000" channel="CATSN+008.us"><title lang="en">CA| TSN+ 08 | Swedish</title><desc lang="en">CA| TSN+ 08 | Swedish Hockey League: Skellefte? AIK vs. Farjestad BK (2025-09-18 12:55:00)</desc></programme>
+<programme start="20250918205500 +0000" stop="20250920235959 +0000" channel="CATSN+008.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250915000000 +0000" stop="20250920235959 +0000" channel="IELOITV01.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250915000000 +0000" stop="20250920235959 +0000" channel="IELOITV02.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250915000000 +0000" stop="20250920235959 +0000" channel="IELOITV03.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
@@ -788,8 +872,6 @@
 <programme start="20250915000000 +0000" stop="20250920235959 +0000" channel="USESPN+025.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250915000000 +0000" stop="20250920235959 +0000" channel="USESPN+026.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250915000000 +0000" stop="20250920235959 +0000" channel="USESPN+027.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250915000000 +0000" stop="20250920235959 +0000" channel="USESPN+028.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250915000000 +0000" stop="20250920235959 +0000" channel="USESPN+029.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250915000000 +0000" stop="20250920235959 +0000" channel="USESPN+030.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250915000000 +0000" stop="20250920235959 +0000" channel="USESPN+031.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250915000000 +0000" stop="20250920235959 +0000" channel="USESPN+032.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
@@ -1214,24 +1296,6 @@
 <programme start="20250915000000 +0000" stop="20250920235959 +0000" channel="CASN+005.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250915000000 +0000" stop="20250920235959 +0000" channel="CASN+006.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250915000000 +0000" stop="20250920235959 +0000" channel="CASN+007.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250915000000 +0000" stop="20250920235959 +0000" channel="CASN+008.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250915000000 +0000" stop="20250920235959 +0000" channel="CASN+009.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250915000000 +0000" stop="20250920235959 +0000" channel="CASN+010.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250915000000 +0000" stop="20250920235959 +0000" channel="CASN+011.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250915000000 +0000" stop="20250920235959 +0000" channel="CASN+012.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250915000000 +0000" stop="20250920235959 +0000" channel="CASN+013.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250915000000 +0000" stop="20250920235959 +0000" channel="CASN+014.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250915000000 +0000" stop="20250920235959 +0000" channel="CASN+015.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250915000000 +0000" stop="20250920235959 +0000" channel="CASN+016.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250915000000 +0000" stop="20250920235959 +0000" channel="CASN+017.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250915000000 +0000" stop="20250920235959 +0000" channel="CASN+018.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250915000000 +0000" stop="20250920235959 +0000" channel="CASN+019.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250915000000 +0000" stop="20250920235959 +0000" channel="CASN+020.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250915000000 +0000" stop="20250920235959 +0000" channel="CASN+021.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250915000000 +0000" stop="20250920235959 +0000" channel="CASN+022.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250915000000 +0000" stop="20250920235959 +0000" channel="CASN+023.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250915000000 +0000" stop="20250920235959 +0000" channel="CASN+024.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250915000000 +0000" stop="20250920235959 +0000" channel="CASN+025.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250915000000 +0000" stop="20250920235959 +0000" channel="CASN+026.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250915000000 +0000" stop="20250920235959 +0000" channel="CASN+027.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250915000000 +0000" stop="20250920235959 +0000" channel="CASN+028.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
@@ -1309,12 +1373,6 @@
 <programme start="20250915000000 +0000" stop="20250920235959 +0000" channel="CASN+100.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250915000000 +0000" stop="20250920235959 +0000" channel="CATSN+001.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250915000000 +0000" stop="20250920235959 +0000" channel="CATSN+002.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250915000000 +0000" stop="20250920235959 +0000" channel="CATSN+003.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250915000000 +0000" stop="20250920235959 +0000" channel="CATSN+004.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250915000000 +0000" stop="20250920235959 +0000" channel="CATSN+005.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250915000000 +0000" stop="20250920235959 +0000" channel="CATSN+006.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250915000000 +0000" stop="20250920235959 +0000" channel="CATSN+007.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250915000000 +0000" stop="20250920235959 +0000" channel="CATSN+008.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250915000000 +0000" stop="20250920235959 +0000" channel="CATSN+009.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250915000000 +0000" stop="20250920235959 +0000" channel="CATSN+010.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250915000000 +0000" stop="20250920235959 +0000" channel="CATSN+011.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
@@ -1346,12 +1404,7 @@
 <programme start="20250915000000 +0000" stop="20250920235959 +0000" channel="CATSN+037.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250915000000 +0000" stop="20250920235959 +0000" channel="CATSN+038.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250915000000 +0000" stop="20250920235959 +0000" channel="CATSN+039.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250915000000 +0000" stop="20250915194800 +0000" channel="CATSN+040.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250915194800 +0000" stop="20250915224800 +0000" channel="CATSN+040.us"><title lang="en">CA| TSN+ 40 | LaLiga:</title><desc lang="en">CA| TSN+ 40 | LaLiga: Espanyol vs. MallorCA| (2025-09-15 14:48:00)</desc></programme>
-<programme start="20250915224800 +0000" stop="20250920235959 +0000" channel="CATSN+040.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250915000000 +0000" stop="20250916175500 +0000" channel="CATSN+041.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250916175500 +0000" stop="20250916205500 +0000" channel="CATSN+041.us"><title lang="en">CA| TSN+ 41 | Swedish</title><desc lang="en">CA| TSN+ 41 | Swedish Hockey League: Vaxjo Lakers vs. HV71 (2025-09-16 12:55:00)</desc></programme>
-<programme start="20250916205500 +0000" stop="20250920235959 +0000" channel="CATSN+041.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250915000000 +0000" stop="20250920235959 +0000" channel="CATSN+040.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250915000000 +0000" stop="20250920235959 +0000" channel="CATSN+042.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250915000000 +0000" stop="20250920235959 +0000" channel="CATSN+043.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250915000000 +0000" stop="20250920235959 +0000" channel="CATSN+044.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
@@ -1414,21 +1467,10 @@
 <programme start="20250915000000 +0000" stop="20250920235959 +0000" channel="CASportsNet01.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250915000000 +0000" stop="20250920235959 +0000" channel="CASportsNet02.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250915000000 +0000" stop="20250920235959 +0000" channel="CASportsNet03.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250915000000 +0000" stop="20250915210000 +0000" channel="CASportsNet04.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250915210000 +0000" stop="20250916003000 +0000" channel="CASportsNet04.us"><title lang="en">CA| SPORTSNET EVENT 0</title><desc lang="en">CA| SPORTSNET EVENT 04 :Blair and Barker @ Sep 15 4:00 PM</desc></programme>
-<programme start="20250916003000 +0000" stop="20250920235959 +0000" channel="CASportsNet04.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250915000000 +0000" stop="20250915230000 +0000" channel="CASportsNet05.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250915230000 +0000" stop="20250916023000 +0000" channel="CASportsNet05.us"><title lang="en">CA| SPORTSNET EVENT 0</title><desc lang="en">CA| SPORTSNET EVENT 05 :The FAN Pregame @ Sep 15 6:00 PM</desc></programme>
-<programme start="20250916023000 +0000" stop="20250920235959 +0000" channel="CASportsNet05.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250915000000 +0000" stop="20250916000000 +0000" channel="CASportsNet06.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250916000000 +0000" stop="20250916033000 +0000" channel="CASportsNet06.us"><title lang="en">CA| SPORTSNET EVENT 0</title><desc lang="en">CA| SPORTSNET EVENT 06 :MLB: Toronto vs Tampa Bay @ Sep 15 7:00 PM</desc></programme>
-<programme start="20250916033000 +0000" stop="20250920235959 +0000" channel="CASportsNet06.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250915000000 +0000" stop="20250916003000 +0000" channel="CASportsNet07.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250916003000 +0000" stop="20250916040000 +0000" channel="CASportsNet07.us"><title lang="en">CA| SPORTSNET EVENT 0</title><desc lang="en">CA| SPORTSNET EVENT 07 :MLB: New York Yankees vs Minnesota @ Sep 15 7:30 PM</desc></programme>
-<programme start="20250916040000 +0000" stop="20250920235959 +0000" channel="CASportsNet07.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250915000000 +0000" stop="20250916030000 +0000" channel="CASportsNet08.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20250916030000 +0000" stop="20250916063000 +0000" channel="CASportsNet08.us"><title lang="en">CA| SPORTSNET EVENT 0</title><desc lang="en">CA| SPORTSNET EVENT 08 :MLB: Philadelphia vs Los Angeles Dodgers @ Sep 15 10:00 PM</desc></programme>
-<programme start="20250916063000 +0000" stop="20250920235959 +0000" channel="CASportsNet08.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250915000000 +0000" stop="20250920235959 +0000" channel="CASportsNet04.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250915000000 +0000" stop="20250920235959 +0000" channel="CASportsNet05.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250915000000 +0000" stop="20250920235959 +0000" channel="CASportsNet06.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20250915000000 +0000" stop="20250920235959 +0000" channel="CASportsNet07.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250915000000 +0000" stop="20250920235959 +0000" channel="CASportsNet09.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250915000000 +0000" stop="20250920235959 +0000" channel="CASportsNet10.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20250915000000 +0000" stop="20250920235959 +0000" channel="CASportsNet11.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
