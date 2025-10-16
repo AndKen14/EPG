@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20250903">
+<channel id="UFC00.uk"><display-name>UFC 00</display-name><url>https://sky.com</url></channel>
+<channel id="LiveEvents01.uk"><display-name>Live Events 01</display-name><url>https://sky.com</url></channel>
 <channel id="LiveEvents02.uk"><display-name>Live Events 02</display-name><url>https://sky.com</url></channel>
-<channel id="TrillerTV02.uk"><display-name>Triller TV 02</display-name><url>https://sky.com</url></channel>
-<channel id="TrillerTV03.uk"><display-name>Triller TV 03</display-name><url>https://sky.com</url></channel>
+<channel id="LiveEvents03.uk"><display-name>Live Events 03</display-name><url>https://sky.com</url></channel>
+<channel id="LiveEvents04.uk"><display-name>Live Events 04</display-name><url>https://sky.com</url></channel>
+<channel id="LiveEvents05.uk"><display-name>Live Events 05</display-name><url>https://sky.com</url></channel>
+<channel id="LiveEvents06.uk"><display-name>Live Events 06</display-name><url>https://sky.com</url></channel>
+<channel id="UEFA02.uk"><display-name>UEFA 02</display-name><url>https://sky.com</url></channel>
+<channel id="UEFA03.uk"><display-name>UEFA 03</display-name><url>https://sky.com</url></channel>
 <channel id="EPL01.uk"><display-name>EPL 01</display-name><url>https://sky.com</url></channel>
 <channel id="EPL02.uk"><display-name>EPL 02</display-name><url>https://sky.com</url></channel>
 <channel id="EPL03.uk"><display-name>EPL 03</display-name><url>https://sky.com</url></channel>
@@ -9,27 +15,44 @@
 <channel id="EPL05.uk"><display-name>EPL 05</display-name><url>https://sky.com</url></channel>
 <channel id="EPL06.uk"><display-name>EPL 06</display-name><url>https://sky.com</url></channel>
 <channel id="EPL07.uk"><display-name>EPL 07</display-name><url>https://sky.com</url></channel>
-<channel id="FuboSports08.uk"><display-name>Fubo Sports 08</display-name><url>https://sky.com</url></channel>
-<channel id="TSN+21.uk"><display-name>TSN+ 21</display-name><url>https://sky.com</url></channel>
-<channel id="TSN+22.uk"><display-name>TSN+ 22</display-name><url>https://sky.com</url></channel>
-<channel id="TSN+23.uk"><display-name>TSN+ 23</display-name><url>https://sky.com</url></channel>
-<channel id="TSN+24.uk"><display-name>TSN+ 24</display-name><url>https://sky.com</url></channel>
-<channel id="TSN+25.uk"><display-name>TSN+ 25</display-name><url>https://sky.com</url></channel>
-<channel id="TSN+26.uk"><display-name>TSN+ 26</display-name><url>https://sky.com</url></channel>
-<channel id="TSN+27.uk"><display-name>TSN+ 27</display-name><url>https://sky.com</url></channel>
+<channel id="SPortsNet+06.uk"><display-name>SPortsNet+ 06</display-name><url>https://sky.com</url></channel>
+<channel id="SPortsNet+07.uk"><display-name>SPortsNet+ 07</display-name><url>https://sky.com</url></channel>
+<channel id="SPortsNet+08.uk"><display-name>SPortsNet+ 08</display-name><url>https://sky.com</url></channel>
+<channel id="SPortsNet+09.uk"><display-name>SPortsNet+ 09</display-name><url>https://sky.com</url></channel>
+<channel id="SPortsNet+10.uk"><display-name>SPortsNet+ 10</display-name><url>https://sky.com</url></channel>
+<channel id="SPortsNet+11.uk"><display-name>SPortsNet+ 11</display-name><url>https://sky.com</url></channel>
 <channel id="SPortsNet+12.uk"><display-name>SPortsNet+ 12</display-name><url>https://sky.com</url></channel>
 <channel id="SPortsNet+13.uk"><display-name>SPortsNet+ 13</display-name><url>https://sky.com</url></channel>
 <channel id="SPortsNet+14.uk"><display-name>SPortsNet+ 14</display-name><url>https://sky.com</url></channel>
 <channel id="SPortsNet+15.uk"><display-name>SPortsNet+ 15</display-name><url>https://sky.com</url></channel>
 <channel id="SPortsNet+16.uk"><display-name>SPortsNet+ 16</display-name><url>https://sky.com</url></channel>
+<channel id="SPortsNet+17.uk"><display-name>SPortsNet+ 17</display-name><url>https://sky.com</url></channel>
+<channel id="SPortsNet+18.uk"><display-name>SPortsNet+ 18</display-name><url>https://sky.com</url></channel>
+<channel id="SPortsNet+19.uk"><display-name>SPortsNet+ 19</display-name><url>https://sky.com</url></channel>
+<channel id="SPortsNet+20.uk"><display-name>SPortsNet+ 20</display-name><url>https://sky.com</url></channel>
+<channel id="SPortsNet+21.uk"><display-name>SPortsNet+ 21</display-name><url>https://sky.com</url></channel>
+<channel id="SPortsNet+22.uk"><display-name>SPortsNet+ 22</display-name><url>https://sky.com</url></channel>
+<channel id="SPortsNet+23.uk"><display-name>SPortsNet+ 23</display-name><url>https://sky.com</url></channel>
+<channel id="SPortsNet+24.uk"><display-name>SPortsNet+ 24</display-name><url>https://sky.com</url></channel>
+<channel id="NFL01.uk"><display-name>NFL 01</display-name><url>https://sky.com</url></channel>
 <channel id="NHL01.uk"><display-name>NHL 01</display-name><url>https://sky.com</url></channel>
 <channel id="NHL02.uk"><display-name>NHL 02</display-name><url>https://sky.com</url></channel>
 <channel id="NHL03.uk"><display-name>NHL 03</display-name><url>https://sky.com</url></channel>
 <channel id="NHL04.uk"><display-name>NHL 04</display-name><url>https://sky.com</url></channel>
-<channel id="Max004.uk"><display-name>Max 004</display-name><url>https://sky.com</url></channel>
-<channel id="Max005.uk"><display-name>Max 005</display-name><url>https://sky.com</url></channel>
-<channel id="Max006.uk"><display-name>Max 006</display-name><url>https://sky.com</url></channel>
-<channel id="Stan001.uk"><display-name>Stan 001</display-name><url>https://sky.com</url></channel>
+<channel id="NHL05.uk"><display-name>NHL 05</display-name><url>https://sky.com</url></channel>
+<channel id="NHL06.uk"><display-name>NHL 06</display-name><url>https://sky.com</url></channel>
+<channel id="NHL07.uk"><display-name>NHL 07</display-name><url>https://sky.com</url></channel>
+<channel id="NHL08.uk"><display-name>NHL 08</display-name><url>https://sky.com</url></channel>
+<channel id="NHL09.uk"><display-name>NHL 09</display-name><url>https://sky.com</url></channel>
+<channel id="NHL10.uk"><display-name>NHL 10</display-name><url>https://sky.com</url></channel>
+<channel id="NHL11.uk"><display-name>NHL 11</display-name><url>https://sky.com</url></channel>
+<channel id="NBA01.uk"><display-name>NBA 01</display-name><url>https://sky.com</url></channel>
+<channel id="NBA02.uk"><display-name>NBA 02</display-name><url>https://sky.com</url></channel>
+<channel id="NBA03.uk"><display-name>NBA 03</display-name><url>https://sky.com</url></channel>
+<channel id="NBA04.uk"><display-name>NBA 04</display-name><url>https://sky.com</url></channel>
+<channel id="NBA05.uk"><display-name>NBA 05</display-name><url>https://sky.com</url></channel>
+<channel id="Max002.uk"><display-name>Max 002</display-name><url>https://sky.com</url></channel>
+<channel id="Max003.uk"><display-name>Max 003</display-name><url>https://sky.com</url></channel>
 <channel id="Stan002.uk"><display-name>Stan 002</display-name><url>https://sky.com</url></channel>
 <channel id="Stan003.uk"><display-name>Stan 003</display-name><url>https://sky.com</url></channel>
 <channel id="Stan004.uk"><display-name>Stan 004</display-name><url>https://sky.com</url></channel>
@@ -59,48 +82,13 @@
 <channel id="Stan028.uk"><display-name>Stan 028</display-name><url>https://sky.com</url></channel>
 <channel id="Stan029.uk"><display-name>Stan 029</display-name><url>https://sky.com</url></channel>
 <channel id="Stan030.uk"><display-name>Stan 030</display-name><url>https://sky.com</url></channel>
-<channel id="FloCollege044.uk"><display-name>Flo College 044</display-name><url>https://sky.com</url></channel>
-<channel id="FloCollege045.uk"><display-name>Flo College 045</display-name><url>https://sky.com</url></channel>
-<channel id="FloCollege046.uk"><display-name>Flo College 046</display-name><url>https://sky.com</url></channel>
-<channel id="FloCollege047.uk"><display-name>Flo College 047</display-name><url>https://sky.com</url></channel>
-<channel id="FloCollege048.uk"><display-name>Flo College 048</display-name><url>https://sky.com</url></channel>
-<channel id="FloCollege049.uk"><display-name>Flo College 049</display-name><url>https://sky.com</url></channel>
-<channel id="FloCollege050.uk"><display-name>Flo College 050</display-name><url>https://sky.com</url></channel>
-<channel id="FloCollege051.uk"><display-name>Flo College 051</display-name><url>https://sky.com</url></channel>
-<channel id="FloCollege052.uk"><display-name>Flo College 052</display-name><url>https://sky.com</url></channel>
-<channel id="FloCollege053.uk"><display-name>Flo College 053</display-name><url>https://sky.com</url></channel>
-<channel id="FloCollege054.uk"><display-name>Flo College 054</display-name><url>https://sky.com</url></channel>
-<channel id="FloCollege055.uk"><display-name>Flo College 055</display-name><url>https://sky.com</url></channel>
-<channel id="FloCollege056.uk"><display-name>Flo College 056</display-name><url>https://sky.com</url></channel>
-<channel id="FloCollege057.uk"><display-name>Flo College 057</display-name><url>https://sky.com</url></channel>
-<channel id="FloCollege058.uk"><display-name>Flo College 058</display-name><url>https://sky.com</url></channel>
-<channel id="FloCollege059.uk"><display-name>Flo College 059</display-name><url>https://sky.com</url></channel>
-<channel id="FloCollege060.uk"><display-name>Flo College 060</display-name><url>https://sky.com</url></channel>
-<channel id="FloCollege061.uk"><display-name>Flo College 061</display-name><url>https://sky.com</url></channel>
-<channel id="FloCollege062.uk"><display-name>Flo College 062</display-name><url>https://sky.com</url></channel>
-<channel id="FloCollege063.uk"><display-name>Flo College 063</display-name><url>https://sky.com</url></channel>
-<channel id="FloCollege064.uk"><display-name>Flo College 064</display-name><url>https://sky.com</url></channel>
-<channel id="FloCollege065.uk"><display-name>Flo College 065</display-name><url>https://sky.com</url></channel>
-<channel id="FloCollege066.uk"><display-name>Flo College 066</display-name><url>https://sky.com</url></channel>
-<channel id="FloCollege067.uk"><display-name>Flo College 067</display-name><url>https://sky.com</url></channel>
-<channel id="FloCollege068.uk"><display-name>Flo College 068</display-name><url>https://sky.com</url></channel>
-<channel id="FloCollege069.uk"><display-name>Flo College 069</display-name><url>https://sky.com</url></channel>
-<channel id="FloCollege070.uk"><display-name>Flo College 070</display-name><url>https://sky.com</url></channel>
-<channel id="FloCollege071.uk"><display-name>Flo College 071</display-name><url>https://sky.com</url></channel>
-<channel id="FloCollege072.uk"><display-name>Flo College 072</display-name><url>https://sky.com</url></channel>
-<channel id="FloCollege073.uk"><display-name>Flo College 073</display-name><url>https://sky.com</url></channel>
-<channel id="FloCollege074.uk"><display-name>Flo College 074</display-name><url>https://sky.com</url></channel>
-<channel id="FloCollege075.uk"><display-name>Flo College 075</display-name><url>https://sky.com</url></channel>
-<channel id="FloCollege076.uk"><display-name>Flo College 076</display-name><url>https://sky.com</url></channel>
-<channel id="FloCollege077.uk"><display-name>Flo College 077</display-name><url>https://sky.com</url></channel>
-<channel id="FloCollege078.uk"><display-name>Flo College 078</display-name><url>https://sky.com</url></channel>
-<channel id="FloCollege079.uk"><display-name>Flo College 079</display-name><url>https://sky.com</url></channel>
-<channel id="FloCollege080.uk"><display-name>Flo College 080</display-name><url>https://sky.com</url></channel>
-<channel id="FloCollege081.uk"><display-name>Flo College 081</display-name><url>https://sky.com</url></channel>
-<channel id="FloCollege082.uk"><display-name>Flo College 082</display-name><url>https://sky.com</url></channel>
-<channel id="FloCollege083.uk"><display-name>Flo College 083</display-name><url>https://sky.com</url></channel>
-<channel id="FloRacing02.uk"><display-name>Flo Racing 02</display-name><url>https://sky.com</url></channel>
-<channel id="UFC00.uk"><display-name>UFC 00</display-name><url>https://sky.com</url></channel>
+<channel id="Tennis22.uk"><display-name>Tennis 22</display-name><url>https://sky.com</url></channel>
+<channel id="Tennis23.uk"><display-name>Tennis 23</display-name><url>https://sky.com</url></channel>
+<channel id="Paramount+US002.uk"><display-name>Paramount+ US 002</display-name><url>https://sky.com</url></channel>
+<channel id="Paramount+US003.uk"><display-name>Paramount+ US 003</display-name><url>https://sky.com</url></channel>
+<channel id="Paramount+US004.uk"><display-name>Paramount+ US 004</display-name><url>https://sky.com</url></channel>
+<channel id="Paramount+US005.uk"><display-name>Paramount+ US 005</display-name><url>https://sky.com</url></channel>
+<channel id="Paramount+US006.uk"><display-name>Paramount+ US 006</display-name><url>https://sky.com</url></channel>
 <channel id="UFC01.uk"><display-name>UFC 01</display-name><url>https://sky.com</url></channel>
 <channel id="UFC02.uk"><display-name>UFC 02</display-name><url>https://sky.com</url></channel>
 <channel id="UFC03.uk"><display-name>UFC 03</display-name><url>https://sky.com</url></channel>
@@ -131,11 +119,6 @@
 <channel id="LivePPV18.uk"><display-name>Live PPV 18</display-name><url>https://sky.com</url></channel>
 <channel id="LivePPV19.uk"><display-name>Live PPV 19</display-name><url>https://sky.com</url></channel>
 <channel id="LivePPV20.uk"><display-name>Live PPV 20</display-name><url>https://sky.com</url></channel>
-<channel id="LiveEvents01.uk"><display-name>Live Events 01</display-name><url>https://sky.com</url></channel>
-<channel id="LiveEvents03.uk"><display-name>Live Events 03</display-name><url>https://sky.com</url></channel>
-<channel id="LiveEvents04.uk"><display-name>Live Events 04</display-name><url>https://sky.com</url></channel>
-<channel id="LiveEvents05.uk"><display-name>Live Events 05</display-name><url>https://sky.com</url></channel>
-<channel id="LiveEvents06.uk"><display-name>Live Events 06</display-name><url>https://sky.com</url></channel>
 <channel id="LiveEvents07.uk"><display-name>Live Events 07</display-name><url>https://sky.com</url></channel>
 <channel id="LiveEvents08.uk"><display-name>Live Events 08</display-name><url>https://sky.com</url></channel>
 <channel id="LiveEvents09.uk"><display-name>Live Events 09</display-name><url>https://sky.com</url></channel>
@@ -165,6 +148,8 @@
 <channel id="LiveEvents33.uk"><display-name>Live Events 33</display-name><url>https://sky.com</url></channel>
 <channel id="LiveEvents34.uk"><display-name>Live Events 34</display-name><url>https://sky.com</url></channel>
 <channel id="TrillerTV01.uk"><display-name>Triller TV 01</display-name><url>https://sky.com</url></channel>
+<channel id="TrillerTV02.uk"><display-name>Triller TV 02</display-name><url>https://sky.com</url></channel>
+<channel id="TrillerTV03.uk"><display-name>Triller TV 03</display-name><url>https://sky.com</url></channel>
 <channel id="TrillerTV04.uk"><display-name>Triller TV 04</display-name><url>https://sky.com</url></channel>
 <channel id="TrillerTV05.uk"><display-name>Triller TV 05</display-name><url>https://sky.com</url></channel>
 <channel id="TrillerTV06.uk"><display-name>Triller TV 06</display-name><url>https://sky.com</url></channel>
@@ -228,8 +213,6 @@
 <channel id="LiveFootball33.uk"><display-name>Live Football 33</display-name><url>https://sky.com</url></channel>
 <channel id="LiveFootball34.uk"><display-name>Live Football 34</display-name><url>https://sky.com</url></channel>
 <channel id="UEFA01.uk"><display-name>UEFA 01</display-name><url>https://sky.com</url></channel>
-<channel id="UEFA02.uk"><display-name>UEFA 02</display-name><url>https://sky.com</url></channel>
-<channel id="UEFA03.uk"><display-name>UEFA 03</display-name><url>https://sky.com</url></channel>
 <channel id="UEFA04.uk"><display-name>UEFA 04</display-name><url>https://sky.com</url></channel>
 <channel id="UEFA05.uk"><display-name>UEFA 05</display-name><url>https://sky.com</url></channel>
 <channel id="UEFA06.uk"><display-name>UEFA 06</display-name><url>https://sky.com</url></channel>
@@ -957,6 +940,7 @@
 <channel id="FuboSports05.uk"><display-name>Fubo Sports 05</display-name><url>https://sky.com</url></channel>
 <channel id="FuboSports06.uk"><display-name>Fubo Sports 06</display-name><url>https://sky.com</url></channel>
 <channel id="FuboSports07.uk"><display-name>Fubo Sports 07</display-name><url>https://sky.com</url></channel>
+<channel id="FuboSports08.uk"><display-name>Fubo Sports 08</display-name><url>https://sky.com</url></channel>
 <channel id="FuboSports09.uk"><display-name>Fubo Sports 09</display-name><url>https://sky.com</url></channel>
 <channel id="FuboSports10.uk"><display-name>Fubo Sports 10</display-name><url>https://sky.com</url></channel>
 <channel id="TSN+01.uk"><display-name>TSN+ 01</display-name><url>https://sky.com</url></channel>
@@ -979,6 +963,13 @@
 <channel id="TSN+18.uk"><display-name>TSN+ 18</display-name><url>https://sky.com</url></channel>
 <channel id="TSN+19.uk"><display-name>TSN+ 19</display-name><url>https://sky.com</url></channel>
 <channel id="TSN+20.uk"><display-name>TSN+ 20</display-name><url>https://sky.com</url></channel>
+<channel id="TSN+21.uk"><display-name>TSN+ 21</display-name><url>https://sky.com</url></channel>
+<channel id="TSN+22.uk"><display-name>TSN+ 22</display-name><url>https://sky.com</url></channel>
+<channel id="TSN+23.uk"><display-name>TSN+ 23</display-name><url>https://sky.com</url></channel>
+<channel id="TSN+24.uk"><display-name>TSN+ 24</display-name><url>https://sky.com</url></channel>
+<channel id="TSN+25.uk"><display-name>TSN+ 25</display-name><url>https://sky.com</url></channel>
+<channel id="TSN+26.uk"><display-name>TSN+ 26</display-name><url>https://sky.com</url></channel>
+<channel id="TSN+27.uk"><display-name>TSN+ 27</display-name><url>https://sky.com</url></channel>
 <channel id="TSN+28.uk"><display-name>TSN+ 28</display-name><url>https://sky.com</url></channel>
 <channel id="TSN+29.uk"><display-name>TSN+ 29</display-name><url>https://sky.com</url></channel>
 <channel id="TSN+30.uk"><display-name>TSN+ 30</display-name><url>https://sky.com</url></channel>
@@ -1007,20 +998,6 @@
 <channel id="SPortsNet+03.uk"><display-name>SPortsNet+ 03</display-name><url>https://sky.com</url></channel>
 <channel id="SPortsNet+04.uk"><display-name>SPortsNet+ 04</display-name><url>https://sky.com</url></channel>
 <channel id="SPortsNet+05.uk"><display-name>SPortsNet+ 05</display-name><url>https://sky.com</url></channel>
-<channel id="SPortsNet+06.uk"><display-name>SPortsNet+ 06</display-name><url>https://sky.com</url></channel>
-<channel id="SPortsNet+07.uk"><display-name>SPortsNet+ 07</display-name><url>https://sky.com</url></channel>
-<channel id="SPortsNet+08.uk"><display-name>SPortsNet+ 08</display-name><url>https://sky.com</url></channel>
-<channel id="SPortsNet+09.uk"><display-name>SPortsNet+ 09</display-name><url>https://sky.com</url></channel>
-<channel id="SPortsNet+10.uk"><display-name>SPortsNet+ 10</display-name><url>https://sky.com</url></channel>
-<channel id="SPortsNet+11.uk"><display-name>SPortsNet+ 11</display-name><url>https://sky.com</url></channel>
-<channel id="SPortsNet+17.uk"><display-name>SPortsNet+ 17</display-name><url>https://sky.com</url></channel>
-<channel id="SPortsNet+18.uk"><display-name>SPortsNet+ 18</display-name><url>https://sky.com</url></channel>
-<channel id="SPortsNet+19.uk"><display-name>SPortsNet+ 19</display-name><url>https://sky.com</url></channel>
-<channel id="SPortsNet+20.uk"><display-name>SPortsNet+ 20</display-name><url>https://sky.com</url></channel>
-<channel id="SPortsNet+21.uk"><display-name>SPortsNet+ 21</display-name><url>https://sky.com</url></channel>
-<channel id="SPortsNet+22.uk"><display-name>SPortsNet+ 22</display-name><url>https://sky.com</url></channel>
-<channel id="SPortsNet+23.uk"><display-name>SPortsNet+ 23</display-name><url>https://sky.com</url></channel>
-<channel id="SPortsNet+24.uk"><display-name>SPortsNet+ 24</display-name><url>https://sky.com</url></channel>
 <channel id="SPortsNet+25.uk"><display-name>SPortsNet+ 25</display-name><url>https://sky.com</url></channel>
 <channel id="SPortsNet+26.uk"><display-name>SPortsNet+ 26</display-name><url>https://sky.com</url></channel>
 <channel id="SPortsNet+27.uk"><display-name>SPortsNet+ 27</display-name><url>https://sky.com</url></channel>
@@ -1087,7 +1064,6 @@
 <channel id="MLS48.uk"><display-name>MLS 48</display-name><url>https://sky.com</url></channel>
 <channel id="MLS49.uk"><display-name>MLS 49</display-name><url>https://sky.com</url></channel>
 <channel id="MLS50.uk"><display-name>MLS 50</display-name><url>https://sky.com</url></channel>
-<channel id="NFL01.uk"><display-name>NFL 01</display-name><url>https://sky.com</url></channel>
 <channel id="NFL02.uk"><display-name>NFL 02</display-name><url>https://sky.com</url></channel>
 <channel id="NFL03.uk"><display-name>NFL 03</display-name><url>https://sky.com</url></channel>
 <channel id="NFL04.uk"><display-name>NFL 04</display-name><url>https://sky.com</url></channel>
@@ -1103,13 +1079,6 @@
 <channel id="NFL14.uk"><display-name>NFL 14</display-name><url>https://sky.com</url></channel>
 <channel id="NFL15.uk"><display-name>NFL 15</display-name><url>https://sky.com</url></channel>
 <channel id="NFL16.uk"><display-name>NFL 16</display-name><url>https://sky.com</url></channel>
-<channel id="NHL05.uk"><display-name>NHL 05</display-name><url>https://sky.com</url></channel>
-<channel id="NHL06.uk"><display-name>NHL 06</display-name><url>https://sky.com</url></channel>
-<channel id="NHL07.uk"><display-name>NHL 07</display-name><url>https://sky.com</url></channel>
-<channel id="NHL08.uk"><display-name>NHL 08</display-name><url>https://sky.com</url></channel>
-<channel id="NHL09.uk"><display-name>NHL 09</display-name><url>https://sky.com</url></channel>
-<channel id="NHL10.uk"><display-name>NHL 10</display-name><url>https://sky.com</url></channel>
-<channel id="NHL11.uk"><display-name>NHL 11</display-name><url>https://sky.com</url></channel>
 <channel id="NHL12.uk"><display-name>NHL 12</display-name><url>https://sky.com</url></channel>
 <channel id="NHL13.uk"><display-name>NHL 13</display-name><url>https://sky.com</url></channel>
 <channel id="NHL14.uk"><display-name>NHL 14</display-name><url>https://sky.com</url></channel>
@@ -1145,11 +1114,6 @@
 <channel id="WNBA08.uk"><display-name>WNBA 08</display-name><url>https://sky.com</url></channel>
 <channel id="WNBA09.uk"><display-name>WNBA 09</display-name><url>https://sky.com</url></channel>
 <channel id="WNBA10.uk"><display-name>WNBA 10</display-name><url>https://sky.com</url></channel>
-<channel id="NBA01.uk"><display-name>NBA 01</display-name><url>https://sky.com</url></channel>
-<channel id="NBA02.uk"><display-name>NBA 02</display-name><url>https://sky.com</url></channel>
-<channel id="NBA03.uk"><display-name>NBA 03</display-name><url>https://sky.com</url></channel>
-<channel id="NBA04.uk"><display-name>NBA 04</display-name><url>https://sky.com</url></channel>
-<channel id="NBA05.uk"><display-name>NBA 05</display-name><url>https://sky.com</url></channel>
 <channel id="NBA06.uk"><display-name>NBA 06</display-name><url>https://sky.com</url></channel>
 <channel id="NBA07.uk"><display-name>NBA 07</display-name><url>https://sky.com</url></channel>
 <channel id="NBA08.uk"><display-name>NBA 08</display-name><url>https://sky.com</url></channel>
@@ -1246,8 +1210,9 @@
 <channel id="NCAAF84.uk"><display-name>NCAAF 84</display-name><url>https://sky.com</url></channel>
 <channel id="NCAAF85.uk"><display-name>NCAAF 85</display-name><url>https://sky.com</url></channel>
 <channel id="Max001.uk"><display-name>Max 001</display-name><url>https://sky.com</url></channel>
-<channel id="Max002.uk"><display-name>Max 002</display-name><url>https://sky.com</url></channel>
-<channel id="Max003.uk"><display-name>Max 003</display-name><url>https://sky.com</url></channel>
+<channel id="Max004.uk"><display-name>Max 004</display-name><url>https://sky.com</url></channel>
+<channel id="Max005.uk"><display-name>Max 005</display-name><url>https://sky.com</url></channel>
+<channel id="Max006.uk"><display-name>Max 006</display-name><url>https://sky.com</url></channel>
 <channel id="Max007.uk"><display-name>Max 007</display-name><url>https://sky.com</url></channel>
 <channel id="Max008.uk"><display-name>Max 008</display-name><url>https://sky.com</url></channel>
 <channel id="Max009.uk"><display-name>Max 009</display-name><url>https://sky.com</url></channel>
@@ -1342,6 +1307,7 @@
 <channel id="Max098.uk"><display-name>Max 098</display-name><url>https://sky.com</url></channel>
 <channel id="Max099.uk"><display-name>Max 099</display-name><url>https://sky.com</url></channel>
 <channel id="Max100.uk"><display-name>Max 100</display-name><url>https://sky.com</url></channel>
+<channel id="Stan001.uk"><display-name>Stan 001</display-name><url>https://sky.com</url></channel>
 <channel id="Stan031.uk"><display-name>Stan 031</display-name><url>https://sky.com</url></channel>
 <channel id="Stan032.uk"><display-name>Stan 032</display-name><url>https://sky.com</url></channel>
 <channel id="Stan033.uk"><display-name>Stan 033</display-name><url>https://sky.com</url></channel>
@@ -1455,6 +1421,46 @@
 <channel id="FloCollege041.uk"><display-name>Flo College 041</display-name><url>https://sky.com</url></channel>
 <channel id="FloCollege042.uk"><display-name>Flo College 042</display-name><url>https://sky.com</url></channel>
 <channel id="FloCollege043.uk"><display-name>Flo College 043</display-name><url>https://sky.com</url></channel>
+<channel id="FloCollege044.uk"><display-name>Flo College 044</display-name><url>https://sky.com</url></channel>
+<channel id="FloCollege045.uk"><display-name>Flo College 045</display-name><url>https://sky.com</url></channel>
+<channel id="FloCollege046.uk"><display-name>Flo College 046</display-name><url>https://sky.com</url></channel>
+<channel id="FloCollege047.uk"><display-name>Flo College 047</display-name><url>https://sky.com</url></channel>
+<channel id="FloCollege048.uk"><display-name>Flo College 048</display-name><url>https://sky.com</url></channel>
+<channel id="FloCollege049.uk"><display-name>Flo College 049</display-name><url>https://sky.com</url></channel>
+<channel id="FloCollege050.uk"><display-name>Flo College 050</display-name><url>https://sky.com</url></channel>
+<channel id="FloCollege051.uk"><display-name>Flo College 051</display-name><url>https://sky.com</url></channel>
+<channel id="FloCollege052.uk"><display-name>Flo College 052</display-name><url>https://sky.com</url></channel>
+<channel id="FloCollege053.uk"><display-name>Flo College 053</display-name><url>https://sky.com</url></channel>
+<channel id="FloCollege054.uk"><display-name>Flo College 054</display-name><url>https://sky.com</url></channel>
+<channel id="FloCollege055.uk"><display-name>Flo College 055</display-name><url>https://sky.com</url></channel>
+<channel id="FloCollege056.uk"><display-name>Flo College 056</display-name><url>https://sky.com</url></channel>
+<channel id="FloCollege057.uk"><display-name>Flo College 057</display-name><url>https://sky.com</url></channel>
+<channel id="FloCollege058.uk"><display-name>Flo College 058</display-name><url>https://sky.com</url></channel>
+<channel id="FloCollege059.uk"><display-name>Flo College 059</display-name><url>https://sky.com</url></channel>
+<channel id="FloCollege060.uk"><display-name>Flo College 060</display-name><url>https://sky.com</url></channel>
+<channel id="FloCollege061.uk"><display-name>Flo College 061</display-name><url>https://sky.com</url></channel>
+<channel id="FloCollege062.uk"><display-name>Flo College 062</display-name><url>https://sky.com</url></channel>
+<channel id="FloCollege063.uk"><display-name>Flo College 063</display-name><url>https://sky.com</url></channel>
+<channel id="FloCollege064.uk"><display-name>Flo College 064</display-name><url>https://sky.com</url></channel>
+<channel id="FloCollege065.uk"><display-name>Flo College 065</display-name><url>https://sky.com</url></channel>
+<channel id="FloCollege066.uk"><display-name>Flo College 066</display-name><url>https://sky.com</url></channel>
+<channel id="FloCollege067.uk"><display-name>Flo College 067</display-name><url>https://sky.com</url></channel>
+<channel id="FloCollege068.uk"><display-name>Flo College 068</display-name><url>https://sky.com</url></channel>
+<channel id="FloCollege069.uk"><display-name>Flo College 069</display-name><url>https://sky.com</url></channel>
+<channel id="FloCollege070.uk"><display-name>Flo College 070</display-name><url>https://sky.com</url></channel>
+<channel id="FloCollege071.uk"><display-name>Flo College 071</display-name><url>https://sky.com</url></channel>
+<channel id="FloCollege072.uk"><display-name>Flo College 072</display-name><url>https://sky.com</url></channel>
+<channel id="FloCollege073.uk"><display-name>Flo College 073</display-name><url>https://sky.com</url></channel>
+<channel id="FloCollege074.uk"><display-name>Flo College 074</display-name><url>https://sky.com</url></channel>
+<channel id="FloCollege075.uk"><display-name>Flo College 075</display-name><url>https://sky.com</url></channel>
+<channel id="FloCollege076.uk"><display-name>Flo College 076</display-name><url>https://sky.com</url></channel>
+<channel id="FloCollege077.uk"><display-name>Flo College 077</display-name><url>https://sky.com</url></channel>
+<channel id="FloCollege078.uk"><display-name>Flo College 078</display-name><url>https://sky.com</url></channel>
+<channel id="FloCollege079.uk"><display-name>Flo College 079</display-name><url>https://sky.com</url></channel>
+<channel id="FloCollege080.uk"><display-name>Flo College 080</display-name><url>https://sky.com</url></channel>
+<channel id="FloCollege081.uk"><display-name>Flo College 081</display-name><url>https://sky.com</url></channel>
+<channel id="FloCollege082.uk"><display-name>Flo College 082</display-name><url>https://sky.com</url></channel>
+<channel id="FloCollege083.uk"><display-name>Flo College 083</display-name><url>https://sky.com</url></channel>
 <channel id="FloCollege084.uk"><display-name>Flo College 084</display-name><url>https://sky.com</url></channel>
 <channel id="FloCollege085.uk"><display-name>Flo College 085</display-name><url>https://sky.com</url></channel>
 <channel id="FloCollege086.uk"><display-name>Flo College 086</display-name><url>https://sky.com</url></channel>
@@ -1473,6 +1479,7 @@
 <channel id="FloCollege099.uk"><display-name>Flo College 099</display-name><url>https://sky.com</url></channel>
 <channel id="FloCollege100.uk"><display-name>Flo College 100</display-name><url>https://sky.com</url></channel>
 <channel id="FloRacing01.uk"><display-name>Flo Racing 01</display-name><url>https://sky.com</url></channel>
+<channel id="FloRacing02.uk"><display-name>Flo Racing 02</display-name><url>https://sky.com</url></channel>
 <channel id="FloRacing03.uk"><display-name>Flo Racing 03</display-name><url>https://sky.com</url></channel>
 <channel id="FloRacing04.uk"><display-name>Flo Racing 04</display-name><url>https://sky.com</url></channel>
 <channel id="FloRacing05.uk"><display-name>Flo Racing 05</display-name><url>https://sky.com</url></channel>
@@ -1512,8 +1519,6 @@
 <channel id="Tennis19.uk"><display-name>Tennis 19</display-name><url>https://sky.com</url></channel>
 <channel id="Tennis20.uk"><display-name>Tennis 20</display-name><url>https://sky.com</url></channel>
 <channel id="Tennis21.uk"><display-name>Tennis 21</display-name><url>https://sky.com</url></channel>
-<channel id="Tennis22.uk"><display-name>Tennis 22</display-name><url>https://sky.com</url></channel>
-<channel id="Tennis23.uk"><display-name>Tennis 23</display-name><url>https://sky.com</url></channel>
 <channel id="Tennis24.uk"><display-name>Tennis 24</display-name><url>https://sky.com</url></channel>
 <channel id="Tennis25.uk"><display-name>Tennis 25</display-name><url>https://sky.com</url></channel>
 <channel id="Tennis26.uk"><display-name>Tennis 26</display-name><url>https://sky.com</url></channel>
@@ -1542,11 +1547,6 @@
 <channel id="Tennis49.uk"><display-name>Tennis 49</display-name><url>https://sky.com</url></channel>
 <channel id="Tennis50.uk"><display-name>Tennis 50</display-name><url>https://sky.com</url></channel>
 <channel id="Paramount+US001.uk"><display-name>Paramount+ US 001</display-name><url>https://sky.com</url></channel>
-<channel id="Paramount+US002.uk"><display-name>Paramount+ US 002</display-name><url>https://sky.com</url></channel>
-<channel id="Paramount+US003.uk"><display-name>Paramount+ US 003</display-name><url>https://sky.com</url></channel>
-<channel id="Paramount+US004.uk"><display-name>Paramount+ US 004</display-name><url>https://sky.com</url></channel>
-<channel id="Paramount+US005.uk"><display-name>Paramount+ US 005</display-name><url>https://sky.com</url></channel>
-<channel id="Paramount+US006.uk"><display-name>Paramount+ US 006</display-name><url>https://sky.com</url></channel>
 <channel id="Paramount+US007.uk"><display-name>Paramount+ US 007</display-name><url>https://sky.com</url></channel>
 <channel id="Paramount+US008.uk"><display-name>Paramount+ US 008</display-name><url>https://sky.com</url></channel>
 <channel id="Paramount+US009.uk"><display-name>Paramount+ US 009</display-name><url>https://sky.com</url></channel>
@@ -1666,15 +1666,33 @@
 <channel id="Dirtvision07.uk"><display-name>DirtVision 07</display-name><url>https://sky.com</url></channel>
 <channel id="Dirtvision08.uk"><display-name>DirtVision 08</display-name><url>https://sky.com</url></channel>
 <channel id="Dirtvision09.uk"><display-name>DirtVision 09</display-name><url>https://sky.com</url></channel>
-<programme start="20251016000000 +0000" stop="20251016000000 +0000" channel="LiveEvents02.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251016040000 +0000" channel="LiveEvents02.uk"><title lang="en">LIVE EVENT 02 - 7PM K</title><desc lang="en">LIVE EVENT 02 - 7PM Kubota High Limit Racing Lucas Oil</desc></programme>
-<programme start="20251016040000 +0000" stop="20251021235959 +0000" channel="LiveEvents02.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251016010000 +0000" channel="TrillerTV02.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016010000 +0000" stop="20251016050000 +0000" channel="TrillerTV02.uk"><title lang="en">Triller TV 02 AEW Dyn</title><desc lang="en">Triller TV 02 AEW Dynamite and Collision Special // UK Thu 16 Oct 1:00am // ET </desc></programme>
-<programme start="20251016050000 +0000" stop="20251021235959 +0000" channel="TrillerTV02.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251016040500 +0000" channel="TrillerTV03.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016040500 +0000" stop="20251016080500 +0000" channel="TrillerTV03.uk"><title lang="en">Triller TV 03 AEW Wre</title><desc lang="en">Triller TV 03 AEW WrestleDream Countdown // UK Thu 16 Oct 4:05am // ET </desc></programme>
-<programme start="20251016080500 +0000" stop="20251021235959 +0000" channel="TrillerTV03.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251017035500 +0000" channel="UFC00.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251017035500 +0000" stop="20251017090000 +0000" channel="UFC00.uk"><title lang="en">UFC 00 : BFL 85</title><desc lang="en">UFC 00 : BFL 85</desc></programme>
+<programme start="20251017090000 +0000" stop="20251021235959 +0000" channel="UFC00.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251016230000 +0000" channel="LiveEvents01.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016230000 +0000" stop="20251017030000 +0000" channel="LiveEvents01.uk"><title lang="en">LIVE EVENT 01 - 6PM D</title><desc lang="en">LIVE EVENT 01 - 6PM Dirt Track World Championship Eldora</desc></programme>
+<programme start="20251017030000 +0000" stop="20251021235959 +0000" channel="LiveEvents01.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251017000000 +0000" channel="LiveEvents02.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251017000000 +0000" stop="20251017040000 +0000" channel="LiveEvents02.uk"><title lang="en">LIVE EVENT 02 - 7PM K</title><desc lang="en">LIVE EVENT 02 - 7PM KKM Giveback Classic Port City</desc></programme>
+<programme start="20251017040000 +0000" stop="20251021235959 +0000" channel="LiveEvents02.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251016230000 +0000" channel="LiveEvents03.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016230000 +0000" stop="20251017030000 +0000" channel="LiveEvents03.uk"><title lang="en">LIVE EVENT 03 - 6PM T</title><desc lang="en">LIVE EVENT 03 - 6PM Trophy Cup Tulare Thunderbowl</desc></programme>
+<programme start="20251017030000 +0000" stop="20251021235959 +0000" channel="LiveEvents03.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251016173000 +0000" channel="LiveEvents04.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016173000 +0000" stop="20251016213000 +0000" channel="LiveEvents04.uk"><title lang="en">LIVE EVENT 04 - 12:30</title><desc lang="en">LIVE EVENT 04 - 12:30PM Six Kings Slam</desc></programme>
+<programme start="20251016213000 +0000" stop="20251021235959 +0000" channel="LiveEvents04.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251017000000 +0000" channel="LiveEvents05.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251017000000 +0000" stop="20251017040000 +0000" channel="LiveEvents05.uk"><title lang="en">LIVE EVENT 05 - 7PM O</title><desc lang="en">LIVE EVENT 05 - 7PM OVW Live</desc></programme>
+<programme start="20251017040000 +0000" stop="20251021235959 +0000" channel="LiveEvents05.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251017030000 +0000" channel="LiveEvents06.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251017030000 +0000" stop="20251017070000 +0000" channel="LiveEvents06.uk"><title lang="en">LIVE EVENT 06 - 10PM </title><desc lang="en">LIVE EVENT 06 - 10PM BFL 85</desc></programme>
+<programme start="20251017070000 +0000" stop="20251021235959 +0000" channel="LiveEvents06.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251016200000 +0000" channel="UEFA02.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016200000 +0000" stop="20251016230000 +0000" channel="UEFA02.uk"><title lang="en">UEFA | 02- Bayern Mun</title><desc lang="en">UEFA | 02- Bayern Munich vs Juventus 8:00pm</desc></programme>
+<programme start="20251016230000 +0000" stop="20251021235959 +0000" channel="UEFA02.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251016200000 +0000" channel="UEFA03.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016200000 +0000" stop="20251016230000 +0000" channel="UEFA03.uk"><title lang="en">UEFA | 03 - Benfica v</title><desc lang="en">UEFA | 03 - Benfica vs Arsenal 8:00pm</desc></programme>
+<programme start="20251016230000 +0000" stop="20251021235959 +0000" channel="UEFA03.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251016000000 +0000" stop="20251018123000 +0000" channel="EPL01.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251018123000 +0000" stop="20251018153000 +0000" channel="EPL01.uk"><title lang="en">EPL 01 | Nottingham F</title><desc lang="en">EPL 01 | Nottingham Forest vs Chelsea (Sat 12:30 UK)</desc></programme>
 <programme start="20251018153000 +0000" stop="20251021235959 +0000" channel="EPL01.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
@@ -1696,282 +1714,228 @@
 <programme start="20251016000000 +0000" stop="20251018173000 +0000" channel="EPL07.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251018173000 +0000" stop="20251018203000 +0000" channel="EPL07.uk"><title lang="en">EPL 07 | Fulham vs Ar</title><desc lang="en">EPL 07 | Fulham vs Arsenal (Sat 17:30 UK)</desc></programme>
 <programme start="20251018203000 +0000" stop="20251021235959 +0000" channel="EPL07.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251016120000 +0000" channel="FuboSports08.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016120000 +0000" stop="20251016125500 +0000" channel="FuboSports08.uk"><title lang="en">Fubo Sports 8 | Premi</title><desc lang="en">Fubo Sports 8 | Premier League Match Highlights // UK Thu 16 Oct 12:00am // ET Wed 15 Oct 7:00pm</desc></programme>
-<programme start="20251016125500 +0000" stop="20251016010000 +0000" channel="FuboSports08.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016010000 +0000" stop="20251016015500 +0000" channel="FuboSports08.uk"><title lang="en">Fubo Sports 8 | Premi</title><desc lang="en">Fubo Sports 8 | Premier League Match Highlights // UK Thu 16 Oct 1:00am // ET Wed 15 Oct 8:00pm</desc></programme>
-<programme start="20251016015500 +0000" stop="20251021235959 +0000" channel="FuboSports08.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251016000000 +0000" channel="TSN+21.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251016030000 +0000" channel="TSN+21.uk"><title lang="en">TSN+ 21 :NCAA Footbal</title><desc lang="en">TSN+ 21 :NCAA Football Delaware vs Jacksonville State @ Oct 15 7:00 PM</desc></programme>
-<programme start="20251016030000 +0000" stop="20251021235959 +0000" channel="TSN+21.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251016003000 +0000" channel="TSN+22.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016003000 +0000" stop="20251016033000 +0000" channel="TSN+22.uk"><title lang="en">TSN+ 22 :Tangerine Ra</title><desc lang="en">TSN+ 22 :Tangerine Raptors Pre Season Raptors vs Celtics @ Oct 15 7:30 PM</desc></programme>
-<programme start="20251016033000 +0000" stop="20251021235959 +0000" channel="TSN+22.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251016003000 +0000" channel="TSN+23.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016003000 +0000" stop="20251016033000 +0000" channel="TSN+23.uk"><title lang="en">TSN+ 23 :NFL GameDay </title><desc lang="en">TSN+ 23 :NFL GameDay Week 6 A @ Oct 15 7:30 PM</desc></programme>
-<programme start="20251016033000 +0000" stop="20251021235959 +0000" channel="TSN+23.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251016010000 +0000" channel="TSN+24.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016010000 +0000" stop="20251016040000 +0000" channel="TSN+24.uk"><title lang="en">TSN+ 24 :AEW Dynamite</title><desc lang="en">TSN+ 24 :AEW Dynamite A @ Oct 15 8:00 PM</desc></programme>
-<programme start="20251016040000 +0000" stop="20251021235959 +0000" channel="TSN+24.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251016020000 +0000" channel="TSN+25.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016020000 +0000" stop="20251016050000 +0000" channel="TSN+25.uk"><title lang="en">TSN+ 25 :WHL on TSN+ </title><desc lang="en">TSN+ 25 :WHL on TSN+ Kamloops Blazers vs Moose Jaw Warriors @ Oct 15 9:00 PM</desc></programme>
-<programme start="20251016050000 +0000" stop="20251021235959 +0000" channel="TSN+25.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251016020000 +0000" channel="TSN+26.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016020000 +0000" stop="20251016050000 +0000" channel="TSN+26.uk"><title lang="en">TSN+ 26 :SC Top 50 Sa</title><desc lang="en">TSN+ 26 :SC Top 50 Saves of All Time B @ Oct 15 9:00 PM</desc></programme>
-<programme start="20251016050000 +0000" stop="20251021235959 +0000" channel="TSN+26.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251016023000 +0000" channel="TSN+27.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016023000 +0000" stop="20251016053000 +0000" channel="TSN+27.uk"><title lang="en">TSN+ 27 :Why We Love </title><desc lang="en">TSN+ 27 :Why We Love Football B @ Oct 15 9:30 PM</desc></programme>
-<programme start="20251016053000 +0000" stop="20251021235959 +0000" channel="TSN+27.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251016000000 +0000" channel="SPortsNet+12.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251016030000 +0000" channel="SPortsNet+12.uk"><title lang="en">Sportsnet+ 12 :NHL: F</title><desc lang="en">Sportsnet+ 12 :NHL: Florida vs Detroit @ Oct 15 7:00 PM</desc></programme>
-<programme start="20251016030000 +0000" stop="20251021235959 +0000" channel="SPortsNet+12.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251016000000 +0000" channel="SPortsNet+13.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251016030000 +0000" channel="SPortsNet+13.uk"><title lang="en">Sportsnet+ 13 :NHL: O</title><desc lang="en">Sportsnet+ 13 :NHL: Ottawa vs Buffalo @ Oct 15 7:00 PM</desc></programme>
-<programme start="20251016030000 +0000" stop="20251021235959 +0000" channel="SPortsNet+13.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251016000000 +0000" channel="SPortsNet+14.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251016030000 +0000" channel="SPortsNet+14.uk"><title lang="en">Sportsnet+ 14 :MLB: A</title><desc lang="en">Sportsnet+ 14 :MLB: ALCS Toronto vs Seattle Game 3 @ Oct 15 7:00 PM</desc></programme>
-<programme start="20251016030000 +0000" stop="20251021235959 +0000" channel="SPortsNet+14.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251016023000 +0000" channel="SPortsNet+15.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016023000 +0000" stop="20251016053000 +0000" channel="SPortsNet+15.uk"><title lang="en">Sportsnet+ 15 :NHL: C</title><desc lang="en">Sportsnet+ 15 :NHL: Chicago vs St Louis @ Oct 15 9:30 PM</desc></programme>
-<programme start="20251016053000 +0000" stop="20251021235959 +0000" channel="SPortsNet+15.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251016023000 +0000" channel="SPortsNet+16.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016023000 +0000" stop="20251016053000 +0000" channel="SPortsNet+16.uk"><title lang="en">Sportsnet+ 16 :NHL: C</title><desc lang="en">Sportsnet+ 16 :NHL: Calgary vs Utah @ Oct 15 9:30 PM</desc></programme>
-<programme start="20251016053000 +0000" stop="20251021235959 +0000" channel="SPortsNet+16.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251016000000 +0000" channel="NHL01.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251016030000 +0000" channel="NHL01.uk"><title lang="en">NHL 01: 7pm Senators </title><desc lang="en">NHL 01: 7pm Senators at Sabres</desc></programme>
-<programme start="20251016030000 +0000" stop="20251021235959 +0000" channel="NHL01.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251016000000 +0000" channel="NHL02.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251016030000 +0000" channel="NHL02.uk"><title lang="en">NHL 02: 7pm Panthers </title><desc lang="en">NHL 02: 7pm Panthers at Red Wings</desc></programme>
-<programme start="20251016030000 +0000" stop="20251021235959 +0000" channel="NHL02.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251016023000 +0000" channel="NHL03.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016023000 +0000" stop="20251016053000 +0000" channel="NHL03.uk"><title lang="en">NHL 03: 9:30pm Blackh</title><desc lang="en">NHL 03: 9:30pm Blackhawks at Blues</desc></programme>
-<programme start="20251016053000 +0000" stop="20251021235959 +0000" channel="NHL03.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251016023000 +0000" channel="NHL04.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016023000 +0000" stop="20251016053000 +0000" channel="NHL04.uk"><title lang="en">NHL 04: 9:30pm Flames</title><desc lang="en">NHL 04: 9:30pm Flames at Mammoth</desc></programme>
-<programme start="20251016053000 +0000" stop="20251021235959 +0000" channel="NHL04.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251016010000 +0000" channel="Max004.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016010000 +0000" stop="20251016040000 +0000" channel="Max004.uk"><title lang="en">MAX US04 :Wrestling: </title><desc lang="en">MAX US04 :Wrestling: AEW Dynamite @ Oct 15 20:00 PM</desc></programme>
-<programme start="20251016040000 +0000" stop="20251021235959 +0000" channel="Max004.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251016023000 +0000" channel="Max005.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016023000 +0000" stop="20251016053000 +0000" channel="Max005.uk"><title lang="en">MAX US05 :Hockey: Bla</title><desc lang="en">MAX US05 :Hockey: Blackhawks at Blues @ Oct 15 21:30 PM</desc></programme>
-<programme start="20251016053000 +0000" stop="20251021235959 +0000" channel="Max005.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251016030000 +0000" channel="Max006.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016030000 +0000" stop="20251016060000 +0000" channel="Max006.uk"><title lang="en">MAX US06 :Wrestling: </title><desc lang="en">MAX US06 :Wrestling: AEW Collision + Countdown to WrestleDream 2025 @ Oct 15 22:00 PM</desc></programme>
-<programme start="20251016060000 +0000" stop="20251021235959 +0000" channel="Max006.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251016170000 +0000" channel="Stan001.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016170000 +0000" stop="20251016200000 +0000" channel="Stan001.uk"><title lang="en">AU Stan 01 SS2 Golf u</title><desc lang="en">AU Stan 01 SS2 Golf und Therme 2 (2025-10-17 03:00)</desc></programme>
-<programme start="20251016200000 +0000" stop="20251021235959 +0000" channel="Stan001.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251017070500 +0000" channel="Stan002.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251017070500 +0000" stop="20251017100500 +0000" channel="Stan002.uk"><title lang="en">AU Stan 02 Otago v Ba</title><desc lang="en">AU Stan 02 Otago v Bay of Plenty (2025-10-17 17:05)</desc></programme>
-<programme start="20251017100500 +0000" stop="20251021235959 +0000" channel="Stan002.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251017105500 +0000" channel="Stan003.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251017105500 +0000" stop="20251017135500 +0000" channel="Stan003.uk"><title lang="en">AU Stan 03 Sanfrecce </title><desc lang="en">AU Stan 03 Sanfrecce Hiroshima v Tokyo Verdy (2025-10-17 20:55)</desc></programme>
-<programme start="20251017135500 +0000" stop="20251021235959 +0000" channel="Stan003.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251017105500 +0000" channel="Stan004.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251017105500 +0000" stop="20251017135500 +0000" channel="Stan004.uk"><title lang="en">AU Stan 04 Vishal Kob</title><desc lang="en">AU Stan 04 Vishal Kobe v Kashima Antlers (2025-10-17 20:55)</desc></programme>
-<programme start="20251017135500 +0000" stop="20251021235959 +0000" channel="Stan004.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251017194000 +0000" channel="Stan005.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251017194000 +0000" stop="20251017224000 +0000" channel="Stan005.uk"><title lang="en">AU Stan 05 Gloucester</title><desc lang="en">AU Stan 05 Gloucester v Bristol (2025-10-18 05:40)</desc></programme>
-<programme start="20251017224000 +0000" stop="20251021235959 +0000" channel="Stan005.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251017194000 +0000" channel="Stan006.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251017194000 +0000" stop="20251017224000 +0000" channel="Stan006.uk"><title lang="en">AU Stan 06 Newcastle </title><desc lang="en">AU Stan 06 Newcastle Red Bulls v Northampton (2025-10-18 05:40)</desc></programme>
-<programme start="20251017224000 +0000" stop="20251021235959 +0000" channel="Stan006.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251018030000 +0000" channel="Stan007.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251018030000 +0000" stop="20251018060000 +0000" channel="Stan007.uk"><title lang="en">AU Stan 07 Victoria v</title><desc lang="en">AU Stan 07 Victoria v Brumbies (2025-10-18 13:00)</desc></programme>
-<programme start="20251018060000 +0000" stop="20251021235959 +0000" channel="Stan007.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251018045000 +0000" channel="Stan008.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251018045000 +0000" stop="20251018075000 +0000" channel="Stan008.uk"><title lang="en">AU Stan 08 Japan XV v</title><desc lang="en">AU Stan 08 Japan XV v Australia A (2025-10-18 14:50)</desc></programme>
-<programme start="20251018075000 +0000" stop="20251021235959 +0000" channel="Stan008.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251018055000 +0000" channel="Stan009.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251018055000 +0000" stop="20251018085000 +0000" channel="Stan009.uk"><title lang="en">AU Stan 09 Jeonbuk Hy</title><desc lang="en">AU Stan 09 Jeonbuk Hyundai Motors v Suwon FC (2025-10-18 15:50)</desc></programme>
-<programme start="20251018085000 +0000" stop="20251021235959 +0000" channel="Stan009.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251018055000 +0000" channel="Stan010.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251018055000 +0000" stop="20251018085000 +0000" channel="Stan010.uk"><title lang="en">AU Stan 10 FC Seoul v</title><desc lang="en">AU Stan 10 FC Seoul v Pohang Steelers (2025-10-18 15:50)</desc></programme>
-<programme start="20251018085000 +0000" stop="20251021235959 +0000" channel="Stan010.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251018055500 +0000" channel="Stan011.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251018055500 +0000" stop="20251018085500 +0000" channel="Stan011.uk"><title lang="en">AU Stan 11 Gamba Osak</title><desc lang="en">AU Stan 11 Gamba Osaka v Kashiwa Reysol (2025-10-18 15:55)</desc></programme>
-<programme start="20251018085500 +0000" stop="20251021235959 +0000" channel="Stan011.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251018070500 +0000" channel="Stan012.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251018070500 +0000" stop="20251018100500 +0000" channel="Stan012.uk"><title lang="en">AU Stan 12 Cantebury </title><desc lang="en">AU Stan 12 Cantebury v Hawkes Bay (2025-10-18 17:05)</desc></programme>
-<programme start="20251018100500 +0000" stop="20251021235959 +0000" channel="Stan012.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251018093000 +0000" channel="Stan013.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251018093000 +0000" stop="20251018123000 +0000" channel="Stan013.uk"><title lang="en">AU Stan 13 SS10 Keply</title><desc lang="en">AU Stan 13 SS10 Keply 1 (2025-10-18 19:30)</desc></programme>
-<programme start="20251018123000 +0000" stop="20251021235959 +0000" channel="Stan013.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251018113000 +0000" channel="Stan014.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251018113000 +0000" stop="20251018143000 +0000" channel="Stan014.uk"><title lang="en">AU Stan 14 Nottingham</title><desc lang="en">AU Stan 14 Nottingham Forest v Chelsea (2025-10-18 21:30)</desc></programme>
-<programme start="20251018143000 +0000" stop="20251021235959 +0000" channel="Stan014.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251018122000 +0000" channel="Stan015.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251018122000 +0000" stop="20251018152000 +0000" channel="Stan015.uk"><title lang="en">AU Stan 15 4K Notting</title><desc lang="en">AU Stan 15 4K Nottingham Forest v Chelsea (2025-10-18 22:20)</desc></programme>
-<programme start="20251018152000 +0000" stop="20251021235959 +0000" channel="Stan015.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251018130000 +0000" channel="Stan016.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251018130000 +0000" stop="20251018160000 +0000" channel="Stan016.uk"><title lang="en">AU Stan 16 SS14 Keply</title><desc lang="en">AU Stan 16 SS14 Keply 2 (2025-10-18 23:00)</desc></programme>
-<programme start="20251018160000 +0000" stop="20251021235959 +0000" channel="Stan016.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251018145000 +0000" channel="Stan017.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251018145000 +0000" stop="20251018175000 +0000" channel="Stan017.uk"><title lang="en">AU Stan 17 Goal Rush </title><desc lang="en">AU Stan 17 Goal Rush premier League (2025-10-19 00:50)</desc></programme>
-<programme start="20251018175000 +0000" stop="20251021235959 +0000" channel="Stan017.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251018145000 +0000" channel="Stan018.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251018145000 +0000" stop="20251018175000 +0000" channel="Stan018.uk"><title lang="en">AU Stan 18 Manchester</title><desc lang="en">AU Stan 18 Manchester City v Everton (2025-10-19 00:50)</desc></programme>
-<programme start="20251018175000 +0000" stop="20251021235959 +0000" channel="Stan018.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251018145000 +0000" channel="Stan019.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251018145000 +0000" stop="20251018175000 +0000" channel="Stan019.uk"><title lang="en">AU Stan 19 Burnley v </title><desc lang="en">AU Stan 19 Burnley v Leeds (2025-10-19 00:50)</desc></programme>
-<programme start="20251018175000 +0000" stop="20251021235959 +0000" channel="Stan019.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251018145000 +0000" channel="Stan020.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251018145000 +0000" stop="20251018175000 +0000" channel="Stan020.uk"><title lang="en">AU Stan 20 Brighton v</title><desc lang="en">AU Stan 20 Brighton v Newcastle United (2025-10-19 00:50)</desc></programme>
-<programme start="20251018175000 +0000" stop="20251021235959 +0000" channel="Stan020.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251018145000 +0000" channel="Stan021.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251018145000 +0000" stop="20251018175000 +0000" channel="Stan021.uk"><title lang="en">AU Stan 21 Sunderland</title><desc lang="en">AU Stan 21 Sunderland v Wolves (2025-10-19 00:50)</desc></programme>
-<programme start="20251018175000 +0000" stop="20251021235959 +0000" channel="Stan021.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251018145000 +0000" channel="Stan022.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251018145000 +0000" stop="20251018175000 +0000" channel="Stan022.uk"><title lang="en">AU Stan 22 Crystal Pa</title><desc lang="en">AU Stan 22 Crystal Palace v AFC Bournemouth (2025-10-19 00:50)</desc></programme>
-<programme start="20251018175000 +0000" stop="20251021235959 +0000" channel="Stan022.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251018150000 +0000" channel="Stan023.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251018150000 +0000" stop="20251018180000 +0000" channel="Stan023.uk"><title lang="en">AU Stan 23 Leicester </title><desc lang="en">AU Stan 23 Leicester v Bath (2025-10-19 01:00)</desc></programme>
-<programme start="20251018180000 +0000" stop="20251021235959 +0000" channel="Stan023.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251018170000 +0000" channel="Stan024.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251018170000 +0000" stop="20251018200000 +0000" channel="Stan024.uk"><title lang="en">AU Stan 24 PFL Africa</title><desc lang="en">AU Stan 24 PFL Africa 3 2025 (2025-10-19 03:00)</desc></programme>
-<programme start="20251018200000 +0000" stop="20251021235959 +0000" channel="Stan024.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251018172000 +0000" channel="Stan025.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251018172000 +0000" stop="20251018202000 +0000" channel="Stan025.uk"><title lang="en">AU Stan 25 Fulham v A</title><desc lang="en">AU Stan 25 Fulham v Arsenal (2025-10-19 03:20)</desc></programme>
-<programme start="20251018202000 +0000" stop="20251021235959 +0000" channel="Stan025.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251018172000 +0000" channel="Stan026.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251018172000 +0000" stop="20251018202000 +0000" channel="Stan026.uk"><title lang="en">AU Stan 26 4K Fulham </title><desc lang="en">AU Stan 26 4K Fulham v Arsenal (2025-10-19 03:20)</desc></programme>
-<programme start="20251018202000 +0000" stop="20251021235959 +0000" channel="Stan026.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251018172500 +0000" channel="Stan027.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251018172500 +0000" stop="20251018202500 +0000" channel="Stan027.uk"><title lang="en">AU Stan 27 Saracens v</title><desc lang="en">AU Stan 27 Saracens v Sale (2025-10-19 03:25)</desc></programme>
-<programme start="20251018202500 +0000" stop="20251021235959 +0000" channel="Stan027.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251018172500 +0000" channel="Stan028.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251018172500 +0000" stop="20251018202500 +0000" channel="Stan028.uk"><title lang="en">AU Stan 28 Washington</title><desc lang="en">AU Stan 28 Washington Spirit v Orlando Pride (2025-10-19 03:25)</desc></programme>
-<programme start="20251018202500 +0000" stop="20251021235959 +0000" channel="Stan028.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251018200000 +0000" channel="Stan029.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251018200000 +0000" stop="20251018230000 +0000" channel="Stan029.uk"><title lang="en">AU Stan 29 PL Saturda</title><desc lang="en">AU Stan 29 PL Saturday Wrap Episode 8 (2025-10-19 06:00)</desc></programme>
-<programme start="20251018230000 +0000" stop="20251021235959 +0000" channel="Stan029.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251019002500 +0000" channel="Stan030.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251019002500 +0000" stop="20251019032500 +0000" channel="Stan030.uk"><title lang="en">AU Stan 30 Houstoun D</title><desc lang="en">AU Stan 30 Houstoun Dash v Kansas City (2025-10-19 10:25)</desc></programme>
-<programme start="20251019032500 +0000" stop="20251021235959 +0000" channel="Stan030.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251016000000 +0000" channel="FloCollege044.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251016030000 +0000" channel="FloCollege044.uk"><title lang="en">Flo College 44 :Whitt</title><desc lang="en">Flo College 44 :Whittier vs Caltech @ Oct 15 7:00 PM</desc></programme>
-<programme start="20251016030000 +0000" stop="20251021235959 +0000" channel="FloCollege044.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251016000000 +0000" channel="FloCollege045.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251016030000 +0000" channel="FloCollege045.uk"><title lang="en">Flo College 45 :Redla</title><desc lang="en">Flo College 45 :Redlands vs Cal Lutheran @ Oct 15 7:00 PM</desc></programme>
-<programme start="20251016030000 +0000" stop="20251021235959 +0000" channel="FloCollege045.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251016000000 +0000" channel="FloCollege046.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251016030000 +0000" channel="FloCollege046.uk"><title lang="en">Flo College 46 :Otter</title><desc lang="en">Flo College 46 :Otterbein vs Wilmington @ Oct 15 7:00 PM</desc></programme>
-<programme start="20251016030000 +0000" stop="20251021235959 +0000" channel="FloCollege046.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251016000000 +0000" channel="FloCollege047.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251016030000 +0000" channel="FloCollege047.uk"><title lang="en">Flo College 47 :Wilmi</title><desc lang="en">Flo College 47 :Wilmington vs Otterbein @ Oct 15 7:00 PM</desc></programme>
-<programme start="20251016030000 +0000" stop="20251021235959 +0000" channel="FloCollege047.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251016000000 +0000" channel="FloCollege048.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251016030000 +0000" channel="FloCollege048.uk"><title lang="en">Flo College 48 :Roger</title><desc lang="en">Flo College 48 :Roger Williams vs UMass Dartmouth @ Oct 15 7:00 PM</desc></programme>
-<programme start="20251016030000 +0000" stop="20251021235959 +0000" channel="FloCollege048.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251016000000 +0000" channel="FloCollege049.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251016030000 +0000" channel="FloCollege049.uk"><title lang="en">Flo College 49 :Thoma</title><desc lang="en">Flo College 49 :Thomas vs Southern Maine @ Oct 15 7:00 PM</desc></programme>
-<programme start="20251016030000 +0000" stop="20251021235959 +0000" channel="FloCollege049.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251016000000 +0000" channel="FloCollege050.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251016030000 +0000" channel="FloCollege050.uk"><title lang="en">Flo College 50 :Sweet</title><desc lang="en">Flo College 50 :Sweet Briar vs Roanoke @ Oct 15 7:00 PM</desc></programme>
-<programme start="20251016030000 +0000" stop="20251021235959 +0000" channel="FloCollege050.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251016000000 +0000" channel="FloCollege051.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251016030000 +0000" channel="FloCollege051.uk"><title lang="en">Flo College 51 :Rando</title><desc lang="en">Flo College 51 :Randolph Macon vs Lynchburg @ Oct 15 7:00 PM</desc></programme>
-<programme start="20251016030000 +0000" stop="20251021235959 +0000" channel="FloCollege051.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251016000000 +0000" channel="FloCollege052.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251016030000 +0000" channel="FloCollege052.uk"><title lang="en">Flo College 52 :Marie</title><desc lang="en">Flo College 52 :Marietta vs Capital @ Oct 15 7:00 PM</desc></programme>
-<programme start="20251016030000 +0000" stop="20251021235959 +0000" channel="FloCollege052.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251016000000 +0000" channel="FloCollege053.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251016030000 +0000" channel="FloCollege053.uk"><title lang="en">Flo College 53 :Roano</title><desc lang="en">Flo College 53 :Roanoke vs Randolph @ Oct 15 7:00 PM</desc></programme>
-<programme start="20251016030000 +0000" stop="20251021235959 +0000" channel="FloCollege053.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251016000000 +0000" channel="FloCollege054.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251016030000 +0000" channel="FloCollege054.uk"><title lang="en">Flo College 54 :Junia</title><desc lang="en">Flo College 54 :Juniata vs Susquehanna @ Oct 15 7:00 PM</desc></programme>
-<programme start="20251016030000 +0000" stop="20251021235959 +0000" channel="FloCollege054.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251016000000 +0000" channel="FloCollege055.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251016030000 +0000" channel="FloCollege055.uk"><title lang="en">Flo College 55 :Muski</title><desc lang="en">Flo College 55 :Muskingum vs Mount Union @ Oct 15 7:00 PM</desc></programme>
-<programme start="20251016030000 +0000" stop="20251021235959 +0000" channel="FloCollege055.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251016000000 +0000" channel="FloCollege056.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251016030000 +0000" channel="FloCollege056.uk"><title lang="en">Flo College 56 :Capit</title><desc lang="en">Flo College 56 :Capital vs Marietta @ Oct 15 7:00 PM</desc></programme>
-<programme start="20251016030000 +0000" stop="20251021235959 +0000" channel="FloCollege056.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251016000000 +0000" channel="FloCollege057.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251016030000 +0000" channel="FloCollege057.uk"><title lang="en">Flo College 57 :STAC </title><desc lang="en">Flo College 57 :STAC vs Molloy @ Oct 15 7:00 PM</desc></programme>
-<programme start="20251016030000 +0000" stop="20251021235959 +0000" channel="FloCollege057.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251016000000 +0000" channel="FloCollege058.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251016030000 +0000" channel="FloCollege058.uk"><title lang="en">Flo College 58 :Easte</title><desc lang="en">Flo College 58 :Eastern Mennonite vs Bridgewater VA @ Oct 15 7:00 PM</desc></programme>
-<programme start="20251016030000 +0000" stop="20251021235959 +0000" channel="FloCollege058.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251016000000 +0000" channel="FloCollege059.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251016030000 +0000" channel="FloCollege059.uk"><title lang="en">Flo College 59 :Oberl</title><desc lang="en">Flo College 59 :Oberlin vs Baldwin Wallace @ Oct 15 7:00 PM</desc></programme>
-<programme start="20251016030000 +0000" stop="20251021235959 +0000" channel="FloCollege059.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251016000000 +0000" channel="FloCollege060.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251016030000 +0000" channel="FloCollege060.uk"><title lang="en">Flo College 60 :Mercy</title><desc lang="en">Flo College 60 :Mercy vs Queens NY @ Oct 15 7:00 PM</desc></programme>
-<programme start="20251016030000 +0000" stop="20251021235959 +0000" channel="FloCollege060.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251016000000 +0000" channel="FloCollege061.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251016030000 +0000" channel="FloCollege061.uk"><title lang="en">Flo College 61 :Heide</title><desc lang="en">Flo College 61 :Heidelberg vs Ohio Northern @ Oct 15 7:00 PM</desc></programme>
-<programme start="20251016030000 +0000" stop="20251021235959 +0000" channel="FloCollege061.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251016000000 +0000" channel="FloCollege062.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251016030000 +0000" channel="FloCollege062.uk"><title lang="en">Flo College 62 :Bridg</title><desc lang="en">Flo College 62 :Bridgewater VA vs Eastern Mennonite @ Oct 15 7:00 PM</desc></programme>
-<programme start="20251016030000 +0000" stop="20251021235959 +0000" channel="FloCollege062.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251016000000 +0000" channel="FloCollege063.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251016030000 +0000" channel="FloCollege063.uk"><title lang="en">Flo College 63 :Lynch</title><desc lang="en">Flo College 63 :Lynchburg vs Hampden Sydney @ Oct 15 7:00 PM</desc></programme>
-<programme start="20251016030000 +0000" stop="20251021235959 +0000" channel="FloCollege063.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251016000000 +0000" channel="FloCollege064.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251016030000 +0000" channel="FloCollege064.uk"><title lang="en">Flo College 64 :USCGA</title><desc lang="en">Flo College 64 :USCGA vs Mount Holyoke @ Oct 15 7:00 PM</desc></programme>
-<programme start="20251016030000 +0000" stop="20251021235959 +0000" channel="FloCollege064.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251016000000 +0000" channel="FloCollege065.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251016030000 +0000" channel="FloCollege065.uk"><title lang="en">Flo College 65 :DYouv</title><desc lang="en">Flo College 65 :DYouville vs Roberts Wesleyan @ Oct 15 7:00 PM</desc></programme>
-<programme start="20251016030000 +0000" stop="20251021235959 +0000" channel="FloCollege065.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251016000000 +0000" channel="FloCollege066.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251016030000 +0000" channel="FloCollege066.uk"><title lang="en">Flo College 66 :MIT v</title><desc lang="en">Flo College 66 :MIT vs Clark MA @ Oct 15 7:00 PM</desc></programme>
-<programme start="20251016030000 +0000" stop="20251021235959 +0000" channel="FloCollege066.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251016000000 +0000" channel="FloCollege067.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251016030000 +0000" channel="FloCollege067.uk"><title lang="en">Flo College 67 :Westf</title><desc lang="en">Flo College 67 :Westfield State vs UMass Boston @ Oct 15 7:00 PM</desc></programme>
-<programme start="20251016030000 +0000" stop="20251021235959 +0000" channel="FloCollege067.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251016000000 +0000" channel="FloCollege068.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251016030000 +0000" channel="FloCollege068.uk"><title lang="en">Flo College 68 :Mount</title><desc lang="en">Flo College 68 :Mount Union vs Muskingum @ Oct 15 7:00 PM</desc></programme>
-<programme start="20251016030000 +0000" stop="20251021235959 +0000" channel="FloCollege068.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251016000000 +0000" channel="FloCollege069.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251016030000 +0000" channel="FloCollege069.uk"><title lang="en">Flo College 69 :Queen</title><desc lang="en">Flo College 69 :Queens NY vs Adelphi @ Oct 15 7:00 PM</desc></programme>
-<programme start="20251016030000 +0000" stop="20251021235959 +0000" channel="FloCollege069.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251016000000 +0000" channel="FloCollege070.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251016030000 +0000" channel="FloCollege070.uk"><title lang="en">Flo College 70 :Rando</title><desc lang="en">Flo College 70 :Randolph Macon vs WandL @ Oct 15 7:00 PM</desc></programme>
-<programme start="20251016030000 +0000" stop="20251021235959 +0000" channel="FloCollege070.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251016000000 +0000" channel="FloCollege071.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251016030000 +0000" channel="FloCollege071.uk"><title lang="en">Flo College 71 :Wilke</title><desc lang="en">Flo College 71 :Wilkes vs Drew @ Oct 15 7:00 PM</desc></programme>
-<programme start="20251016030000 +0000" stop="20251021235959 +0000" channel="FloCollege071.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251016000000 +0000" channel="FloCollege072.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251016030000 +0000" channel="FloCollege072.uk"><title lang="en">Flo College 72 :Bridg</title><desc lang="en">Flo College 72 :Bridgewater VA vs Shenandoah @ Oct 15 7:00 PM</desc></programme>
-<programme start="20251016030000 +0000" stop="20251021235959 +0000" channel="FloCollege072.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251016000000 +0000" channel="FloCollege073.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251016030000 +0000" channel="FloCollege073.uk"><title lang="en">Flo College 73 :Morav</title><desc lang="en">Flo College 73 :Moravian vs Scranton @ Oct 15 7:00 PM</desc></programme>
-<programme start="20251016030000 +0000" stop="20251021235959 +0000" channel="FloCollege073.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251016000000 +0000" channel="FloCollege074.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251016030000 +0000" channel="FloCollege074.uk"><title lang="en">Flo College 74 :Avere</title><desc lang="en">Flo College 74 :Averett vs Guilford @ Oct 15 7:00 PM</desc></programme>
-<programme start="20251016030000 +0000" stop="20251021235959 +0000" channel="FloCollege074.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251016000000 +0000" channel="FloCollege075.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251016030000 +0000" channel="FloCollege075.uk"><title lang="en">Flo College 75 :Redla</title><desc lang="en">Flo College 75 :Redlands vs Chapman @ Oct 15 7:00 PM</desc></programme>
-<programme start="20251016030000 +0000" stop="20251021235959 +0000" channel="FloCollege075.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251016000000 +0000" channel="FloCollege076.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251016030000 +0000" channel="FloCollege076.uk"><title lang="en">Flo College 76 :Caldw</title><desc lang="en">Flo College 76 :Caldwell vs AIC @ Oct 15 7:00 PM</desc></programme>
-<programme start="20251016030000 +0000" stop="20251021235959 +0000" channel="FloCollege076.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251016000000 +0000" channel="FloCollege077.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251016030000 +0000" channel="FloCollege077.uk"><title lang="en">Flo College 77 :La Ve</title><desc lang="en">Flo College 77 :La Verne vs Pomona Pitzer @ Oct 15 7:00 PM</desc></programme>
-<programme start="20251016030000 +0000" stop="20251021235959 +0000" channel="FloCollege077.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251016010000 +0000" channel="FloCollege078.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016010000 +0000" stop="20251016040000 +0000" channel="FloCollege078.uk"><title lang="en">Flo College 78 :Midwe</title><desc lang="en">Flo College 78 :Midwestern State vs St Marys TX @ Oct 15 8:00 PM</desc></programme>
-<programme start="20251016040000 +0000" stop="20251021235959 +0000" channel="FloCollege078.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251016010000 +0000" channel="FloCollege079.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016010000 +0000" stop="20251016040000 +0000" channel="FloCollege079.uk"><title lang="en">Flo College 79 :Midwe</title><desc lang="en">Flo College 79 :Midwestern State vs DBU @ Oct 15 8:00 PM</desc></programme>
-<programme start="20251016040000 +0000" stop="20251021235959 +0000" channel="FloCollege079.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251016010000 +0000" channel="FloCollege080.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016010000 +0000" stop="20251016040000 +0000" channel="FloCollege080.uk"><title lang="en">Flo College 80 :St Ed</title><desc lang="en">Flo College 80 :St Edwards vs TAMIU @ Oct 15 8:00 PM</desc></programme>
-<programme start="20251016040000 +0000" stop="20251021235959 +0000" channel="FloCollege080.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251016010000 +0000" channel="FloCollege081.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016010000 +0000" stop="20251016040000 +0000" channel="FloCollege081.uk"><title lang="en">Flo College 81 :Pacif</title><desc lang="en">Flo College 81 :Pacific vs Linfield @ Oct 15 8:00 PM</desc></programme>
-<programme start="20251016040000 +0000" stop="20251021235959 +0000" channel="FloCollege081.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251016010000 +0000" channel="FloCollege082.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016010000 +0000" stop="20251016040000 +0000" channel="FloCollege082.uk"><title lang="en">Flo College 82 :UC Sa</title><desc lang="en">Flo College 82 :UC Santa Cruz vs UC Merced @ Oct 15 8:00 PM</desc></programme>
-<programme start="20251016040000 +0000" stop="20251021235959 +0000" channel="FloCollege082.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251016010000 +0000" channel="FloCollege083.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016010000 +0000" stop="20251016040000 +0000" channel="FloCollege083.uk"><title lang="en">Flo College 83 :DBU v</title><desc lang="en">Flo College 83 :DBU vs Texas Womans @ Oct 15 8:00 PM</desc></programme>
-<programme start="20251016040000 +0000" stop="20251021235959 +0000" channel="FloCollege083.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251016000000 +0000" channel="FloRacing02.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251016030000 +0000" channel="FloRacing02.uk"><title lang="en">Flo Racing 02 :Kubota</title><desc lang="en">Flo Racing 02 :Kubota High Limit Racing at Lucas Oil @ Oct 15 7:00 PM</desc></programme>
-<programme start="20251016030000 +0000" stop="20251021235959 +0000" channel="FloRacing02.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="UFC00.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251016190000 +0000" channel="SPortsNet+06.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016190000 +0000" stop="20251016220000 +0000" channel="SPortsNet+06.uk"><title lang="en">Sportsnet+ 06 :Tour C</title><desc lang="en">Sportsnet+ 06 :Tour Challenge Draw 10 @ Oct 16 2:00 PM</desc></programme>
+<programme start="20251016220000 +0000" stop="20251021235959 +0000" channel="SPortsNet+06.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251016190000 +0000" channel="SPortsNet+07.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016190000 +0000" stop="20251016220000 +0000" channel="SPortsNet+07.uk"><title lang="en">Sportsnet+ 07 :Real K</title><desc lang="en">Sportsnet+ 07 :Real Kyper and Bourne Oct 16 @ Oct 16 2:00 PM</desc></programme>
+<programme start="20251016220000 +0000" stop="20251021235959 +0000" channel="SPortsNet+07.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251016210000 +0000" channel="SPortsNet+08.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016210000 +0000" stop="20251017000000 +0000" channel="SPortsNet+08.uk"><title lang="en">Sportsnet+ 08 :Blair </title><desc lang="en">Sportsnet+ 08 :Blair and Barker Oct 16 @ Oct 16 4:00 PM</desc></programme>
+<programme start="20251017000000 +0000" stop="20251021235959 +0000" channel="SPortsNet+08.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251016230000 +0000" channel="SPortsNet+09.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016230000 +0000" stop="20251017020000 +0000" channel="SPortsNet+09.uk"><title lang="en">Sportsnet+ 09 :Tour C</title><desc lang="en">Sportsnet+ 09 :Tour Challenge Draw 11 @ Oct 16 6:00 PM</desc></programme>
+<programme start="20251017020000 +0000" stop="20251021235959 +0000" channel="SPortsNet+09.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251016230000 +0000" channel="SPortsNet+10.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016230000 +0000" stop="20251017020000 +0000" channel="SPortsNet+10.uk"><title lang="en">Sportsnet+ 10 :The FA</title><desc lang="en">Sportsnet+ 10 :The FAN Pregame Oct 16 @ Oct 16 6:00 PM</desc></programme>
+<programme start="20251017020000 +0000" stop="20251021235959 +0000" channel="SPortsNet+10.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251016230000 +0000" channel="SPortsNet+11.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016230000 +0000" stop="20251017020000 +0000" channel="SPortsNet+11.uk"><title lang="en">Sportsnet+ 11 :MLB: N</title><desc lang="en">Sportsnet+ 11 :MLB: NLCS Milwaukee vs Los Angeles Dodgers Game 3 @ Oct 16 6:00 PM</desc></programme>
+<programme start="20251017020000 +0000" stop="20251021235959 +0000" channel="SPortsNet+11.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251017000000 +0000" channel="SPortsNet+12.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251017000000 +0000" stop="20251017030000 +0000" channel="SPortsNet+12.uk"><title lang="en">Sportsnet+ 12 :NHL: C</title><desc lang="en">Sportsnet+ 12 :NHL: Colorado vs Columbus @ Oct 16 7:00 PM</desc></programme>
+<programme start="20251017030000 +0000" stop="20251021235959 +0000" channel="SPortsNet+12.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251017000000 +0000" channel="SPortsNet+13.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251017000000 +0000" stop="20251017030000 +0000" channel="SPortsNet+13.uk"><title lang="en">Sportsnet+ 13 :NHL: F</title><desc lang="en">Sportsnet+ 13 :NHL: Florida vs New Jersey @ Oct 16 7:00 PM</desc></programme>
+<programme start="20251017030000 +0000" stop="20251021235959 +0000" channel="SPortsNet+13.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251017000000 +0000" channel="SPortsNet+14.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251017000000 +0000" stop="20251017030000 +0000" channel="SPortsNet+14.uk"><title lang="en">Sportsnet+ 14 :NHL: N</title><desc lang="en">Sportsnet+ 14 :NHL: New York Rangers vs Toronto Available outside Leafs region @ Oct 16 7:00 PM</desc></programme>
+<programme start="20251017030000 +0000" stop="20251021235959 +0000" channel="SPortsNet+14.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251017000000 +0000" channel="SPortsNet+15.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251017000000 +0000" stop="20251017030000 +0000" channel="SPortsNet+15.uk"><title lang="en">Sportsnet+ 15 :NHL: S</title><desc lang="en">Sportsnet+ 15 :NHL: Seattle vs Ottawa Available outside Senators region @ Oct 16 7:00 PM</desc></programme>
+<programme start="20251017030000 +0000" stop="20251021235959 +0000" channel="SPortsNet+15.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251017000000 +0000" channel="SPortsNet+16.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251017000000 +0000" stop="20251017030000 +0000" channel="SPortsNet+16.uk"><title lang="en">Sportsnet+ 16 :NHL: N</title><desc lang="en">Sportsnet+ 16 :NHL: Nashville vs Montreal Available outside Canadiens region @ Oct 16 7:00 PM</desc></programme>
+<programme start="20251017030000 +0000" stop="20251021235959 +0000" channel="SPortsNet+16.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251017000000 +0000" channel="SPortsNet+17.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251017000000 +0000" stop="20251017030000 +0000" channel="SPortsNet+17.uk"><title lang="en">Sportsnet+ 17 :NHL: F</title><desc lang="en">Sportsnet+ 17 :NHL: French Language Broadcast Seattle vs Ottawa Available outside Senators region @ Oct 16 7:00 PM</desc></programme>
+<programme start="20251017030000 +0000" stop="20251021235959 +0000" channel="SPortsNet+17.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251017000000 +0000" channel="SPortsNet+18.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251017000000 +0000" stop="20251017030000 +0000" channel="SPortsNet+18.uk"><title lang="en">Sportsnet+ 18 :NHL: F</title><desc lang="en">Sportsnet+ 18 :NHL: French Language Broadcast Nashville vs Montreal Available outside Canadiens region @ Oct 16 7:00 PM</desc></programme>
+<programme start="20251017030000 +0000" stop="20251021235959 +0000" channel="SPortsNet+18.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251017000000 +0000" channel="SPortsNet+19.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251017000000 +0000" stop="20251017030000 +0000" channel="SPortsNet+19.uk"><title lang="en">Sportsnet+ 19 :NHL: W</title><desc lang="en">Sportsnet+ 19 :NHL: Winnipeg vs Philadelphia Available outside Jets region @ Oct 16 7:00 PM</desc></programme>
+<programme start="20251017030000 +0000" stop="20251021235959 +0000" channel="SPortsNet+19.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251017003000 +0000" channel="SPortsNet+20.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251017003000 +0000" stop="20251017033000 +0000" channel="SPortsNet+20.uk"><title lang="en">Sportsnet+ 20 :NHL: E</title><desc lang="en">Sportsnet+ 20 :NHL: Edmonton vs New York Islanders @ Oct 16 7:30 PM</desc></programme>
+<programme start="20251017033000 +0000" stop="20251021235959 +0000" channel="SPortsNet+20.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251017003000 +0000" channel="SPortsNet+21.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251017003000 +0000" stop="20251017033000 +0000" channel="SPortsNet+21.uk"><title lang="en">Sportsnet+ 21 :MLB: A</title><desc lang="en">Sportsnet+ 21 :MLB: ALCS Toronto vs Seattle Game 4 @ Oct 16 7:30 PM</desc></programme>
+<programme start="20251017033000 +0000" stop="20251021235959 +0000" channel="SPortsNet+21.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251017010000 +0000" channel="SPortsNet+22.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251017010000 +0000" stop="20251017040000 +0000" channel="SPortsNet+22.uk"><title lang="en">Sportsnet+ 22 :NHL: V</title><desc lang="en">Sportsnet+ 22 :NHL: Vancouver vs Dallas @ Oct 16 8:00 PM</desc></programme>
+<programme start="20251017040000 +0000" stop="20251021235959 +0000" channel="SPortsNet+22.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251017010000 +0000" channel="SPortsNet+23.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251017010000 +0000" stop="20251017040000 +0000" channel="SPortsNet+23.uk"><title lang="en">Sportsnet+ 23 :TNA iM</title><desc lang="en">Sportsnet+ 23 :TNA iMPACT! @ Oct 16 8:00 PM</desc></programme>
+<programme start="20251017040000 +0000" stop="20251021235959 +0000" channel="SPortsNet+23.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251017020000 +0000" channel="SPortsNet+24.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251017020000 +0000" stop="20251017050000 +0000" channel="SPortsNet+24.uk"><title lang="en">Sportsnet+ 24 :Leafs </title><desc lang="en">Sportsnet+ 24 :Leafs Talk Oct 16 vs NY Rangers @ Oct 16 9:00 PM</desc></programme>
+<programme start="20251017050000 +0000" stop="20251021235959 +0000" channel="SPortsNet+24.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251017011500 +0000" channel="NFL01.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251017011500 +0000" stop="20251017044500 +0000" channel="NFL01.uk"><title lang="en">NFL | 01 - TNF 8:15PM</title><desc lang="en">NFL | 01 - TNF 8:15PM Steelers at Bengals</desc></programme>
+<programme start="20251017044500 +0000" stop="20251021235959 +0000" channel="NFL01.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251017000000 +0000" channel="NHL01.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251017000000 +0000" stop="20251017030000 +0000" channel="NHL01.uk"><title lang="en">NHL 01: 7pm Rangers a</title><desc lang="en">NHL 01: 7pm Rangers at Maple Leafs</desc></programme>
+<programme start="20251017030000 +0000" stop="20251021235959 +0000" channel="NHL01.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251017000000 +0000" channel="NHL02.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251017000000 +0000" stop="20251017030000 +0000" channel="NHL02.uk"><title lang="en">NHL 02: 7pm Predators</title><desc lang="en">NHL 02: 7pm Predators at Canadiens</desc></programme>
+<programme start="20251017030000 +0000" stop="20251021235959 +0000" channel="NHL02.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251017000000 +0000" channel="NHL03.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251017000000 +0000" stop="20251017030000 +0000" channel="NHL03.uk"><title lang="en">NHL 03: 7pm Kraken at</title><desc lang="en">NHL 03: 7pm Kraken at Senators</desc></programme>
+<programme start="20251017030000 +0000" stop="20251021235959 +0000" channel="NHL03.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251017000000 +0000" channel="NHL04.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251017000000 +0000" stop="20251017030000 +0000" channel="NHL04.uk"><title lang="en">NHL 04: 7pm Panthers </title><desc lang="en">NHL 04: 7pm Panthers at Devils</desc></programme>
+<programme start="20251017030000 +0000" stop="20251021235959 +0000" channel="NHL04.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251017000000 +0000" channel="NHL05.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251017000000 +0000" stop="20251017030000 +0000" channel="NHL05.uk"><title lang="en">NHL 05: 7pm Jets at F</title><desc lang="en">NHL 05: 7pm Jets at Flyers</desc></programme>
+<programme start="20251017030000 +0000" stop="20251021235959 +0000" channel="NHL05.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251017000000 +0000" channel="NHL06.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251017000000 +0000" stop="20251017030000 +0000" channel="NHL06.uk"><title lang="en">NHL 06: 7pm Avalanche</title><desc lang="en">NHL 06: 7pm Avalanche at Blue Jackets</desc></programme>
+<programme start="20251017030000 +0000" stop="20251021235959 +0000" channel="NHL06.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251017003000 +0000" channel="NHL07.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251017003000 +0000" stop="20251017033000 +0000" channel="NHL07.uk"><title lang="en">NHL 07: 7:30pm Oilers</title><desc lang="en">NHL 07: 7:30pm Oilers at Islanders</desc></programme>
+<programme start="20251017033000 +0000" stop="20251021235959 +0000" channel="NHL07.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251017010000 +0000" channel="NHL08.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251017010000 +0000" stop="20251017040000 +0000" channel="NHL08.uk"><title lang="en">NHL 08: 8pm Canucks a</title><desc lang="en">NHL 08: 8pm Canucks at Stars</desc></programme>
+<programme start="20251017040000 +0000" stop="20251021235959 +0000" channel="NHL08.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251017030000 +0000" channel="NHL09.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251017030000 +0000" stop="20251017060000 +0000" channel="NHL09.uk"><title lang="en">NHL 09: 10pm Bruins a</title><desc lang="en">NHL 09: 10pm Bruins at Golden Knights</desc></programme>
+<programme start="20251017060000 +0000" stop="20251021235959 +0000" channel="NHL09.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251017030000 +0000" channel="NHL10.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251017030000 +0000" stop="20251017060000 +0000" channel="NHL10.uk"><title lang="en">NHL 10: 10pm Hurrican</title><desc lang="en">NHL 10: 10pm Hurricanes at Ducks</desc></programme>
+<programme start="20251017060000 +0000" stop="20251021235959 +0000" channel="NHL10.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251017030000 +0000" channel="NHL11.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251017030000 +0000" stop="20251017060000 +0000" channel="NHL11.uk"><title lang="en">NHL 11: 10pm Penguins</title><desc lang="en">NHL 11: 10pm Penguins at Kings</desc></programme>
+<programme start="20251017060000 +0000" stop="20251021235959 +0000" channel="NHL11.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251017005000 +0000" channel="NBA01.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251017005000 +0000" stop="20251017045000 +0000" channel="NBA01.uk"><title lang="en">NBA 01: Magic (ORL) x</title><desc lang="en">NBA 01: Magic (ORL) x Pelicans (NOP)</desc></programme>
+<programme start="20251017045000 +0000" stop="20251021235959 +0000" channel="NBA01.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251017005000 +0000" channel="NBA02.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251017005000 +0000" stop="20251017045000 +0000" channel="NBA02.uk"><title lang="en">NBA 02 : Pistons (DET</title><desc lang="en">NBA 02 : Pistons (DET) x Wizards (WAS)</desc></programme>
+<programme start="20251017045000 +0000" stop="20251021235959 +0000" channel="NBA02.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251017012000 +0000" channel="NBA03.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251017012000 +0000" stop="20251017052000 +0000" channel="NBA03.uk"><title lang="en">NBA 03: Hawks (ATL) x</title><desc lang="en">NBA 03: Hawks (ATL) x Rockets (HOU)</desc></programme>
+<programme start="20251017052000 +0000" stop="20251021235959 +0000" channel="NBA03.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251017015000 +0000" channel="NBA04.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251017015000 +0000" stop="20251017055000 +0000" channel="NBA04.uk"><title lang="en">NBA 04: Bulls (CHI) x</title><desc lang="en">NBA 04: Bulls (CHI) x Timberwolves (MIN)</desc></programme>
+<programme start="20251017055000 +0000" stop="20251021235959 +0000" channel="NBA04.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251017025000 +0000" channel="NBA05.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251017025000 +0000" stop="20251017065000 +0000" channel="NBA05.uk"><title lang="en">NBA 05: Jazz (UTA) x </title><desc lang="en">NBA 05: Jazz (UTA) x Trail Blazers (POR)</desc></programme>
+<programme start="20251017065000 +0000" stop="20251021235959 +0000" channel="NBA05.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251016223000 +0000" channel="Max002.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016223000 +0000" stop="20251017013000 +0000" channel="Max002.uk"><title lang="en">MAX US02 :Baseball: B</title><desc lang="en">MAX US02 :Baseball: Brewers at Dodgers Game 3 @ Oct 16 17:30 PM</desc></programme>
+<programme start="20251017013000 +0000" stop="20251021235959 +0000" channel="Max002.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251017030000 +0000" channel="Max003.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251017030000 +0000" stop="20251017060000 +0000" channel="Max003.uk"><title lang="en">MAX US03 :Football: I</title><desc lang="en">MAX US03 :Football: Inside the 12 @ Oct 16 22:00 PM</desc></programme>
+<programme start="20251017060000 +0000" stop="20251021235959 +0000" channel="Max003.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251017080500 +0000" channel="Stan002.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251017080500 +0000" stop="20251017110500 +0000" channel="Stan002.uk"><title lang="en">AU Stan 02 Otago v Ba</title><desc lang="en">AU Stan 02 Otago v Bay of Plenty (2025-10-17 17:05)</desc></programme>
+<programme start="20251017110500 +0000" stop="20251021235959 +0000" channel="Stan002.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251017115500 +0000" channel="Stan003.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251017115500 +0000" stop="20251017145500 +0000" channel="Stan003.uk"><title lang="en">AU Stan 03 Sanfrecce </title><desc lang="en">AU Stan 03 Sanfrecce Hiroshima v Tokyo Verdy (2025-10-17 20:55)</desc></programme>
+<programme start="20251017145500 +0000" stop="20251021235959 +0000" channel="Stan003.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251017115500 +0000" channel="Stan004.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251017115500 +0000" stop="20251017145500 +0000" channel="Stan004.uk"><title lang="en">AU Stan 04 Vishal Kob</title><desc lang="en">AU Stan 04 Vishal Kobe v Kashima Antlers (2025-10-17 20:55)</desc></programme>
+<programme start="20251017145500 +0000" stop="20251021235959 +0000" channel="Stan004.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251017204000 +0000" channel="Stan005.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251017204000 +0000" stop="20251017234000 +0000" channel="Stan005.uk"><title lang="en">AU Stan 05 Gloucester</title><desc lang="en">AU Stan 05 Gloucester v Bristol (2025-10-18 05:40)</desc></programme>
+<programme start="20251017234000 +0000" stop="20251021235959 +0000" channel="Stan005.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251017204000 +0000" channel="Stan006.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251017204000 +0000" stop="20251017234000 +0000" channel="Stan006.uk"><title lang="en">AU Stan 06 Newcastle </title><desc lang="en">AU Stan 06 Newcastle Red Bulls v Northampton (2025-10-18 05:40)</desc></programme>
+<programme start="20251017234000 +0000" stop="20251021235959 +0000" channel="Stan006.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251018040000 +0000" channel="Stan007.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251018040000 +0000" stop="20251018070000 +0000" channel="Stan007.uk"><title lang="en">AU Stan 07 Victoria v</title><desc lang="en">AU Stan 07 Victoria v Brumbies (2025-10-18 13:00)</desc></programme>
+<programme start="20251018070000 +0000" stop="20251021235959 +0000" channel="Stan007.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251018055000 +0000" channel="Stan008.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251018055000 +0000" stop="20251018085000 +0000" channel="Stan008.uk"><title lang="en">AU Stan 08 Japan XV v</title><desc lang="en">AU Stan 08 Japan XV v Australia A (2025-10-18 14:50)</desc></programme>
+<programme start="20251018085000 +0000" stop="20251021235959 +0000" channel="Stan008.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251018065000 +0000" channel="Stan009.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251018065000 +0000" stop="20251018095000 +0000" channel="Stan009.uk"><title lang="en">AU Stan 09 Jeonbuk Hy</title><desc lang="en">AU Stan 09 Jeonbuk Hyundai Motors v Suwon FC (2025-10-18 15:50)</desc></programme>
+<programme start="20251018095000 +0000" stop="20251021235959 +0000" channel="Stan009.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251018065000 +0000" channel="Stan010.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251018065000 +0000" stop="20251018095000 +0000" channel="Stan010.uk"><title lang="en">AU Stan 10 FC Seoul v</title><desc lang="en">AU Stan 10 FC Seoul v Pohang Steelers (2025-10-18 15:50)</desc></programme>
+<programme start="20251018095000 +0000" stop="20251021235959 +0000" channel="Stan010.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251018065500 +0000" channel="Stan011.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251018065500 +0000" stop="20251018095500 +0000" channel="Stan011.uk"><title lang="en">AU Stan 11 Gamba Osak</title><desc lang="en">AU Stan 11 Gamba Osaka v Kashiwa Reysol (2025-10-18 15:55)</desc></programme>
+<programme start="20251018095500 +0000" stop="20251021235959 +0000" channel="Stan011.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251018080500 +0000" channel="Stan012.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251018080500 +0000" stop="20251018110500 +0000" channel="Stan012.uk"><title lang="en">AU Stan 12 Cantebury </title><desc lang="en">AU Stan 12 Cantebury v Hawkes Bay (2025-10-18 17:05)</desc></programme>
+<programme start="20251018110500 +0000" stop="20251021235959 +0000" channel="Stan012.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251018103000 +0000" channel="Stan013.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251018103000 +0000" stop="20251018133000 +0000" channel="Stan013.uk"><title lang="en">AU Stan 13 SS10 Keply</title><desc lang="en">AU Stan 13 SS10 Keply 1 (2025-10-18 19:30)</desc></programme>
+<programme start="20251018133000 +0000" stop="20251021235959 +0000" channel="Stan013.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251018123000 +0000" channel="Stan014.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251018123000 +0000" stop="20251018153000 +0000" channel="Stan014.uk"><title lang="en">AU Stan 14 Nottingham</title><desc lang="en">AU Stan 14 Nottingham Forest v Chelsea (2025-10-18 21:30)</desc></programme>
+<programme start="20251018153000 +0000" stop="20251021235959 +0000" channel="Stan014.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251018132000 +0000" channel="Stan015.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251018132000 +0000" stop="20251018162000 +0000" channel="Stan015.uk"><title lang="en">AU Stan 15 4K Notting</title><desc lang="en">AU Stan 15 4K Nottingham Forest v Chelsea (2025-10-18 22:20)</desc></programme>
+<programme start="20251018162000 +0000" stop="20251021235959 +0000" channel="Stan015.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251018140000 +0000" channel="Stan016.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251018140000 +0000" stop="20251018170000 +0000" channel="Stan016.uk"><title lang="en">AU Stan 16 SS14 Keply</title><desc lang="en">AU Stan 16 SS14 Keply 2 (2025-10-18 23:00)</desc></programme>
+<programme start="20251018170000 +0000" stop="20251021235959 +0000" channel="Stan016.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251018155000 +0000" channel="Stan017.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251018155000 +0000" stop="20251018185000 +0000" channel="Stan017.uk"><title lang="en">AU Stan 17 Goal Rush </title><desc lang="en">AU Stan 17 Goal Rush premier League (2025-10-19 00:50)</desc></programme>
+<programme start="20251018185000 +0000" stop="20251021235959 +0000" channel="Stan017.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251018155000 +0000" channel="Stan018.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251018155000 +0000" stop="20251018185000 +0000" channel="Stan018.uk"><title lang="en">AU Stan 18 Manchester</title><desc lang="en">AU Stan 18 Manchester City v Everton (2025-10-19 00:50)</desc></programme>
+<programme start="20251018185000 +0000" stop="20251021235959 +0000" channel="Stan018.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251018155000 +0000" channel="Stan019.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251018155000 +0000" stop="20251018185000 +0000" channel="Stan019.uk"><title lang="en">AU Stan 19 Burnley v </title><desc lang="en">AU Stan 19 Burnley v Leeds (2025-10-19 00:50)</desc></programme>
+<programme start="20251018185000 +0000" stop="20251021235959 +0000" channel="Stan019.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251018155000 +0000" channel="Stan020.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251018155000 +0000" stop="20251018185000 +0000" channel="Stan020.uk"><title lang="en">AU Stan 20 Brighton v</title><desc lang="en">AU Stan 20 Brighton v Newcastle United (2025-10-19 00:50)</desc></programme>
+<programme start="20251018185000 +0000" stop="20251021235959 +0000" channel="Stan020.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251018155000 +0000" channel="Stan021.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251018155000 +0000" stop="20251018185000 +0000" channel="Stan021.uk"><title lang="en">AU Stan 21 Sunderland</title><desc lang="en">AU Stan 21 Sunderland v Wolves (2025-10-19 00:50)</desc></programme>
+<programme start="20251018185000 +0000" stop="20251021235959 +0000" channel="Stan021.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251018155000 +0000" channel="Stan022.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251018155000 +0000" stop="20251018185000 +0000" channel="Stan022.uk"><title lang="en">AU Stan 22 Crystal Pa</title><desc lang="en">AU Stan 22 Crystal Palace v AFC Bournemouth (2025-10-19 00:50)</desc></programme>
+<programme start="20251018185000 +0000" stop="20251021235959 +0000" channel="Stan022.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251018160000 +0000" channel="Stan023.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251018160000 +0000" stop="20251018190000 +0000" channel="Stan023.uk"><title lang="en">AU Stan 23 Leicester </title><desc lang="en">AU Stan 23 Leicester v Bath (2025-10-19 01:00)</desc></programme>
+<programme start="20251018190000 +0000" stop="20251021235959 +0000" channel="Stan023.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251018180000 +0000" channel="Stan024.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251018180000 +0000" stop="20251018210000 +0000" channel="Stan024.uk"><title lang="en">AU Stan 24 PFL Africa</title><desc lang="en">AU Stan 24 PFL Africa 3 2025 (2025-10-19 03:00)</desc></programme>
+<programme start="20251018210000 +0000" stop="20251021235959 +0000" channel="Stan024.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251018182000 +0000" channel="Stan025.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251018182000 +0000" stop="20251018212000 +0000" channel="Stan025.uk"><title lang="en">AU Stan 25 Fulham v A</title><desc lang="en">AU Stan 25 Fulham v Arsenal (2025-10-19 03:20)</desc></programme>
+<programme start="20251018212000 +0000" stop="20251021235959 +0000" channel="Stan025.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251018182000 +0000" channel="Stan026.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251018182000 +0000" stop="20251018212000 +0000" channel="Stan026.uk"><title lang="en">AU Stan 26 4K Fulham </title><desc lang="en">AU Stan 26 4K Fulham v Arsenal (2025-10-19 03:20)</desc></programme>
+<programme start="20251018212000 +0000" stop="20251021235959 +0000" channel="Stan026.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251018182500 +0000" channel="Stan027.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251018182500 +0000" stop="20251018212500 +0000" channel="Stan027.uk"><title lang="en">AU Stan 27 Saracens v</title><desc lang="en">AU Stan 27 Saracens v Sale (2025-10-19 03:25)</desc></programme>
+<programme start="20251018212500 +0000" stop="20251021235959 +0000" channel="Stan027.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251018182500 +0000" channel="Stan028.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251018182500 +0000" stop="20251018212500 +0000" channel="Stan028.uk"><title lang="en">AU Stan 28 Washington</title><desc lang="en">AU Stan 28 Washington Spirit v Orlando Pride (2025-10-19 03:25)</desc></programme>
+<programme start="20251018212500 +0000" stop="20251021235959 +0000" channel="Stan028.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251018210000 +0000" channel="Stan029.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251018210000 +0000" stop="20251019000000 +0000" channel="Stan029.uk"><title lang="en">AU Stan 29 PL Saturda</title><desc lang="en">AU Stan 29 PL Saturday Wrap Episode 8 (2025-10-19 06:00)</desc></programme>
+<programme start="20251019000000 +0000" stop="20251021235959 +0000" channel="Stan029.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251019012500 +0000" channel="Stan030.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251019012500 +0000" stop="20251019042500 +0000" channel="Stan030.uk"><title lang="en">AU Stan 30 Houstoun D</title><desc lang="en">AU Stan 30 Houstoun Dash v Kansas City (2025-10-19 10:25)</desc></programme>
+<programme start="20251019042500 +0000" stop="20251021235959 +0000" channel="Stan030.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251016191000 +0000" channel="Tennis22.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016191000 +0000" stop="20251016221000 +0000" channel="Tennis22.uk"><title lang="en">Tennis 22 :Fearnley, </title><desc lang="en">Tennis 22 :Fearnley, Jacob vs Ymer, Elias @ Oct 16 19:10 PM - ATP Stockholm</desc></programme>
+<programme start="20251016221000 +0000" stop="20251021235959 +0000" channel="Tennis22.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251016191000 +0000" channel="Tennis23.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016191000 +0000" stop="20251016221000 +0000" channel="Tennis23.uk"><title lang="en">Tennis 23 :Van De Zan</title><desc lang="en">Tennis 23 :Van De Zandschulp, Botic vs Spizzirri, Eliot @ Oct 16 19:10 PM - ATP Brussels</desc></programme>
+<programme start="20251016221000 +0000" stop="20251021235959 +0000" channel="Tennis23.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251016190000 +0000" channel="Paramount+US002.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016190000 +0000" stop="20251016220000 +0000" channel="Paramount+US002.uk"><title lang="en">Paramount+ 02 :UEFA W</title><desc lang="en">Paramount+ 02 :UEFA Women''s Champions League: PSG vs Real Madrid @ Oct 16 2:00 PM</desc></programme>
+<programme start="20251016220000 +0000" stop="20251021235959 +0000" channel="Paramount+US002.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251016190000 +0000" channel="Paramount+US003.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016190000 +0000" stop="20251016220000 +0000" channel="Paramount+US003.uk"><title lang="en">Paramount+ 03 :UEFA W</title><desc lang="en">Paramount+ 03 :UEFA Women''s Champions League: Benfica vs Arsenal @ Oct 16 2:00 PM</desc></programme>
+<programme start="20251016220000 +0000" stop="20251021235959 +0000" channel="Paramount+US003.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251016190000 +0000" channel="Paramount+US004.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016190000 +0000" stop="20251016220000 +0000" channel="Paramount+US004.uk"><title lang="en">Paramount+ 04 :UEFA W</title><desc lang="en">Paramount+ 04 :UEFA Women''s Champions League: Bayern vs Juventus @ Oct 16 2:00 PM</desc></programme>
+<programme start="20251016220000 +0000" stop="20251021235959 +0000" channel="Paramount+US004.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251016195000 +0000" channel="Paramount+US005.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016195000 +0000" stop="20251016225000 +0000" channel="Paramount+US005.uk"><title lang="en">Paramount+ 05 :Englis</title><desc lang="en">Paramount+ 05 :English Football League: Huddersfield Town vs Bolton Wanderers @ Oct 16 2:50 PM</desc></programme>
+<programme start="20251016225000 +0000" stop="20251021235959 +0000" channel="Paramount+US005.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251017025000 +0000" channel="Paramount+US006.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251017025000 +0000" stop="20251017055000 +0000" channel="Paramount+US006.uk"><title lang="en">Paramount+ 06 :Concac</title><desc lang="en">Paramount+ 06 :Concacaf W Champions Cup: Vancouver Rise FC Academy vs Alianza Women FC @ Oct 16 9:50 PM</desc></programme>
+<programme start="20251017055000 +0000" stop="20251021235959 +0000" channel="Paramount+US006.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="UFC01.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="UFC02.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="UFC03.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
@@ -2002,11 +1966,6 @@
 <programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="LivePPV18.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="LivePPV19.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="LivePPV20.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="LiveEvents01.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="LiveEvents03.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="LiveEvents04.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="LiveEvents05.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="LiveEvents06.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="LiveEvents07.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="LiveEvents08.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="LiveEvents09.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
@@ -2036,6 +1995,8 @@
 <programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="LiveEvents33.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="LiveEvents34.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="TrillerTV01.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="TrillerTV02.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="TrillerTV03.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="TrillerTV04.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="TrillerTV05.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="TrillerTV06.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
@@ -2099,8 +2060,6 @@
 <programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="LiveFootball33.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="LiveFootball34.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="UEFA01.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="UEFA02.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="UEFA03.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="UEFA04.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="UEFA05.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="UEFA06.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
@@ -2828,6 +2787,7 @@
 <programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="FuboSports05.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="FuboSports06.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="FuboSports07.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="FuboSports08.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="FuboSports09.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="FuboSports10.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="TSN+01.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
@@ -2850,6 +2810,13 @@
 <programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="TSN+18.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="TSN+19.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="TSN+20.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="TSN+21.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="TSN+22.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="TSN+23.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="TSN+24.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="TSN+25.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="TSN+26.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="TSN+27.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="TSN+28.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="TSN+29.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="TSN+30.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
@@ -2878,20 +2845,6 @@
 <programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="SPortsNet+03.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="SPortsNet+04.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="SPortsNet+05.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="SPortsNet+06.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="SPortsNet+07.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="SPortsNet+08.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="SPortsNet+09.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="SPortsNet+10.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="SPortsNet+11.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="SPortsNet+17.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="SPortsNet+18.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="SPortsNet+19.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="SPortsNet+20.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="SPortsNet+21.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="SPortsNet+22.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="SPortsNet+23.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="SPortsNet+24.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="SPortsNet+25.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="SPortsNet+26.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="SPortsNet+27.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
@@ -2958,7 +2911,6 @@
 <programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="MLS48.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="MLS49.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="MLS50.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="NFL01.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="NFL02.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="NFL03.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="NFL04.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
@@ -2974,13 +2926,6 @@
 <programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="NFL14.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="NFL15.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="NFL16.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="NHL05.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="NHL06.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="NHL07.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="NHL08.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="NHL09.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="NHL10.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="NHL11.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="NHL12.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="NHL13.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="NHL14.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
@@ -3016,11 +2961,6 @@
 <programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="WNBA08.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="WNBA09.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="WNBA10.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="NBA01.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="NBA02.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="NBA03.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="NBA04.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="NBA05.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="NBA06.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="NBA07.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="NBA08.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
@@ -3117,8 +3057,9 @@
 <programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="NCAAF84.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="NCAAF85.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="Max001.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="Max002.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="Max003.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="Max004.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="Max005.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="Max006.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="Max007.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="Max008.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="Max009.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
@@ -3213,6 +3154,7 @@
 <programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="Max098.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="Max099.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="Max100.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="Stan001.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="Stan031.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="Stan032.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="Stan033.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
@@ -3326,6 +3268,46 @@
 <programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="FloCollege041.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="FloCollege042.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="FloCollege043.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="FloCollege044.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="FloCollege045.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="FloCollege046.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="FloCollege047.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="FloCollege048.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="FloCollege049.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="FloCollege050.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="FloCollege051.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="FloCollege052.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="FloCollege053.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="FloCollege054.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="FloCollege055.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="FloCollege056.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="FloCollege057.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="FloCollege058.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="FloCollege059.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="FloCollege060.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="FloCollege061.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="FloCollege062.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="FloCollege063.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="FloCollege064.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="FloCollege065.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="FloCollege066.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="FloCollege067.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="FloCollege068.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="FloCollege069.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="FloCollege070.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="FloCollege071.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="FloCollege072.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="FloCollege073.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="FloCollege074.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="FloCollege075.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="FloCollege076.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="FloCollege077.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="FloCollege078.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="FloCollege079.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="FloCollege080.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="FloCollege081.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="FloCollege082.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="FloCollege083.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="FloCollege084.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="FloCollege085.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="FloCollege086.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
@@ -3344,6 +3326,7 @@
 <programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="FloCollege099.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="FloCollege100.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="FloRacing01.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="FloRacing02.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="FloRacing03.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="FloRacing04.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="FloRacing05.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
@@ -3383,8 +3366,6 @@
 <programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="Tennis19.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="Tennis20.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="Tennis21.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="Tennis22.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="Tennis23.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="Tennis24.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="Tennis25.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="Tennis26.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
@@ -3413,11 +3394,6 @@
 <programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="Tennis49.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="Tennis50.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="Paramount+US001.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="Paramount+US002.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="Paramount+US003.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="Paramount+US004.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="Paramount+US005.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="Paramount+US006.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="Paramount+US007.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="Paramount+US008.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251016000000 +0000" stop="20251021235959 +0000" channel="Paramount+US009.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
