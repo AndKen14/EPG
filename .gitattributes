@@ -1,0 +1,6 @@
+guidePPVb1g.xml filter=lfs diff=lfs merge=lfs -text
+guidePPVmega.xml filter=lfs diff=lfs merge=lfs -text
+guidePPVstrong8k.xml filter=lfs diff=lfs merge=lfs -text
+guideusa.xml filter=lfs diff=lfs merge=lfs -text
+guide.xml filter=lfs diff=lfs merge=lfs -text
+guide2.xml filter=lfs diff=lfs merge=lfs -text
