@@ -1,43 +1,32 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20250903">
-<channel id="B1GLiveSports06.uk"><display-name>B1G Live Sports 06</display-name><url>https://sky.com</url></channel>
-<channel id="B1GLiveSports07.uk"><display-name>B1G Live Sports 07</display-name><url>https://sky.com</url></channel>
-<channel id="B1GLiveSports08.uk"><display-name>B1G Live Sports 08</display-name><url>https://sky.com</url></channel>
-<channel id="B1GLiveSports09.uk"><display-name>B1G Live Sports 09</display-name><url>https://sky.com</url></channel>
+<channel id="B1GLiveSports03.uk"><display-name>B1G Live Sports 03</display-name><url>https://sky.com</url></channel>
+<channel id="B1GLiveSports04.uk"><display-name>B1G Live Sports 04</display-name><url>https://sky.com</url></channel>
+<channel id="B1GLiveFootball05.uk"><display-name>B1G | Live Football 05</display-name><url>https://sky.com</url></channel>
+<channel id="B1GLiveFootball06.uk"><display-name>B1G | Live Football 06</display-name><url>https://sky.com</url></channel>
+<channel id="B1GLiveFootball07.uk"><display-name>B1G | Live Football 07</display-name><url>https://sky.com</url></channel>
+<channel id="B1GLiveFootball08.uk"><display-name>B1G | Live Football 08</display-name><url>https://sky.com</url></channel>
+<channel id="B1GLiveFootball11.uk"><display-name>B1G | Live Football 11</display-name><url>https://sky.com</url></channel>
+<channel id="B1GLiveFootball12.uk"><display-name>B1G | Live Football 12</display-name><url>https://sky.com</url></channel>
+<channel id="B1GLiveFootball13.uk"><display-name>B1G | Live Football 13</display-name><url>https://sky.com</url></channel>
+<channel id="B1GLiveFootball14.uk"><display-name>B1G | Live Football 14</display-name><url>https://sky.com</url></channel>
+<channel id="B1GLiveFootball19.uk"><display-name>B1G | Live Football 19</display-name><url>https://sky.com</url></channel>
+<channel id="B1GLiveFootball20.uk"><display-name>B1G | Live Football 20</display-name><url>https://sky.com</url></channel>
 <channel id="B1GLiveEvents01.uk"><display-name>B1G Live Events 01</display-name><url>https://sky.com</url></channel>
-<channel id="B1GLiveEvents02.uk"><display-name>B1G Live Events 02</display-name><url>https://sky.com</url></channel>
-<channel id="B1GLiveEvents12.uk"><display-name>B1G Live Events 12</display-name><url>https://sky.com</url></channel>
-<channel id="B1GLiveEvents13.uk"><display-name>B1G Live Events 13</display-name><url>https://sky.com</url></channel>
-<channel id="B1GLiveEvents14.uk"><display-name>B1G Live Events 14</display-name><url>https://sky.com</url></channel>
-<channel id="B1GLiveEvents15.uk"><display-name>B1G Live Events 15</display-name><url>https://sky.com</url></channel>
-<channel id="B1GEPLEvent23.uk"><display-name>B1G | EPL Event 23</display-name><url>https://sky.com</url></channel>
-<channel id="B1GEPLEvent24.uk"><display-name>B1G | EPL Event 24</display-name><url>https://sky.com</url></channel>
-<channel id="B1GEPLEvent25.uk"><display-name>B1G | EPL Event 25</display-name><url>https://sky.com</url></channel>
-<channel id="B1GEPLEvent26.uk"><display-name>B1G | EPL Event 26</display-name><url>https://sky.com</url></channel>
-<channel id="B1GEPLEvent27.uk"><display-name>B1G | EPL Event 27</display-name><url>https://sky.com</url></channel>
-<channel id="B1GEPLEvent28.uk"><display-name>B1G | EPL Event 28</display-name><url>https://sky.com</url></channel>
-<channel id="B1GEPLEvent29.uk"><display-name>B1G | EPL Event 29</display-name><url>https://sky.com</url></channel>
-<channel id="B1GEPLEvent30.uk"><display-name>B1G | EPL Event 30</display-name><url>https://sky.com</url></channel>
-<channel id="B1GEPLEvent31.uk"><display-name>B1G | EPL Event 31</display-name><url>https://sky.com</url></channel>
-<channel id="B1GEPLEvent32.uk"><display-name>B1G | EPL Event 32</display-name><url>https://sky.com</url></channel>
-<channel id="B1GEPLEvent33.uk"><display-name>B1G | EPL Event 33</display-name><url>https://sky.com</url></channel>
-<channel id="B1GEPLEvent34.uk"><display-name>B1G | EPL Event 34</display-name><url>https://sky.com</url></channel>
-<channel id="B1GEPLEvent35.uk"><display-name>B1G | EPL Event 35</display-name><url>https://sky.com</url></channel>
-<channel id="B1GEPLEvent36.uk"><display-name>B1G | EPL Event 36</display-name><url>https://sky.com</url></channel>
-<channel id="B1GEPLEvent37.uk"><display-name>B1G | EPL Event 37</display-name><url>https://sky.com</url></channel>
-<channel id="B1GEPLEvent38.uk"><display-name>B1G | EPL Event 38</display-name><url>https://sky.com</url></channel>
+<channel id="B1GFiteTV08.uk"><display-name>B1G Fite TV 08</display-name><url>https://sky.com</url></channel>
+<channel id="B1GFiteTV09.uk"><display-name>B1G Fite TV 09</display-name><url>https://sky.com</url></channel>
+<channel id="B1GFiteTV10.uk"><display-name>B1G Fite TV 10</display-name><url>https://sky.com</url></channel>
+<channel id="B1GFiteTV11.uk"><display-name>B1G Fite TV 11</display-name><url>https://sky.com</url></channel>
+<channel id="B1GFiteTV12.uk"><display-name>B1G Fite TV 12</display-name><url>https://sky.com</url></channel>
 <channel id="B1GEPLEvent39.uk"><display-name>B1G | EPL Event 39</display-name><url>https://sky.com</url></channel>
 <channel id="B1GEPLEvent40.uk"><display-name>B1G | EPL Event 40</display-name><url>https://sky.com</url></channel>
 <channel id="B1GEPLEvent41.uk"><display-name>B1G | EPL Event 41</display-name><url>https://sky.com</url></channel>
 <channel id="B1GEPLEvent42.uk"><display-name>B1G | EPL Event 42</display-name><url>https://sky.com</url></channel>
-<channel id="B1GLigue06.uk"><display-name>B1G Ligue 1 06</display-name><url>https://sky.com</url></channel>
-<channel id="B1GLigue07.uk"><display-name>B1G Ligue 1 07</display-name><url>https://sky.com</url></channel>
-<channel id="B1GLigue08.uk"><display-name>B1G Ligue 1 08</display-name><url>https://sky.com</url></channel>
+<channel id="B1GParamount+05.uk"><display-name>B1G Paramount+ 05</display-name><url>https://sky.com</url></channel>
+<channel id="B1GParamount+06.uk"><display-name>B1G Paramount+ 06</display-name><url>https://sky.com</url></channel>
 <channel id="B1GLigue09.uk"><display-name>B1G Ligue 1 09</display-name><url>https://sky.com</url></channel>
-<channel id="B1GMonoMax06.uk"><display-name>B1G | MonoMax PL 06</display-name><url>https://sky.com</url></channel>
-<channel id="B1GMonoMax07.uk"><display-name>B1G | MonoMax PL 07</display-name><url>https://sky.com</url></channel>
-<channel id="B1GMonoMax08.uk"><display-name>B1G | MonoMax PL 08</display-name><url>https://sky.com</url></channel>
-<channel id="B1GMonoMax09.uk"><display-name>B1G | MonoMax PL 09</display-name><url>https://sky.com</url></channel>
 <channel id="B1GMonoMax10.uk"><display-name>B1G | MonoMax PL 10</display-name><url>https://sky.com</url></channel>
+<channel id="B1GLiveRugby04.uk"><display-name>B1G Live Rugby 04</display-name><url>https://sky.com</url></channel>
+<channel id="B1GLiveRugby05.uk"><display-name>B1G Live Rugby 05</display-name><url>https://sky.com</url></channel>
 <channel id="B1GNFL05.uk"><display-name>B1G NFL 05</display-name><url>https://sky.com</url></channel>
 <channel id="B1GNFL06.uk"><display-name>B1G NFL 06</display-name><url>https://sky.com</url></channel>
 <channel id="B1GNFL07.uk"><display-name>B1G NFL 07</display-name><url>https://sky.com</url></channel>
@@ -48,11 +37,14 @@
 <channel id="B1GNFL12.uk"><display-name>B1G NFL 12</display-name><url>https://sky.com</url></channel>
 <channel id="B1GNFL13.uk"><display-name>B1G NFL 13</display-name><url>https://sky.com</url></channel>
 <channel id="B1GNFL14.uk"><display-name>B1G NFL 14</display-name><url>https://sky.com</url></channel>
+<channel id="B1GNBA01.uk"><display-name>B1G NBA 01</display-name><url>https://sky.com</url></channel>
 <channel id="B1GNBA02.uk"><display-name>B1G NBA 02</display-name><url>https://sky.com</url></channel>
+<channel id="B1GNBA03.uk"><display-name>B1G NBA 03</display-name><url>https://sky.com</url></channel>
 <channel id="B1GNBA04.uk"><display-name>B1G NBA 04</display-name><url>https://sky.com</url></channel>
 <channel id="B1GNBA05.uk"><display-name>B1G NBA 05</display-name><url>https://sky.com</url></channel>
 <channel id="B1GNBA06.uk"><display-name>B1G NBA 06</display-name><url>https://sky.com</url></channel>
 <channel id="B1GNBA07.uk"><display-name>B1G NBA 07</display-name><url>https://sky.com</url></channel>
+<channel id="B1GDirtVision01.uk"><display-name>B1G DirtVision 01</display-name><url>https://sky.com</url></channel>
 <channel id="B1GLivePPV01.uk"><display-name>B1G Live PPV 01</display-name><url>https://sky.com</url></channel>
 <channel id="B1GLivePPV02.uk"><display-name>B1G Live PPV 02</display-name><url>https://sky.com</url></channel>
 <channel id="B1GLivePPV03.uk"><display-name>B1G Live PPV 03</display-name><url>https://sky.com</url></channel>
@@ -75,6 +67,7 @@
 <channel id="B1GUFC10.uk"><display-name>B1G UFC 10</display-name><url>https://sky.com</url></channel>
 <channel id="B1G DAZNPPVFHD.uk"><display-name>B1G DAZN PPV FHD</display-name><url>https://sky.com</url></channel>
 <channel id="B1G DAZNPPVHD.uk"><display-name>B1G DAZN PPV HD</display-name><url>https://sky.com</url></channel>
+<channel id="B1GLiveEvents02.uk"><display-name>B1G Live Events 02</display-name><url>https://sky.com</url></channel>
 <channel id="B1GLiveEvents03.uk"><display-name>B1G Live Events 03</display-name><url>https://sky.com</url></channel>
 <channel id="B1GLiveEvents04.uk"><display-name>B1G Live Events 04</display-name><url>https://sky.com</url></channel>
 <channel id="B1GLiveEvents05.uk"><display-name>B1G Live Events 05</display-name><url>https://sky.com</url></channel>
@@ -84,6 +77,10 @@
 <channel id="B1GLiveEvents09.uk"><display-name>B1G Live Events 09</display-name><url>https://sky.com</url></channel>
 <channel id="B1GLiveEvents10.uk"><display-name>B1G Live Events 10</display-name><url>https://sky.com</url></channel>
 <channel id="B1GLiveEvents11.uk"><display-name>B1G Live Events 11</display-name><url>https://sky.com</url></channel>
+<channel id="B1GLiveEvents12.uk"><display-name>B1G Live Events 12</display-name><url>https://sky.com</url></channel>
+<channel id="B1GLiveEvents13.uk"><display-name>B1G Live Events 13</display-name><url>https://sky.com</url></channel>
+<channel id="B1GLiveEvents14.uk"><display-name>B1G Live Events 14</display-name><url>https://sky.com</url></channel>
+<channel id="B1GLiveEvents15.uk"><display-name>B1G Live Events 15</display-name><url>https://sky.com</url></channel>
 <channel id="B1GLiveEvents16.uk"><display-name>B1G Live Events 16</display-name><url>https://sky.com</url></channel>
 <channel id="B1GLiveEvents17.uk"><display-name>B1G Live Events 17</display-name><url>https://sky.com</url></channel>
 <channel id="B1GLiveEvents18.uk"><display-name>B1G Live Events 18</display-name><url>https://sky.com</url></channel>
@@ -113,16 +110,13 @@
 <channel id="B1GFiteTV05.uk"><display-name>B1G Fite TV 05</display-name><url>https://sky.com</url></channel>
 <channel id="B1GFiteTV06.uk"><display-name>B1G Fite TV 06</display-name><url>https://sky.com</url></channel>
 <channel id="B1GFiteTV07.uk"><display-name>B1G Fite TV 07</display-name><url>https://sky.com</url></channel>
-<channel id="B1GFiteTV08.uk"><display-name>B1G Fite TV 08</display-name><url>https://sky.com</url></channel>
-<channel id="B1GFiteTV09.uk"><display-name>B1G Fite TV 09</display-name><url>https://sky.com</url></channel>
-<channel id="B1GFiteTV10.uk"><display-name>B1G Fite TV 10</display-name><url>https://sky.com</url></channel>
-<channel id="B1GFiteTV11.uk"><display-name>B1G Fite TV 11</display-name><url>https://sky.com</url></channel>
-<channel id="B1GFiteTV12.uk"><display-name>B1G Fite TV 12</display-name><url>https://sky.com</url></channel>
 <channel id="B1GLiveSports01.uk"><display-name>B1G Live Sports 01</display-name><url>https://sky.com</url></channel>
 <channel id="B1GLiveSports02.uk"><display-name>B1G Live Sports 02</display-name><url>https://sky.com</url></channel>
-<channel id="B1GLiveSports03.uk"><display-name>B1G Live Sports 03</display-name><url>https://sky.com</url></channel>
-<channel id="B1GLiveSports04.uk"><display-name>B1G Live Sports 04</display-name><url>https://sky.com</url></channel>
 <channel id="B1GLiveSports05.uk"><display-name>B1G Live Sports 05</display-name><url>https://sky.com</url></channel>
+<channel id="B1GLiveSports06.uk"><display-name>B1G Live Sports 06</display-name><url>https://sky.com</url></channel>
+<channel id="B1GLiveSports07.uk"><display-name>B1G Live Sports 07</display-name><url>https://sky.com</url></channel>
+<channel id="B1GLiveSports08.uk"><display-name>B1G Live Sports 08</display-name><url>https://sky.com</url></channel>
+<channel id="B1GLiveSports09.uk"><display-name>B1G Live Sports 09</display-name><url>https://sky.com</url></channel>
 <channel id="B1GLiveSports10.uk"><display-name>B1G Live Sports 10</display-name><url>https://sky.com</url></channel>
 <channel id="B1GLiveSports11.uk"><display-name>B1G Live Sports 11</display-name><url>https://sky.com</url></channel>
 <channel id="B1GLiveSports12.uk"><display-name>B1G Live Sports 12</display-name><url>https://sky.com</url></channel>
@@ -171,26 +165,32 @@
 <channel id="B1GEPLEvent20.uk"><display-name>B1G | EPL Event 20</display-name><url>https://sky.com</url></channel>
 <channel id="B1GEPLEvent21.uk"><display-name>B1G | EPL Event 21</display-name><url>https://sky.com</url></channel>
 <channel id="B1GEPLEvent22.uk"><display-name>B1G | EPL Event 22</display-name><url>https://sky.com</url></channel>
+<channel id="B1GEPLEvent23.uk"><display-name>B1G | EPL Event 23</display-name><url>https://sky.com</url></channel>
+<channel id="B1GEPLEvent24.uk"><display-name>B1G | EPL Event 24</display-name><url>https://sky.com</url></channel>
+<channel id="B1GEPLEvent25.uk"><display-name>B1G | EPL Event 25</display-name><url>https://sky.com</url></channel>
+<channel id="B1GEPLEvent26.uk"><display-name>B1G | EPL Event 26</display-name><url>https://sky.com</url></channel>
+<channel id="B1GEPLEvent27.uk"><display-name>B1G | EPL Event 27</display-name><url>https://sky.com</url></channel>
+<channel id="B1GEPLEvent28.uk"><display-name>B1G | EPL Event 28</display-name><url>https://sky.com</url></channel>
+<channel id="B1GEPLEvent29.uk"><display-name>B1G | EPL Event 29</display-name><url>https://sky.com</url></channel>
+<channel id="B1GEPLEvent30.uk"><display-name>B1G | EPL Event 30</display-name><url>https://sky.com</url></channel>
+<channel id="B1GEPLEvent31.uk"><display-name>B1G | EPL Event 31</display-name><url>https://sky.com</url></channel>
+<channel id="B1GEPLEvent32.uk"><display-name>B1G | EPL Event 32</display-name><url>https://sky.com</url></channel>
+<channel id="B1GEPLEvent33.uk"><display-name>B1G | EPL Event 33</display-name><url>https://sky.com</url></channel>
+<channel id="B1GEPLEvent34.uk"><display-name>B1G | EPL Event 34</display-name><url>https://sky.com</url></channel>
+<channel id="B1GEPLEvent35.uk"><display-name>B1G | EPL Event 35</display-name><url>https://sky.com</url></channel>
+<channel id="B1GEPLEvent36.uk"><display-name>B1G | EPL Event 36</display-name><url>https://sky.com</url></channel>
+<channel id="B1GEPLEvent37.uk"><display-name>B1G | EPL Event 37</display-name><url>https://sky.com</url></channel>
+<channel id="B1GEPLEvent38.uk"><display-name>B1G | EPL Event 38</display-name><url>https://sky.com</url></channel>
 <channel id="B1GLiveFootball01.uk"><display-name>B1G | Live Football 01</display-name><url>https://sky.com</url></channel>
 <channel id="B1GLiveFootball02.uk"><display-name>B1G | Live Football 02</display-name><url>https://sky.com</url></channel>
 <channel id="B1GLiveFootball03.uk"><display-name>B1G | Live Football 03</display-name><url>https://sky.com</url></channel>
 <channel id="B1GLiveFootball04.uk"><display-name>B1G | Live Football 04</display-name><url>https://sky.com</url></channel>
-<channel id="B1GLiveFootball05.uk"><display-name>B1G | Live Football 05</display-name><url>https://sky.com</url></channel>
-<channel id="B1GLiveFootball06.uk"><display-name>B1G | Live Football 06</display-name><url>https://sky.com</url></channel>
-<channel id="B1GLiveFootball07.uk"><display-name>B1G | Live Football 07</display-name><url>https://sky.com</url></channel>
-<channel id="B1GLiveFootball08.uk"><display-name>B1G | Live Football 08</display-name><url>https://sky.com</url></channel>
 <channel id="B1GLiveFootball09.uk"><display-name>B1G | Live Football 09</display-name><url>https://sky.com</url></channel>
 <channel id="B1GLiveFootball10.uk"><display-name>B1G | Live Football 10</display-name><url>https://sky.com</url></channel>
-<channel id="B1GLiveFootball11.uk"><display-name>B1G | Live Football 11</display-name><url>https://sky.com</url></channel>
-<channel id="B1GLiveFootball12.uk"><display-name>B1G | Live Football 12</display-name><url>https://sky.com</url></channel>
-<channel id="B1GLiveFootball13.uk"><display-name>B1G | Live Football 13</display-name><url>https://sky.com</url></channel>
-<channel id="B1GLiveFootball14.uk"><display-name>B1G | Live Football 14</display-name><url>https://sky.com</url></channel>
 <channel id="B1GLiveFootball15.uk"><display-name>B1G | Live Football 15</display-name><url>https://sky.com</url></channel>
 <channel id="B1GLiveFootball16.uk"><display-name>B1G | Live Football 16</display-name><url>https://sky.com</url></channel>
 <channel id="B1GLiveFootball17.uk"><display-name>B1G | Live Football 17</display-name><url>https://sky.com</url></channel>
 <channel id="B1GLiveFootball18.uk"><display-name>B1G | Live Football 18</display-name><url>https://sky.com</url></channel>
-<channel id="B1GLiveFootball19.uk"><display-name>B1G | Live Football 19</display-name><url>https://sky.com</url></channel>
-<channel id="B1GLiveFootball20.uk"><display-name>B1G | Live Football 20</display-name><url>https://sky.com</url></channel>
 <channel id="B1GLiveFootball21.uk"><display-name>B1G | Live Football 21</display-name><url>https://sky.com</url></channel>
 <channel id="B1GLiveFootball22.uk"><display-name>B1G | Live Football 22</display-name><url>https://sky.com</url></channel>
 <channel id="B1GLiveFootball23.uk"><display-name>B1G | Live Football 23</display-name><url>https://sky.com</url></channel>
@@ -334,11 +334,18 @@
 <channel id="B1GMonoMax03.uk"><display-name>B1G | MonoMax PL 03</display-name><url>https://sky.com</url></channel>
 <channel id="B1GMonoMax04.uk"><display-name>B1G | MonoMax PL 04</display-name><url>https://sky.com</url></channel>
 <channel id="B1GMonoMax05.uk"><display-name>B1G | MonoMax PL 05</display-name><url>https://sky.com</url></channel>
+<channel id="B1GMonoMax06.uk"><display-name>B1G | MonoMax PL 06</display-name><url>https://sky.com</url></channel>
+<channel id="B1GMonoMax07.uk"><display-name>B1G | MonoMax PL 07</display-name><url>https://sky.com</url></channel>
+<channel id="B1GMonoMax08.uk"><display-name>B1G | MonoMax PL 08</display-name><url>https://sky.com</url></channel>
+<channel id="B1GMonoMax09.uk"><display-name>B1G | MonoMax PL 09</display-name><url>https://sky.com</url></channel>
 <channel id="B1GLigue01.uk"><display-name>B1G Ligue 1 01</display-name><url>https://sky.com</url></channel>
 <channel id="B1GLigue02.uk"><display-name>B1G Ligue 1 02</display-name><url>https://sky.com</url></channel>
 <channel id="B1GLigue03.uk"><display-name>B1G Ligue 1 03</display-name><url>https://sky.com</url></channel>
 <channel id="B1GLigue04.uk"><display-name>B1G Ligue 1 04</display-name><url>https://sky.com</url></channel>
 <channel id="B1GLigue05.uk"><display-name>B1G Ligue 1 05</display-name><url>https://sky.com</url></channel>
+<channel id="B1GLigue06.uk"><display-name>B1G Ligue 1 06</display-name><url>https://sky.com</url></channel>
+<channel id="B1GLigue07.uk"><display-name>B1G Ligue 1 07</display-name><url>https://sky.com</url></channel>
+<channel id="B1GLigue08.uk"><display-name>B1G Ligue 1 08</display-name><url>https://sky.com</url></channel>
 <channel id="B1GWSL01.uk"><display-name>B1G WSL 01</display-name><url>https://sky.com</url></channel>
 <channel id="B1GWSL02.uk"><display-name>B1G WSL 02</display-name><url>https://sky.com</url></channel>
 <channel id="B1GWSL03.uk"><display-name>B1G WSL 03</display-name><url>https://sky.com</url></channel>
@@ -365,8 +372,6 @@
 <channel id="B1GLiveRugby01.uk"><display-name>B1G Live Rugby 01</display-name><url>https://sky.com</url></channel>
 <channel id="B1GLiveRugby02.uk"><display-name>B1G Live Rugby 02</display-name><url>https://sky.com</url></channel>
 <channel id="B1GLiveRugby03.uk"><display-name>B1G Live Rugby 03</display-name><url>https://sky.com</url></channel>
-<channel id="B1GLiveRugby04.uk"><display-name>B1G Live Rugby 04</display-name><url>https://sky.com</url></channel>
-<channel id="B1GLiveRugby05.uk"><display-name>B1G Live Rugby 05</display-name><url>https://sky.com</url></channel>
 <channel id="B1GLiveRugby06.uk"><display-name>B1G Live Rugby 06</display-name><url>https://sky.com</url></channel>
 <channel id="B1GLiveRugby07.uk"><display-name>B1G Live Rugby 07</display-name><url>https://sky.com</url></channel>
 <channel id="B1GLiveRugby08.uk"><display-name>B1G Live Rugby 08</display-name><url>https://sky.com</url></channel>
@@ -442,8 +447,6 @@
 <channel id="B1GMLB15.uk"><display-name>B1G MLB 15</display-name><url>https://sky.com</url></channel>
 <channel id="B1GMLB16.uk"><display-name>B1G MLB 16</display-name><url>https://sky.com</url></channel>
 <channel id="B1GMLB17.uk"><display-name>B1G MLB 17</display-name><url>https://sky.com</url></channel>
-<channel id="B1GNBA01.uk"><display-name>B1G NBA 01</display-name><url>https://sky.com</url></channel>
-<channel id="B1GNBA03.uk"><display-name>B1G NBA 03</display-name><url>https://sky.com</url></channel>
 <channel id="B1GNBA08.uk"><display-name>B1G NBA 08</display-name><url>https://sky.com</url></channel>
 <channel id="B1GNBA09.uk"><display-name>B1G NBA 09</display-name><url>https://sky.com</url></channel>
 <channel id="B1GNBA10.uk"><display-name>B1G NBA 10</display-name><url>https://sky.com</url></channel>
@@ -665,8 +668,6 @@
 <channel id="B1GParamount+02.uk"><display-name>B1G Paramount+ 02</display-name><url>https://sky.com</url></channel>
 <channel id="B1GParamount+03.uk"><display-name>B1G Paramount+ 03</display-name><url>https://sky.com</url></channel>
 <channel id="B1GParamount+04.uk"><display-name>B1G Paramount+ 04</display-name><url>https://sky.com</url></channel>
-<channel id="B1GParamount+05.uk"><display-name>B1G Paramount+ 05</display-name><url>https://sky.com</url></channel>
-<channel id="B1GParamount+06.uk"><display-name>B1G Paramount+ 06</display-name><url>https://sky.com</url></channel>
 <channel id="B1GParamount+07.uk"><display-name>B1G Paramount+ 07</display-name><url>https://sky.com</url></channel>
 <channel id="B1GParamount+08.uk"><display-name>B1G Paramount+ 08</display-name><url>https://sky.com</url></channel>
 <channel id="B1GParamount+09.uk"><display-name>B1G Paramount+ 09</display-name><url>https://sky.com</url></channel>
@@ -858,7 +859,6 @@
 <channel id="B1GSetanta28.uk"><display-name>B1G Setanta 28</display-name><url>https://sky.com</url></channel>
 <channel id="B1GSetanta29.uk"><display-name>B1G Setanta 29</display-name><url>https://sky.com</url></channel>
 <channel id="B1GSetanta30.uk"><display-name>B1G Setanta 30</display-name><url>https://sky.com</url></channel>
-<channel id="B1GDirtVision01.uk"><display-name>B1G DirtVision 01</display-name><url>https://sky.com</url></channel>
 <channel id="B1GDirtVision02.uk"><display-name>B1G DirtVision 02</display-name><url>https://sky.com</url></channel>
 <channel id="B1GDirtVision03.uk"><display-name>B1G DirtVision 03</display-name><url>https://sky.com</url></channel>
 <channel id="B1GDirtVision04.uk"><display-name>B1G DirtVision 04</display-name><url>https://sky.com</url></channel>
@@ -960,84 +960,60 @@
 <channel id="B1GGaaGo08.uk"><display-name>GaaGo 08</display-name><url>https://sky.com</url></channel>
 <channel id="B1GGaaGo09.uk"><display-name>GaaGo 09</display-name><url>https://sky.com</url></channel>
 <channel id="B1GGaaGo10.uk"><display-name>GaaGo 10</display-name><url>https://sky.com</url></channel>
-<programme start="20251130000000 +0000" stop="20251130010000 +0000" channel="B1GLiveSports06.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251130010000 +0000" stop="20251130060000 +0000" channel="B1GLiveSports06.uk"><title lang="en">06. DP World Tour | A</title><desc lang="en">06. DP World Tour | Australian PGA Championship (Sun 01:00 UK)</desc></programme>
-<programme start="20251130060000 +0000" stop="20251205235959 +0000" channel="B1GLiveSports06.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251130000000 +0000" stop="20251130010000 +0000" channel="B1GLiveSports07.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251130010000 +0000" stop="20251130060000 +0000" channel="B1GLiveSports07.uk"><title lang="en">07. DP World Tour | A</title><desc lang="en">07. DP World Tour | Australian PGA Championship (Sun 01:00 UK)</desc></programme>
-<programme start="20251130060000 +0000" stop="20251205235959 +0000" channel="B1GLiveSports07.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251130000000 +0000" stop="20251130010000 +0000" channel="B1GLiveSports08.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251130010000 +0000" stop="20251130060000 +0000" channel="B1GLiveSports08.uk"><title lang="en">08. DP World Tour | A</title><desc lang="en">08. DP World Tour | Australian PGA Championship (Sun 01:00 UK)</desc></programme>
-<programme start="20251130060000 +0000" stop="20251205235959 +0000" channel="B1GLiveSports08.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251130000000 +0000" stop="20251130010000 +0000" channel="B1GLiveSports09.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251130010000 +0000" stop="20251130060000 +0000" channel="B1GLiveSports09.uk"><title lang="en">09. DP World Tour | A</title><desc lang="en">09. DP World Tour | Australian PGA Championship (Sun 01:00 UK)</desc></programme>
-<programme start="20251130060000 +0000" stop="20251205235959 +0000" channel="B1GLiveSports09.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251130000000 +0000" stop="20251130000000 +0000" channel="B1GLiveEvents01.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251130000000 +0000" stop="20251130040000 +0000" channel="B1GLiveEvents01.uk"><title lang="en">LIVE EVENT 01 - 7PM W</title><desc lang="en">LIVE EVENT 01 - 7PM WWE Survivor Series</desc></programme>
-<programme start="20251130040000 +0000" stop="20251205235959 +0000" channel="B1GLiveEvents01.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251130000000 +0000" stop="20251130000000 +0000" channel="B1GLiveEvents02.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251130000000 +0000" stop="20251130040000 +0000" channel="B1GLiveEvents02.uk"><title lang="en">LIVE EVENT 02 - 7PM W</title><desc lang="en">LIVE EVENT 02 - 7PM WWE Survivor Series</desc></programme>
-<programme start="20251130040000 +0000" stop="20251205235959 +0000" channel="B1GLiveEvents02.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251130000000 +0000" stop="20251130000000 +0000" channel="B1GLiveEvents12.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251130000000 +0000" stop="20251130040000 +0000" channel="B1GLiveEvents12.uk"><title lang="en">LIVE EVENT 12 - 7PM L</title><desc lang="en">LIVE EVENT 12 - 7PM Lafreniere v Ntetu</desc></programme>
-<programme start="20251130040000 +0000" stop="20251205235959 +0000" channel="B1GLiveEvents12.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251130000000 +0000" stop="20251130000000 +0000" channel="B1GLiveEvents13.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251130000000 +0000" stop="20251130040000 +0000" channel="B1GLiveEvents13.uk"><title lang="en">LIVE EVENT 13 - 7PM P</title><desc lang="en">LIVE EVENT 13 - 7PM Pauldo v Theran</desc></programme>
-<programme start="20251130040000 +0000" stop="20251205235959 +0000" channel="B1GLiveEvents13.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251130000000 +0000" stop="20251130020000 +0000" channel="B1GLiveEvents14.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251130020000 +0000" stop="20251130060000 +0000" channel="B1GLiveEvents14.uk"><title lang="en">LIVE EVENT 14 - 9PM L</title><desc lang="en">LIVE EVENT 14 - 9PM Luna v Jardon (en Espanol)</desc></programme>
-<programme start="20251130060000 +0000" stop="20251205235959 +0000" channel="B1GLiveEvents14.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251130000000 +0000" stop="20251130030000 +0000" channel="B1GLiveEvents15.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251130030000 +0000" stop="20251130070000 +0000" channel="B1GLiveEvents15.uk"><title lang="en">LIVE EVENT 15 - 10PM </title><desc lang="en">LIVE EVENT 15 - 10PM Pierce v Parra (en Espanol)</desc></programme>
-<programme start="20251130070000 +0000" stop="20251205235959 +0000" channel="B1GLiveEvents15.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251130000000 +0000" stop="20251130120000 +0000" channel="B1GEPLEvent23.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251130120000 +0000" stop="20251130150000 +0000" channel="B1GEPLEvent23.uk"><title lang="en">23. EPL 06 | Crystal </title><desc lang="en">23. EPL 06 | Crystal Palace vs Manchester United (Sun 12:00 UK)</desc></programme>
-<programme start="20251130150000 +0000" stop="20251205235959 +0000" channel="B1GEPLEvent23.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251130000000 +0000" stop="20251130120000 +0000" channel="B1GEPLEvent24.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251130120000 +0000" stop="20251130150000 +0000" channel="B1GEPLEvent24.uk"><title lang="en">24. EPL 06 | Crystal </title><desc lang="en">24. EPL 06 | Crystal Palace vs Manchester United (Sun 12:00 UK)</desc></programme>
-<programme start="20251130150000 +0000" stop="20251205235959 +0000" channel="B1GEPLEvent24.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251130000000 +0000" stop="20251130120000 +0000" channel="B1GEPLEvent25.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251130120000 +0000" stop="20251130150000 +0000" channel="B1GEPLEvent25.uk"><title lang="en">25. EPL 06 | Crystal </title><desc lang="en">25. EPL 06 | Crystal Palace vs Manchester United (Sun 12:00 UK)</desc></programme>
-<programme start="20251130150000 +0000" stop="20251205235959 +0000" channel="B1GEPLEvent25.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251130000000 +0000" stop="20251130120000 +0000" channel="B1GEPLEvent26.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251130120000 +0000" stop="20251130150000 +0000" channel="B1GEPLEvent26.uk"><title lang="en">26. EPL 06 | Crystal </title><desc lang="en">26. EPL 06 | Crystal Palace vs Manchester United (Sun 12:00 UK)</desc></programme>
-<programme start="20251130150000 +0000" stop="20251205235959 +0000" channel="B1GEPLEvent26.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251130000000 +0000" stop="20251130140500 +0000" channel="B1GEPLEvent27.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251130140500 +0000" stop="20251130170500 +0000" channel="B1GEPLEvent27.uk"><title lang="en">27. EPL 07 | Aston Vi</title><desc lang="en">27. EPL 07 | Aston Villa vs Wolves (Sun 14:05 UK)</desc></programme>
-<programme start="20251130170500 +0000" stop="20251205235959 +0000" channel="B1GEPLEvent27.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251130000000 +0000" stop="20251130140500 +0000" channel="B1GEPLEvent28.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251130140500 +0000" stop="20251130170500 +0000" channel="B1GEPLEvent28.uk"><title lang="en">28. EPL 07 | Aston Vi</title><desc lang="en">28. EPL 07 | Aston Villa vs Wolves (Sun 14:05 UK)</desc></programme>
-<programme start="20251130170500 +0000" stop="20251205235959 +0000" channel="B1GEPLEvent28.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251130000000 +0000" stop="20251130140500 +0000" channel="B1GEPLEvent29.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251130140500 +0000" stop="20251130170500 +0000" channel="B1GEPLEvent29.uk"><title lang="en">29. EPL 07 | Aston Vi</title><desc lang="en">29. EPL 07 | Aston Villa vs Wolves (Sun 14:05 UK)</desc></programme>
-<programme start="20251130170500 +0000" stop="20251205235959 +0000" channel="B1GEPLEvent29.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251130000000 +0000" stop="20251130140500 +0000" channel="B1GEPLEvent30.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251130140500 +0000" stop="20251130170500 +0000" channel="B1GEPLEvent30.uk"><title lang="en">30. EPL 07 | Aston Vi</title><desc lang="en">30. EPL 07 | Aston Villa vs Wolves (Sun 14:05 UK)</desc></programme>
-<programme start="20251130170500 +0000" stop="20251205235959 +0000" channel="B1GEPLEvent30.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251130000000 +0000" stop="20251130140500 +0000" channel="B1GEPLEvent31.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251130140500 +0000" stop="20251130170500 +0000" channel="B1GEPLEvent31.uk"><title lang="en">31. EPL 08 | Nottingh</title><desc lang="en">31. EPL 08 | Nottingham Forest vs Brighton (Sun 14:05 UK)</desc></programme>
-<programme start="20251130170500 +0000" stop="20251205235959 +0000" channel="B1GEPLEvent31.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251130000000 +0000" stop="20251130140500 +0000" channel="B1GEPLEvent32.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251130140500 +0000" stop="20251130170500 +0000" channel="B1GEPLEvent32.uk"><title lang="en">32. EPL 08 | Nottingh</title><desc lang="en">32. EPL 08 | Nottingham Forest vs Brighton (Sun 14:05 UK)</desc></programme>
-<programme start="20251130170500 +0000" stop="20251205235959 +0000" channel="B1GEPLEvent32.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251130000000 +0000" stop="20251130140500 +0000" channel="B1GEPLEvent33.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251130140500 +0000" stop="20251130170500 +0000" channel="B1GEPLEvent33.uk"><title lang="en">33. EPL 08 | Nottingh</title><desc lang="en">33. EPL 08 | Nottingham Forest vs Brighton (Sun 14:05 UK)</desc></programme>
-<programme start="20251130170500 +0000" stop="20251205235959 +0000" channel="B1GEPLEvent33.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251130000000 +0000" stop="20251130140500 +0000" channel="B1GEPLEvent34.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251130140500 +0000" stop="20251130170500 +0000" channel="B1GEPLEvent34.uk"><title lang="en">34. EPL 08 | Nottingh</title><desc lang="en">34. EPL 08 | Nottingham Forest vs Brighton (Sun 14:05 UK)</desc></programme>
-<programme start="20251130170500 +0000" stop="20251205235959 +0000" channel="B1GEPLEvent34.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251130000000 +0000" stop="20251130140500 +0000" channel="B1GEPLEvent35.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251130140500 +0000" stop="20251130170500 +0000" channel="B1GEPLEvent35.uk"><title lang="en">35. EPL 09 | West Ham</title><desc lang="en">35. EPL 09 | West Ham vs Liverpool (Sun 14:05 UK)</desc></programme>
-<programme start="20251130170500 +0000" stop="20251205235959 +0000" channel="B1GEPLEvent35.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251130000000 +0000" stop="20251130140500 +0000" channel="B1GEPLEvent36.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251130140500 +0000" stop="20251130170500 +0000" channel="B1GEPLEvent36.uk"><title lang="en">36. EPL 09 | West Ham</title><desc lang="en">36. EPL 09 | West Ham vs Liverpool (Sun 14:05 UK)</desc></programme>
-<programme start="20251130170500 +0000" stop="20251205235959 +0000" channel="B1GEPLEvent36.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251130000000 +0000" stop="20251130140500 +0000" channel="B1GEPLEvent37.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251130140500 +0000" stop="20251130170500 +0000" channel="B1GEPLEvent37.uk"><title lang="en">37. EPL 09 | West Ham</title><desc lang="en">37. EPL 09 | West Ham vs Liverpool (Sun 14:05 UK)</desc></programme>
-<programme start="20251130170500 +0000" stop="20251205235959 +0000" channel="B1GEPLEvent37.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251130000000 +0000" stop="20251130140500 +0000" channel="B1GEPLEvent38.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251130140500 +0000" stop="20251130170500 +0000" channel="B1GEPLEvent38.uk"><title lang="en">38. EPL 09 | West Ham</title><desc lang="en">38. EPL 09 | West Ham vs Liverpool (Sun 14:05 UK)</desc></programme>
-<programme start="20251130170500 +0000" stop="20251205235959 +0000" channel="B1GEPLEvent38.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251130000000 +0000" stop="20251130230000 +0000" channel="B1GLiveSports03.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251130230000 +0000" stop="20251201040000 +0000" channel="B1GLiveSports03.uk"><title lang="en">03. Premier Padel | M</title><desc lang="en">03. Premier Padel | Mexico (Sun 23:00 UK)</desc></programme>
+<programme start="20251201040000 +0000" stop="20251205235959 +0000" channel="B1GLiveSports03.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251130000000 +0000" stop="20251130230000 +0000" channel="B1GLiveSports04.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251130230000 +0000" stop="20251201040000 +0000" channel="B1GLiveSports04.uk"><title lang="en">04. Premier Padel | M</title><desc lang="en">04. Premier Padel | Mexico (Sun 23:00 UK)</desc></programme>
+<programme start="20251201040000 +0000" stop="20251205235959 +0000" channel="B1GLiveSports04.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251130000000 +0000" stop="20251130170000 +0000" channel="B1GLiveFootball05.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251130170000 +0000" stop="20251130200000 +0000" channel="B1GLiveFootball05.uk"><title lang="en">05. Serie A | Atalant</title><desc lang="en">05. Serie A | Atalanta vs Fiorentina (Sun 17:00 UK)</desc></programme>
+<programme start="20251130200000 +0000" stop="20251205235959 +0000" channel="B1GLiveFootball05.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251130000000 +0000" stop="20251130170000 +0000" channel="B1GLiveFootball06.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251130170000 +0000" stop="20251130200000 +0000" channel="B1GLiveFootball06.uk"><title lang="en">06. Serie A | Atalant</title><desc lang="en">06. Serie A | Atalanta vs Fiorentina (Sun 17:00 UK)</desc></programme>
+<programme start="20251130200000 +0000" stop="20251205235959 +0000" channel="B1GLiveFootball06.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251130000000 +0000" stop="20251130194500 +0000" channel="B1GLiveFootball07.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251130194500 +0000" stop="20251130224500 +0000" channel="B1GLiveFootball07.uk"><title lang="en">07. Serie A | AS Roma</title><desc lang="en">07. Serie A | AS Roma vs Napoli (Sun 19:45 UK)</desc></programme>
+<programme start="20251130224500 +0000" stop="20251205235959 +0000" channel="B1GLiveFootball07.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251130000000 +0000" stop="20251130194500 +0000" channel="B1GLiveFootball08.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251130194500 +0000" stop="20251130224500 +0000" channel="B1GLiveFootball08.uk"><title lang="en">08. Serie A | AS Roma</title><desc lang="en">08. Serie A | AS Roma vs Napoli (Sun 19:45 UK)</desc></programme>
+<programme start="20251130224500 +0000" stop="20251205235959 +0000" channel="B1GLiveFootball08.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251130000000 +0000" stop="20251130163000 +0000" channel="B1GLiveFootball11.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251130163000 +0000" stop="20251130193000 +0000" channel="B1GLiveFootball11.uk"><title lang="en">11. Bundesliga | Fran</title><desc lang="en">11. Bundesliga | Frankfurt vs Wolfsburg (Sun 16:30 UK)</desc></programme>
+<programme start="20251130193000 +0000" stop="20251205235959 +0000" channel="B1GLiveFootball11.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251130000000 +0000" stop="20251130163000 +0000" channel="B1GLiveFootball12.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251130163000 +0000" stop="20251130193000 +0000" channel="B1GLiveFootball12.uk"><title lang="en">12. Bundesliga | Fran</title><desc lang="en">12. Bundesliga | Frankfurt vs Wolfsburg (Sun 16:30 UK)</desc></programme>
+<programme start="20251130193000 +0000" stop="20251205235959 +0000" channel="B1GLiveFootball12.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251130000000 +0000" stop="20251130183000 +0000" channel="B1GLiveFootball13.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251130183000 +0000" stop="20251130213000 +0000" channel="B1GLiveFootball13.uk"><title lang="en">13. Bundesliga | Frei</title><desc lang="en">13. Bundesliga | Freiburg vs Mainz (Sun 18:30 UK)</desc></programme>
+<programme start="20251130213000 +0000" stop="20251205235959 +0000" channel="B1GLiveFootball13.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251130000000 +0000" stop="20251130183000 +0000" channel="B1GLiveFootball14.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251130183000 +0000" stop="20251130213000 +0000" channel="B1GLiveFootball14.uk"><title lang="en">14. Bundesliga | Frei</title><desc lang="en">14. Bundesliga | Freiburg vs Mainz (Sun 18:30 UK)</desc></programme>
+<programme start="20251130213000 +0000" stop="20251205235959 +0000" channel="B1GLiveFootball14.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251130000000 +0000" stop="20251130190000 +0000" channel="B1GLiveFootball19.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251130190000 +0000" stop="20251130220000 +0000" channel="B1GLiveFootball19.uk"><title lang="en">19. Eredivisie | Ajax</title><desc lang="en">19. Eredivisie | Ajax vs Groningen (Sun 19:00 UK)</desc></programme>
+<programme start="20251130220000 +0000" stop="20251205235959 +0000" channel="B1GLiveFootball19.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251130000000 +0000" stop="20251130170000 +0000" channel="B1GLiveFootball20.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251130170000 +0000" stop="20251130200000 +0000" channel="B1GLiveFootball20.uk"><title lang="en">20. Turkish Super Lig</title><desc lang="en">20. Turkish Super Lig | Fatih Karagumruk vs Besiktas (Sun 17:00 UK)</desc></programme>
+<programme start="20251130200000 +0000" stop="20251205235959 +0000" channel="B1GLiveFootball20.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251130000000 +0000" stop="20251130160000 +0000" channel="B1GLiveEvents01.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251130160000 +0000" stop="20251130200000 +0000" channel="B1GLiveEvents01.uk"><title lang="en">LIVE EVENT 01 - 11AM </title><desc lang="en">LIVE EVENT 01 - 11AM Ursu v Amos</desc></programme>
+<programme start="20251130200000 +0000" stop="20251205235959 +0000" channel="B1GLiveEvents01.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251130000000 +0000" stop="20251201081000 +0000" channel="B1GFiteTV08.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251201081000 +0000" stop="20251201121000 +0000" channel="B1GFiteTV08.uk"><title lang="en">Fite TV 8 HD (D): Tri</title><desc lang="en">Fite TV 8 HD (D): TrillerTV-Willow by Cricbuzz Weber Womens Big Bash League, Season 11: Hobart Hurricanes vs Melbourne Stars - Mon,01 Dec 03:10 EST</desc></programme>
+<programme start="20251201121000 +0000" stop="20251205235959 +0000" channel="B1GFiteTV08.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251130000000 +0000" stop="20251202091000 +0000" channel="B1GFiteTV09.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251202091000 +0000" stop="20251202131000 +0000" channel="B1GFiteTV09.uk"><title lang="en">Fite TV 9 HD (D): Tri</title><desc lang="en">Fite TV 9 HD (D): TrillerTV-Willow by Cricbuzz Weber Womens Big Bash League, Season 11: Perth Scorchers vs Melbourne Renegades - Tue,02 Dec 04:10 EST</desc></programme>
+<programme start="20251202131000 +0000" stop="20251205235959 +0000" channel="B1GFiteTV09.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251130000000 +0000" stop="20251202143000 +0000" channel="B1GFiteTV10.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251202143000 +0000" stop="20251202183000 +0000" channel="B1GFiteTV10.uk"><title lang="en">Fite TV 10 HD (D): Tr</title><desc lang="en">Fite TV 10 HD (D): TrillerTV-Willow by Cricbuzz DP World International League T20 2025: Dubai Capitals vs Desert Vipers - Tue,02 Dec 09:30 EST</desc></programme>
+<programme start="20251202183000 +0000" stop="20251205235959 +0000" channel="B1GFiteTV10.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251130000000 +0000" stop="20251202170500 +0000" channel="B1GFiteTV11.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251202170500 +0000" stop="20251202210500 +0000" channel="B1GFiteTV11.uk"><title lang="en">Fite TV 11 HD (D): Tr</title><desc lang="en">Fite TV 11 HD (D): TrillerTV-BKFC The Bare Knuckle Show with Brian Soscia: Season 2, Episode 127 - Tue,02 Dec 12:05 EST</desc></programme>
+<programme start="20251202210500 +0000" stop="20251205235959 +0000" channel="B1GFiteTV11.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251130000000 +0000" stop="20251203000000 +0000" channel="B1GFiteTV12.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251203000000 +0000" stop="20251203040000 +0000" channel="B1GFiteTV12.uk"><title lang="en">Fite TV 12 HD (D): Tr</title><desc lang="en">Fite TV 12 HD (D): TrillerTV-Country Box Country Box: Where Music Meets Boxing, December 2nd - Tue,02 Dec 19:00 EST</desc></programme>
+<programme start="20251203040000 +0000" stop="20251205235959 +0000" channel="B1GFiteTV12.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251130000000 +0000" stop="20251130163000 +0000" channel="B1GEPLEvent39.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251130163000 +0000" stop="20251130193000 +0000" channel="B1GEPLEvent39.uk"><title lang="en">39. EPL 10 | Chelsea </title><desc lang="en">39. EPL 10 | Chelsea vs Arsneal (Sun 16:30 UK)</desc></programme>
 <programme start="20251130193000 +0000" stop="20251205235959 +0000" channel="B1GEPLEvent39.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
@@ -1050,33 +1026,24 @@
 <programme start="20251130000000 +0000" stop="20251130163000 +0000" channel="B1GEPLEvent42.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251130163000 +0000" stop="20251130193000 +0000" channel="B1GEPLEvent42.uk"><title lang="en">42. EPL 10 | Chelsea </title><desc lang="en">42. EPL 10 | Chelsea vs Arsneal (Sun 16:30 UK)</desc></programme>
 <programme start="20251130193000 +0000" stop="20251205235959 +0000" channel="B1GEPLEvent42.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251130000000 +0000" stop="20251130161500 +0000" channel="B1GLigue06.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251130161500 +0000" stop="20251130191500 +0000" channel="B1GLigue06.uk"><title lang="en">L1 Pass 06 | Lorient </title><desc lang="en">L1 Pass 06 | Lorient vs Nice (Sun 16:15 UK)</desc></programme>
-<programme start="20251130191500 +0000" stop="20251205235959 +0000" channel="B1GLigue06.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251130000000 +0000" stop="20251130161500 +0000" channel="B1GLigue07.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251130161500 +0000" stop="20251130191500 +0000" channel="B1GLigue07.uk"><title lang="en">L1 Pass 07 | Angers v</title><desc lang="en">L1 Pass 07 | Angers vs Lens (Sun 16:15 UK)</desc></programme>
-<programme start="20251130191500 +0000" stop="20251205235959 +0000" channel="B1GLigue07.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251130000000 +0000" stop="20251130161500 +0000" channel="B1GLigue08.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251130161500 +0000" stop="20251130191500 +0000" channel="B1GLigue08.uk"><title lang="en">L1 Pass 08 | Le Havre</title><desc lang="en">L1 Pass 08 | Le Havre vs Lille (Sun 16:15 UK)</desc></programme>
-<programme start="20251130191500 +0000" stop="20251205235959 +0000" channel="B1GLigue08.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251130000000 +0000" stop="20251130190000 +0000" channel="B1GParamount+05.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251130190000 +0000" stop="20251130220000 +0000" channel="B1GParamount+05.uk"><title lang="en">Paramount+ 05 :Serie </title><desc lang="en">Paramount+ 05 :Serie A: Roma vs Napoli @ Nov 30 2:00 PM</desc></programme>
+<programme start="20251130220000 +0000" stop="20251205235959 +0000" channel="B1GParamount+05.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251130000000 +0000" stop="20251130212500 +0000" channel="B1GParamount+06.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251130212500 +0000" stop="20251201002500 +0000" channel="B1GParamount+06.uk"><title lang="en">Paramount+ 06 :NFL on</title><desc lang="en">Paramount+ 06 :NFL on CBS: Las Vegas at L A Chargers @ Nov 30 4:25 PM</desc></programme>
+<programme start="20251201002500 +0000" stop="20251205235959 +0000" channel="B1GParamount+06.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251130000000 +0000" stop="20251130194500 +0000" channel="B1GLigue09.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251130194500 +0000" stop="20251130224500 +0000" channel="B1GLigue09.uk"><title lang="en">L1 Pass 09 | Lyon vs </title><desc lang="en">L1 Pass 09 | Lyon vs Nantes (Sun 19:45 UK)</desc></programme>
 <programme start="20251130224500 +0000" stop="20251205235959 +0000" channel="B1GLigue09.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251130000000 +0000" stop="20251130120000 +0000" channel="B1GMonoMax06.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251130120000 +0000" stop="20251130150000 +0000" channel="B1GMonoMax06.uk"><title lang="en">TH | MonoMax PL 06: C</title><desc lang="en">TH | MonoMax PL 06: Crystal Palace vs Manchester United (Sun 12:00 UK)</desc></programme>
-<programme start="20251130150000 +0000" stop="20251205235959 +0000" channel="B1GMonoMax06.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251130000000 +0000" stop="20251130140500 +0000" channel="B1GMonoMax07.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251130140500 +0000" stop="20251130170500 +0000" channel="B1GMonoMax07.uk"><title lang="en">TH | MonoMax PL 07: A</title><desc lang="en">TH | MonoMax PL 07: Aston Villa vs Wolves (Sun 14:05 UK)</desc></programme>
-<programme start="20251130170500 +0000" stop="20251205235959 +0000" channel="B1GMonoMax07.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251130000000 +0000" stop="20251130140500 +0000" channel="B1GMonoMax08.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251130140500 +0000" stop="20251130170500 +0000" channel="B1GMonoMax08.uk"><title lang="en">TH | MonoMax PL 08: N</title><desc lang="en">TH | MonoMax PL 08: Nottingham Forest vs Brighton (Sun 14:05 UK)</desc></programme>
-<programme start="20251130170500 +0000" stop="20251205235959 +0000" channel="B1GMonoMax08.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251130000000 +0000" stop="20251130140500 +0000" channel="B1GMonoMax09.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251130140500 +0000" stop="20251130170500 +0000" channel="B1GMonoMax09.uk"><title lang="en">TH | MonoMax PL 09: W</title><desc lang="en">TH | MonoMax PL 09: West Ham vs Liverpool (Sun 14:05 UK)</desc></programme>
-<programme start="20251130170500 +0000" stop="20251205235959 +0000" channel="B1GMonoMax09.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251130000000 +0000" stop="20251130163000 +0000" channel="B1GMonoMax10.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251130163000 +0000" stop="20251130193000 +0000" channel="B1GMonoMax10.uk"><title lang="en">TH | MonoMax PL 10: C</title><desc lang="en">TH | MonoMax PL 10: Chelsea vs Arsenal (Sun 16:30 UK)</desc></programme>
 <programme start="20251130193000 +0000" stop="20251205235959 +0000" channel="B1GMonoMax10.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251130000000 +0000" stop="20251130200500 +0000" channel="B1GLiveRugby04.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251130200500 +0000" stop="20251130230500 +0000" channel="B1GLiveRugby04.uk"><title lang="en">04. Top 14 | Pau vs L</title><desc lang="en">04. Top 14 | Pau vs LA Rochelle (Sun 20:05 UK)</desc></programme>
+<programme start="20251130230500 +0000" stop="20251205235959 +0000" channel="B1GLiveRugby04.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251130000000 +0000" stop="20251130200500 +0000" channel="B1GLiveRugby05.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251130200500 +0000" stop="20251130230500 +0000" channel="B1GLiveRugby05.uk"><title lang="en">05. Top 14 | Pau vs L</title><desc lang="en">05. Top 14 | Pau vs LA Rochelle (Sun 20:05 UK)</desc></programme>
+<programme start="20251130230500 +0000" stop="20251205235959 +0000" channel="B1GLiveRugby05.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251130000000 +0000" stop="20251130180000 +0000" channel="B1GNFL05.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251130180000 +0000" stop="20251130220000 +0000" channel="B1GNFL05.uk"><title lang="en">NFL | 05 - 1PM 49ers </title><desc lang="en">NFL | 05 - 1PM 49ers at Browns</desc></programme>
 <programme start="20251130220000 +0000" stop="20251205235959 +0000" channel="B1GNFL05.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
@@ -1107,21 +1074,30 @@
 <programme start="20251130000000 +0000" stop="20251130212500 +0000" channel="B1GNFL14.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251130212500 +0000" stop="20251201012500 +0000" channel="B1GNFL14.uk"><title lang="en">NFL | 14 - 4:25PM Rai</title><desc lang="en">NFL | 14 - 4:25PM Raiders at Chargers</desc></programme>
 <programme start="20251201012500 +0000" stop="20251205235959 +0000" channel="B1GNFL14.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251130000000 +0000" stop="20251130025000 +0000" channel="B1GNBA02.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251130025000 +0000" stop="20251130065000 +0000" channel="B1GNBA02.uk"><title lang="en">NBA 02 : Clippers (LA</title><desc lang="en">NBA 02 : Clippers (LAC) x Mavericks (DAL)</desc></programme>
-<programme start="20251130065000 +0000" stop="20251205235959 +0000" channel="B1GNBA02.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251130000000 +0000" stop="20251130002000 +0000" channel="B1GNBA04.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251130002000 +0000" stop="20251130042000 +0000" channel="B1GNBA04.uk"><title lang="en">NBA 04: Pacers (IND) </title><desc lang="en">NBA 04: Pacers (IND) x Bulls (CHI)</desc></programme>
-<programme start="20251130042000 +0000" stop="20251205235959 +0000" channel="B1GNBA04.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251130000000 +0000" stop="20251130005000 +0000" channel="B1GNBA05.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251130005000 +0000" stop="20251130045000 +0000" channel="B1GNBA05.uk"><title lang="en">NBA 05: Heat (MIA) x </title><desc lang="en">NBA 05: Heat (MIA) x Pistons (DET)</desc></programme>
-<programme start="20251130045000 +0000" stop="20251205235959 +0000" channel="B1GNBA05.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251130000000 +0000" stop="20251130005000 +0000" channel="B1GNBA06.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251130005000 +0000" stop="20251130045000 +0000" channel="B1GNBA06.uk"><title lang="en">NBA 06: Bucks (MIL) x</title><desc lang="en">NBA 06: Bucks (MIL) x Nets (BKN)</desc></programme>
-<programme start="20251130045000 +0000" stop="20251205235959 +0000" channel="B1GNBA06.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251130000000 +0000" stop="20251130012000 +0000" channel="B1GNBA07.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251130012000 +0000" stop="20251130052000 +0000" channel="B1GNBA07.uk"><title lang="en">NBA 07: Warriors (GSW</title><desc lang="en">NBA 07: Warriors (GSW) x Pelicans (NOP)</desc></programme>
-<programme start="20251130052000 +0000" stop="20251205235959 +0000" channel="B1GNBA07.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251130000000 +0000" stop="20251130195000 +0000" channel="B1GNBA01.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251130195000 +0000" stop="20251130235000 +0000" channel="B1GNBA01.uk"><title lang="en">NBA 01: Jazz (UTA) x </title><desc lang="en">NBA 01: Jazz (UTA) x Rockets (HOU)</desc></programme>
+<programme start="20251130235000 +0000" stop="20251205235959 +0000" channel="B1GNBA01.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251130000000 +0000" stop="20251201015000 +0000" channel="B1GNBA02.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251201015000 +0000" stop="20251201055000 +0000" channel="B1GNBA02.uk"><title lang="en">NBA 02 : Kings (SAC) </title><desc lang="en">NBA 02 : Kings (SAC) x Grizzlies (MEM)</desc></programme>
+<programme start="20251201055000 +0000" stop="20251205235959 +0000" channel="B1GNBA02.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251130000000 +0000" stop="20251130225000 +0000" channel="B1GNBA03.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251130225000 +0000" stop="20251201025000 +0000" channel="B1GNBA03.uk"><title lang="en">NBA 03: Cavaliers (CL</title><desc lang="en">NBA 03: Cavaliers (CLE) x Celtics (BOS)</desc></programme>
+<programme start="20251201025000 +0000" stop="20251205235959 +0000" channel="B1GNBA03.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251130000000 +0000" stop="20251130225000 +0000" channel="B1GNBA04.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251130225000 +0000" stop="20251201025000 +0000" channel="B1GNBA04.uk"><title lang="en">NBA 04: Knicks (NYK) </title><desc lang="en">NBA 04: Knicks (NYK) x Raptors (TOR)</desc></programme>
+<programme start="20251201025000 +0000" stop="20251205235959 +0000" channel="B1GNBA04.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251130000000 +0000" stop="20251130225000 +0000" channel="B1GNBA05.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251130225000 +0000" stop="20251201025000 +0000" channel="B1GNBA05.uk"><title lang="en">NBA 05: 76ers (PHI) x</title><desc lang="en">NBA 05: 76ers (PHI) x Hawks (ATL)</desc></programme>
+<programme start="20251201025000 +0000" stop="20251205235959 +0000" channel="B1GNBA05.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251130000000 +0000" stop="20251130225000 +0000" channel="B1GNBA06.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251130225000 +0000" stop="20251201025000 +0000" channel="B1GNBA06.uk"><title lang="en">NBA 06: Trail Blazers</title><desc lang="en">NBA 06: Trail Blazers (POR) x Thunder (OKC)</desc></programme>
+<programme start="20251201025000 +0000" stop="20251205235959 +0000" channel="B1GNBA06.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251130000000 +0000" stop="20251130235000 +0000" channel="B1GNBA07.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251130235000 +0000" stop="20251201035000 +0000" channel="B1GNBA07.uk"><title lang="en">NBA 07: Timberwolves </title><desc lang="en">NBA 07: Timberwolves (MIN) x Spurs (SAS)</desc></programme>
+<programme start="20251201035000 +0000" stop="20251205235959 +0000" channel="B1GNBA07.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251130000000 +0000" stop="20251201010000 +0000" channel="B1GDirtVision01.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251201010000 +0000" stop="20251201050000 +0000" channel="B1GDirtVision01.uk"><title lang="en">DIRTVISION 01 - Huset</title><desc lang="en">DIRTVISION 01 - Huset's Speedway 8:00 pm</desc></programme>
+<programme start="20251201050000 +0000" stop="20251205235959 +0000" channel="B1GDirtVision01.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GLivePPV01.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GLivePPV02.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GLivePPV03.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
@@ -1144,6 +1120,7 @@
 <programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GUFC10.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1G DAZNPPVFHD.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1G DAZNPPVHD.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GLiveEvents02.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GLiveEvents03.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GLiveEvents04.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GLiveEvents05.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
@@ -1153,6 +1130,10 @@
 <programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GLiveEvents09.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GLiveEvents10.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GLiveEvents11.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GLiveEvents12.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GLiveEvents13.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GLiveEvents14.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GLiveEvents15.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GLiveEvents16.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GLiveEvents17.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GLiveEvents18.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
@@ -1182,16 +1163,13 @@
 <programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GFiteTV05.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GFiteTV06.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GFiteTV07.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GFiteTV08.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GFiteTV09.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GFiteTV10.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GFiteTV11.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GFiteTV12.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GLiveSports01.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GLiveSports02.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GLiveSports03.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GLiveSports04.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GLiveSports05.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GLiveSports06.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GLiveSports07.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GLiveSports08.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GLiveSports09.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GLiveSports10.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GLiveSports11.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GLiveSports12.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
@@ -1240,26 +1218,32 @@
 <programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GEPLEvent20.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GEPLEvent21.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GEPLEvent22.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GEPLEvent23.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GEPLEvent24.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GEPLEvent25.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GEPLEvent26.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GEPLEvent27.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GEPLEvent28.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GEPLEvent29.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GEPLEvent30.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GEPLEvent31.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GEPLEvent32.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GEPLEvent33.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GEPLEvent34.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GEPLEvent35.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GEPLEvent36.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GEPLEvent37.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GEPLEvent38.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GLiveFootball01.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GLiveFootball02.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GLiveFootball03.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GLiveFootball04.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GLiveFootball05.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GLiveFootball06.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GLiveFootball07.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GLiveFootball08.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GLiveFootball09.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GLiveFootball10.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GLiveFootball11.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GLiveFootball12.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GLiveFootball13.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GLiveFootball14.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GLiveFootball15.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GLiveFootball16.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GLiveFootball17.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GLiveFootball18.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GLiveFootball19.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GLiveFootball20.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GLiveFootball21.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GLiveFootball22.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GLiveFootball23.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
@@ -1403,11 +1387,18 @@
 <programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GMonoMax03.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GMonoMax04.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GMonoMax05.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GMonoMax06.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GMonoMax07.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GMonoMax08.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GMonoMax09.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GLigue01.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GLigue02.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GLigue03.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GLigue04.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GLigue05.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GLigue06.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GLigue07.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GLigue08.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GWSL01.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GWSL02.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GWSL03.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
@@ -1434,8 +1425,6 @@
 <programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GLiveRugby01.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GLiveRugby02.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GLiveRugby03.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GLiveRugby04.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GLiveRugby05.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GLiveRugby06.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GLiveRugby07.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GLiveRugby08.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
@@ -1511,8 +1500,6 @@
 <programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GMLB15.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GMLB16.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GMLB17.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GNBA01.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GNBA03.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GNBA08.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GNBA09.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GNBA10.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
@@ -1734,8 +1721,6 @@
 <programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GParamount+02.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GParamount+03.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GParamount+04.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GParamount+05.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GParamount+06.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GParamount+07.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GParamount+08.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GParamount+09.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
@@ -1927,7 +1912,6 @@
 <programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GSetanta28.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GSetanta29.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GSetanta30.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GDirtVision01.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GDirtVision02.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GDirtVision03.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20251130000000 +0000" stop="20251205235959 +0000" channel="B1GDirtVision04.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
