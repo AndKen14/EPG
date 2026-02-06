@@ -1,0 +1,19 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/AndKen14/EPG/main/au guide.xml"
+#EXTINF:-1 tvg-id="" tvg-name="Totalmusic2000s.uk" tvg-logo="https://static.elektamedia.com/ch/tmc_00s.png" group-title="music" group-title="MUSIC",TotalMusic 00s
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Totalmusic.uk" tvg-logo="https://static.elektamedia.com/ch/tmc_main.png" group-title="MUSIC",TotalMusic
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Totalmusic80s.uk" tvg-logo="https://static.elektamedia.com/ch/tmc_80s.png" group-title="MUSIC",TotalMusic 80s
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TotalmusicConcerts.uk" tvg-logo="https://static.elektamedia.com/ch/tmc_concerts.png" group-title="MUSIC",TotalMusic Concerts
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TotalmusicDance.uk" tvg-logo="https://static.elektamedia.com/ch/tmc_dance.png" group-title="MUSIC",TotalMusic Dance
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-id="now-90s-00s" tvg-name="NOW 90s00s" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.KrsgTTAcUSA11NDfDmG2GAHaFZ?rs=1&pid=ImgDetMain&o=7&rm=3" group-title="MUSIC",Now 90s00s
+https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-rakutengb/playlist.m3u8
+#EXTINF:-1 tvg-id="vmusic" tvg-name="Vantage Music" tvg-logo="https://vantagetv.ee/vantage_music.png" group-title="MUSIC",Vantage Music
+https://hls.vantagetv.ee/vmusic_stream/index.m3u8
+#EXTINF:-1 tvg-id="vdance" tvg-name="Vantage Dance" tvg-logo="https://vantagetv.ee/vantage_music.png" group-title="MUSIC",Vantage Dance
+https://hls.vantagetv.ee/vdance_stream/index.m3u8
+#EXTINF:-1 tvg-id="vrock" tvg-name="Vantage Rock" tvg-logo="https://vantagetv.ee/vantage_music.png" group-title="MUSIC",Vantage Rock
+https://hls.vantagetv.ee/vrock_stream/index.m3u8
