@@ -11,6 +11,10 @@ https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_en
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 tvg-id="now-90s-00s" tvg-name="NOW 90s00s" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.KrsgTTAcUSA11NDfDmG2GAHaFZ?rs=1&pid=ImgDetMain&o=7&rm=3" group-title="MUSIC",Now 90s00s
 https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-rakutengb/playlist.m3u8
+#EXTINF:-1 tvg-id="now-70s" tvg-name="NOW 70s" tvg-logo="https://i.imgur.com/qiCCX5X.png" group-title="MUSIC",Now 70s
+https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="now-80s" tvg-name="NOW 80s" tvg-logo="https://i.imgur.com/YyPnMeB.png" group-title="MUSIC",Now 80s
+https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="vmusic" tvg-name="Vantage Music" tvg-logo="https://vantagetv.ee/vantage_music.png" group-title="MUSIC",Vantage Music
 https://hls.vantagetv.ee/vmusic_stream/index.m3u8
 #EXTINF:-1 tvg-id="vdance" tvg-name="Vantage Dance" tvg-logo="https://vantagetv.ee/vantage_music.png" group-title="MUSIC",Vantage Dance
