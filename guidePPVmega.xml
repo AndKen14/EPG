@@ -3,10 +3,6 @@
 <channel id="PPVLiveEvent02.us"><display-name>PPV Live Event 02</display-name><url>https://sky.com</url></channel>
 <channel id="PPVLiveEvent03.us"><display-name>PPV Live Event 03</display-name><url>https://sky.com</url></channel>
 <channel id="UKSkySport+01.us"><display-name>Sky Sport+ 01</display-name><url>https://sky.com</url></channel>
-<channel id="UKSkySport+04.us"><display-name>Sky Sport+ 04</display-name><url>https://sky.com</url></channel>
-<channel id="UKSkySport+05.us"><display-name>Sky Sport+ 05</display-name><url>https://sky.com</url></channel>
-<channel id="UKSkySport+06.us"><display-name>Sky Sport+ 06</display-name><url>https://sky.com</url></channel>
-<channel id="UKSkySport+07.us"><display-name>Sky Sport+ 07</display-name><url>https://sky.com</url></channel>
 <channel id="USMLBLive01.us"><display-name>MLB Live 01</display-name><url>https://sky.com</url></channel>
 <channel id="USMLBLive02.us"><display-name>MLB Live 02</display-name><url>https://sky.com</url></channel>
 <channel id="USMLBLive03.us"><display-name>MLB Live 03</display-name><url>https://sky.com</url></channel>
@@ -20,16 +16,6 @@
 <channel id="CADAZNCAEvent03.us"><display-name>CADAZNCA03</display-name><url>https://sky.com</url></channel>
 <channel id="CADAZNCAEvent04.us"><display-name>CADAZNCA04</display-name><url>https://sky.com</url></channel>
 <channel id="CADAZNCAEvent05.us"><display-name>CADAZNCA05</display-name><url>https://sky.com</url></channel>
-<channel id="CADAZNCAEvent06.us"><display-name>CADAZNCA06</display-name><url>https://sky.com</url></channel>
-<channel id="CADAZNCAEvent07.us"><display-name>CADAZNCA07</display-name><url>https://sky.com</url></channel>
-<channel id="CADAZNVIPEvent09.us"><display-name>DAZN CA VIP 09</display-name><url>https://sky.com</url></channel>
-<channel id="CADAZNEvent07.us"><display-name>DAZN CA 07</display-name><url>https://sky.com</url></channel>
-<channel id="CADAZNEvent08.us"><display-name>DAZN CA 08</display-name><url>https://sky.com</url></channel>
-<channel id="CADAZNEvent09.us"><display-name>DAZN CA 09</display-name><url>https://sky.com</url></channel>
-<channel id="CADAZNEvent10.us"><display-name>DAZN CA 10</display-name><url>https://sky.com</url></channel>
-<channel id="CADAZNEvent11.us"><display-name>DAZN CA 11</display-name><url>https://sky.com</url></channel>
-<channel id="CADAZNEvent12.us"><display-name>DAZN CA 12</display-name><url>https://sky.com</url></channel>
-<channel id="CADAZNEvent13.us"><display-name>DAZN CA 13</display-name><url>https://sky.com</url></channel>
 <channel id="CADAZNEvent14.us"><display-name>DAZN CA 14</display-name><url>https://sky.com</url></channel>
 <channel id="CADAZNEvent15.us"><display-name>DAZN CA 15</display-name><url>https://sky.com</url></channel>
 <channel id="CADAZNEvent16.us"><display-name>DAZN CA 16</display-name><url>https://sky.com</url></channel>
@@ -58,24 +44,14 @@
 <channel id="UKDAZNEvent01.us"><display-name>DAZN UK 01</display-name><url>https://sky.com</url></channel>
 <channel id="UKDAZNEvent02.us"><display-name>DAZN UK 02</display-name><url>https://sky.com</url></channel>
 <channel id="UKDAZNEvent03.us"><display-name>DAZN UK 03</display-name><url>https://sky.com</url></channel>
-<channel id="UKDAZNEvent04.us"><display-name>DAZN UK 04</display-name><url>https://sky.com</url></channel>
 <channel id="UKDAZNEvent05.us"><display-name>DAZN UK 05</display-name><url>https://sky.com</url></channel>
-<channel id="UKDAZNEvent07.us"><display-name>DAZN UK 07</display-name><url>https://sky.com</url></channel>
 <channel id="Amazon01.uk"><display-name>Amazon 01</display-name><url>https://sky.com</url></channel>
 <channel id="Amazon02.uk"><display-name>Amazon 02</display-name><url>https://sky.com</url></channel>
 <channel id="AUStanSportEvent01.us"><display-name>Stan Sport 01</display-name><url>https://sky.com</url></channel>
-<channel id="AUStanSportEvent02.us"><display-name>Stan Sport 02</display-name><url>https://sky.com</url></channel>
-<channel id="IEClubberTV01.us"><display-name>Clubber TV 01</display-name><url>https://sky.com</url></channel>
 <channel id="USTriller02.us"><display-name>US Triller TV [BG] 02</display-name><url>https://sky.com</url></channel>
 <channel id="USTriller03.us"><display-name>US Triller TV [BG] 03</display-name><url>https://sky.com</url></channel>
 <channel id="USTriller04.us"><display-name>US Triller TV [BG] 04</display-name><url>https://sky.com</url></channel>
 <channel id="USTriller05.us"><display-name>US Triller TV [BG] 05</display-name><url>https://sky.com</url></channel>
-<channel id="USESPN+019.us"><display-name>ESPN+ 019</display-name><url>https://sky.com</url></channel>
-<channel id="USESPN+020.us"><display-name>ESPN+ 020</display-name><url>https://sky.com</url></channel>
-<channel id="USESPN+021.us"><display-name>ESPN+ 021</display-name><url>https://sky.com</url></channel>
-<channel id="USESPN+022.us"><display-name>ESPN+ 022</display-name><url>https://sky.com</url></channel>
-<channel id="USESPN+023.us"><display-name>ESPN+ 023</display-name><url>https://sky.com</url></channel>
-<channel id="USESPN+024.us"><display-name>ESPN+ 024</display-name><url>https://sky.com</url></channel>
 <channel id="USESPN+025.us"><display-name>ESPN+ 025</display-name><url>https://sky.com</url></channel>
 <channel id="USESPN+026.us"><display-name>ESPN+ 026</display-name><url>https://sky.com</url></channel>
 <channel id="USESPN+027.us"><display-name>ESPN+ 027</display-name><url>https://sky.com</url></channel>
@@ -157,7 +133,6 @@
 <channel id="USESPN+103.us"><display-name>ESPN+ 103</display-name><url>https://sky.com</url></channel>
 <channel id="USESPN+104.us"><display-name>ESPN+ 104</display-name><url>https://sky.com</url></channel>
 <channel id="USESPN+105.us"><display-name>ESPN+ 105</display-name><url>https://sky.com</url></channel>
-<channel id="CASN+005.us"><display-name>CA SN+ 005</display-name><url>https://sky.com</url></channel>
 <channel id="CASN+006.us"><display-name>CA SN+ 006</display-name><url>https://sky.com</url></channel>
 <channel id="CASN+007.us"><display-name>CA SN+ 007</display-name><url>https://sky.com</url></channel>
 <channel id="CASN+008.us"><display-name>CA SN+ 008</display-name><url>https://sky.com</url></channel>
@@ -178,10 +153,6 @@
 <channel id="CASN+023.us"><display-name>CA SN+ 023</display-name><url>https://sky.com</url></channel>
 <channel id="CASN+024.us"><display-name>CA SN+ 024</display-name><url>https://sky.com</url></channel>
 <channel id="CASN+025.us"><display-name>CA SN+ 025</display-name><url>https://sky.com</url></channel>
-<channel id="CATSN+007.us"><display-name>CA TSN+ 007</display-name><url>https://sky.com</url></channel>
-<channel id="CATSN+008.us"><display-name>CA TSN+ 008</display-name><url>https://sky.com</url></channel>
-<channel id="CATSN+009.us"><display-name>CA TSN+ 009</display-name><url>https://sky.com</url></channel>
-<channel id="CATSN+010.us"><display-name>CA TSN+ 010</display-name><url>https://sky.com</url></channel>
 <channel id="CATSN+011.us"><display-name>CA TSN+ 011</display-name><url>https://sky.com</url></channel>
 <channel id="CATSN+012.us"><display-name>CA TSN+ 012</display-name><url>https://sky.com</url></channel>
 <channel id="CATSN+013.us"><display-name>CA TSN+ 013</display-name><url>https://sky.com</url></channel>
@@ -253,7 +224,6 @@
 <channel id="USNCAAF13.us"><display-name>US NCAAF 13</display-name><url>https://sky.com</url></channel>
 <channel id="USNCAAF14.us"><display-name>US NCAAF 14</display-name><url>https://sky.com</url></channel>
 <channel id="USNCAAF15.us"><display-name>US NCAAF 15</display-name><url>https://sky.com</url></channel>
-<channel id="USFloSports008.us"><display-name>US Flo Sports 008</display-name><url>https://sky.com</url></channel>
 <channel id="USFloSports009.us"><display-name>US Flo Sports 009</display-name><url>https://sky.com</url></channel>
 <channel id="USFloSports010.us"><display-name>US Flo Sports 010</display-name><url>https://sky.com</url></channel>
 <channel id="USFloSports011.us"><display-name>US Flo Sports 011</display-name><url>https://sky.com</url></channel>
@@ -341,13 +311,6 @@
 <channel id="USPeacockPPV010.us"><display-name>US Peacock PPV 010</display-name><url>https://sky.com</url></channel>
 <channel id="USPeacockPPV011.us"><display-name>US Peacock PPV 011</display-name><url>https://sky.com</url></channel>
 <channel id="USPeacockPPV012.us"><display-name>US Peacock PPV 012</display-name><url>https://sky.com</url></channel>
-<channel id="CACBC23.us"><display-name>CA CBC 23</display-name><url>https://sky.com</url></channel>
-<channel id="CACBC24.us"><display-name>CA CBC 24</display-name><url>https://sky.com</url></channel>
-<channel id="CACBC25.us"><display-name>CA CBC 25</display-name><url>https://sky.com</url></channel>
-<channel id="CACBC26.us"><display-name>CA CBC 26</display-name><url>https://sky.com</url></channel>
-<channel id="CACBC27.us"><display-name>CA CBC 27</display-name><url>https://sky.com</url></channel>
-<channel id="CACBC28.us"><display-name>CA CBC 28</display-name><url>https://sky.com</url></channel>
-<channel id="CACBC29.us"><display-name>CA CBC 29</display-name><url>https://sky.com</url></channel>
 <channel id="CACBC30.us"><display-name>CA CBC 30</display-name><url>https://sky.com</url></channel>
 <channel id="CACBC31.us"><display-name>CA CBC 31</display-name><url>https://sky.com</url></channel>
 <channel id="CACBC32.us"><display-name>CA CBC 32</display-name><url>https://sky.com</url></channel>
@@ -367,16 +330,23 @@
 <channel id="UKTNTEvent02.us"><display-name>UK TNT Event 02</display-name><url>https://sky.com</url></channel>
 <channel id="UKTNTEvent03.us"><display-name>UK TNT Event 03</display-name><url>https://sky.com</url></channel>
 <channel id="UKTNTEvent04.us"><display-name>UK TNT Event 04</display-name><url>https://sky.com</url></channel>
-<channel id="UKTNTEvent05.us"><display-name>UK TNT Event 05</display-name><url>https://sky.com</url></channel>
-<channel id="UKTNTEvent06.us"><display-name>UK TNT Event 06</display-name><url>https://sky.com</url></channel>
-<channel id="UKTNTEvent07.us"><display-name>UK TNT Event 07</display-name><url>https://sky.com</url></channel>
-<channel id="UKTNTEvent08.us"><display-name>UK TNT Event 08</display-name><url>https://sky.com</url></channel>
-<channel id="UKTNTEvent09.us"><display-name>UK TNT Event 09</display-name><url>https://sky.com</url></channel>
-<channel id="UKTNTEvent10.us"><display-name>UK TNT Event 10</display-name><url>https://sky.com</url></channel>
 <channel id="UKTNTEvent11.us"><display-name>UK TNT Event 11</display-name><url>https://sky.com</url></channel>
 <channel id="UKTNTEvent12.us"><display-name>UK TNT Event 12</display-name><url>https://sky.com</url></channel>
-<channel id="UKTNTEvent13.us"><display-name>UK TNT Event 13</display-name><url>https://sky.com</url></channel>
-<channel id="UKTNTEvent14.us"><display-name>UK TNT Event 14</display-name><url>https://sky.com</url></channel>
+<channel id="AUKayo+017.us"><display-name>AU KAYO+ 017</display-name><url>https://sky.com</url></channel>
+<channel id="AUKayo+018.us"><display-name>AU KAYO+ 018</display-name><url>https://sky.com</url></channel>
+<channel id="AUKayo+019.us"><display-name>AU KAYO+ 019</display-name><url>https://sky.com</url></channel>
+<channel id="AUKayo+020.us"><display-name>AU KAYO+ 020</display-name><url>https://sky.com</url></channel>
+<channel id="AUKayo+021.us"><display-name>AU KAYO+ 021</display-name><url>https://sky.com</url></channel>
+<channel id="AUKayo+022.us"><display-name>AU KAYO+ 022</display-name><url>https://sky.com</url></channel>
+<channel id="AUKayo+023.us"><display-name>AU KAYO+ 023</display-name><url>https://sky.com</url></channel>
+<channel id="AUKayo+024.us"><display-name>AU KAYO+ 024</display-name><url>https://sky.com</url></channel>
+<channel id="AUKayo+025.us"><display-name>AU KAYO+ 025</display-name><url>https://sky.com</url></channel>
+<channel id="AUKayo+026.us"><display-name>AU KAYO+ 026</display-name><url>https://sky.com</url></channel>
+<channel id="AUKayo+027.us"><display-name>AU KAYO+ 027</display-name><url>https://sky.com</url></channel>
+<channel id="AUKayo+028.us"><display-name>AU KAYO+ 028</display-name><url>https://sky.com</url></channel>
+<channel id="AUKayo+029.us"><display-name>AU KAYO+ 029</display-name><url>https://sky.com</url></channel>
+<channel id="AUKayo+030.us"><display-name>AU KAYO+ 030</display-name><url>https://sky.com</url></channel>
+<channel id="AUKayo+031.us"><display-name>AU KAYO+ 031</display-name><url>https://sky.com</url></channel>
 <channel id="PPVBoxing00.us"><display-name>PPV Boxing 00</display-name><url>https://sky.com</url></channel>
 <channel id="PPVBoxing01.us"><display-name>PPV Boxing 01</display-name><url>https://sky.com</url></channel>
 <channel id="PPVBoxing02.us"><display-name>PPV Boxing 02</display-name><url>https://sky.com</url></channel>
@@ -558,6 +528,10 @@
 <channel id="UKLiveFootball32.us"><display-name>Live Football 32</display-name><url>https://sky.com</url></channel>
 <channel id="UKSkySport+02.us"><display-name>Sky Sport+ 02</display-name><url>https://sky.com</url></channel>
 <channel id="UKSkySport+03.us"><display-name>Sky Sport+ 03</display-name><url>https://sky.com</url></channel>
+<channel id="UKSkySport+04.us"><display-name>Sky Sport+ 04</display-name><url>https://sky.com</url></channel>
+<channel id="UKSkySport+05.us"><display-name>Sky Sport+ 05</display-name><url>https://sky.com</url></channel>
+<channel id="UKSkySport+06.us"><display-name>Sky Sport+ 06</display-name><url>https://sky.com</url></channel>
+<channel id="UKSkySport+07.us"><display-name>Sky Sport+ 07</display-name><url>https://sky.com</url></channel>
 <channel id="UKSkySport+08.us"><display-name>Sky Sport+ 08</display-name><url>https://sky.com</url></channel>
 <channel id="UKSkySport+09.us"><display-name>Sky Sport+ 09</display-name><url>https://sky.com</url></channel>
 <channel id="UKSkySport+10.us"><display-name>Sky Sport+ 10</display-name><url>https://sky.com</url></channel>
@@ -788,7 +762,10 @@
 <channel id="CADAZNVIPEvent07.us"><display-name>DAZN CA VIP 07</display-name><url>https://sky.com</url></channel>
 <channel id="CADAZNCAEvent01.us"><display-name>CADAZNCA01</display-name><url>https://sky.com</url></channel>
 <channel id="CADAZNCAEvent02.us"><display-name>CADAZNCA02</display-name><url>https://sky.com</url></channel>
+<channel id="CADAZNCAEvent06.us"><display-name>CADAZNCA06</display-name><url>https://sky.com</url></channel>
+<channel id="CADAZNCAEvent07.us"><display-name>CADAZNCA07</display-name><url>https://sky.com</url></channel>
 <channel id="CADAZNVIPEvent08.us"><display-name>DAZN CA VIP 08</display-name><url>https://sky.com</url></channel>
+<channel id="CADAZNVIPEvent09.us"><display-name>DAZN CA VIP 09</display-name><url>https://sky.com</url></channel>
 <channel id="CADAZNVIPEvent10.us"><display-name>DAZN CA VIP 10</display-name><url>https://sky.com</url></channel>
 <channel id="CADAZNVIPEvent11.us"><display-name>DAZN CA VIP 11</display-name><url>https://sky.com</url></channel>
 <channel id="CADAZNVIPEvent12.us"><display-name>DAZN CA VIP 12</display-name><url>https://sky.com</url></channel>
@@ -816,6 +793,13 @@
 <channel id="CADAZNEvent04.us"><display-name>DAZN CA 04</display-name><url>https://sky.com</url></channel>
 <channel id="CADAZNEvent05.us"><display-name>DAZN CA 05</display-name><url>https://sky.com</url></channel>
 <channel id="CADAZNEvent06.us"><display-name>DAZN CA 06</display-name><url>https://sky.com</url></channel>
+<channel id="CADAZNEvent07.us"><display-name>DAZN CA 07</display-name><url>https://sky.com</url></channel>
+<channel id="CADAZNEvent08.us"><display-name>DAZN CA 08</display-name><url>https://sky.com</url></channel>
+<channel id="CADAZNEvent09.us"><display-name>DAZN CA 09</display-name><url>https://sky.com</url></channel>
+<channel id="CADAZNEvent10.us"><display-name>DAZN CA 10</display-name><url>https://sky.com</url></channel>
+<channel id="CADAZNEvent11.us"><display-name>DAZN CA 11</display-name><url>https://sky.com</url></channel>
+<channel id="CADAZNEvent12.us"><display-name>DAZN CA 12</display-name><url>https://sky.com</url></channel>
+<channel id="CADAZNEvent13.us"><display-name>DAZN CA 13</display-name><url>https://sky.com</url></channel>
 <channel id="CADAZNEvent39.us"><display-name>DAZN CA 39</display-name><url>https://sky.com</url></channel>
 <channel id="CADAZNEvent40.us"><display-name>DAZN CA 40</display-name><url>https://sky.com</url></channel>
 <channel id="CADAZNEvent41.us"><display-name>DAZN CA 41</display-name><url>https://sky.com</url></channel>
@@ -885,7 +869,9 @@
 <channel id="UKDAZNVIPEvent05.us"><display-name>DAZN UK VIP 05</display-name><url>https://sky.com</url></channel>
 <channel id="UKDAZNVIPEvent06.us"><display-name>DAZN UK VIP 06</display-name><url>https://sky.com</url></channel>
 <channel id="UKDAZNVIPEvent07.us"><display-name>DAZN UK VIP 07</display-name><url>https://sky.com</url></channel>
+<channel id="UKDAZNEvent04.us"><display-name>DAZN UK 04</display-name><url>https://sky.com</url></channel>
 <channel id="UKDAZNEvent06.us"><display-name>DAZN UK 06</display-name><url>https://sky.com</url></channel>
+<channel id="UKDAZNEvent07.us"><display-name>DAZN UK 07</display-name><url>https://sky.com</url></channel>
 <channel id="UKDAZNEvent08.us"><display-name>DAZN UK 08</display-name><url>https://sky.com</url></channel>
 <channel id="UKDAZNEvent09.us"><display-name>DAZN UK 09</display-name><url>https://sky.com</url></channel>
 <channel id="UKDAZNEvent10.us"><display-name>DAZN UK 10</display-name><url>https://sky.com</url></channel>
@@ -1162,6 +1148,7 @@
 <channel id="USFloSports005.us"><display-name>US Flo Sports 005</display-name><url>https://sky.com</url></channel>
 <channel id="USFloSports006.us"><display-name>US Flo Sports 006</display-name><url>https://sky.com</url></channel>
 <channel id="USFloSports007.us"><display-name>US Flo Sports 007</display-name><url>https://sky.com</url></channel>
+<channel id="USFloSports008.us"><display-name>US Flo Sports 008</display-name><url>https://sky.com</url></channel>
 <channel id="USFloSports079.us"><display-name>US Flo Sports 079</display-name><url>https://sky.com</url></channel>
 <channel id="USFloSports080.us"><display-name>US Flo Sports 080</display-name><url>https://sky.com</url></channel>
 <channel id="USFloSports081.us"><display-name>US Flo Sports 081</display-name><url>https://sky.com</url></channel>
@@ -2083,6 +2070,7 @@
 <channel id="USFloSports997.us"><display-name>US Flo Sports 997</display-name><url>https://sky.com</url></channel>
 <channel id="USFloSports998.us"><display-name>US Flo Sports 998</display-name><url>https://sky.com</url></channel>
 <channel id="USFloSports999.us"><display-name>US Flo Sports 999</display-name><url>https://sky.com</url></channel>
+<channel id="AUStanSportEvent02.us"><display-name>Stan Sport 02</display-name><url>https://sky.com</url></channel>
 <channel id="AUStanSportEvent03.us"><display-name>Stan Sport 03</display-name><url>https://sky.com</url></channel>
 <channel id="AUStanSportEvent04.us"><display-name>Stan Sport 04</display-name><url>https://sky.com</url></channel>
 <channel id="AUStanSportEvent05.us"><display-name>Stan Sport 05</display-name><url>https://sky.com</url></channel>
@@ -2137,6 +2125,7 @@
 <channel id="IELOITV13.us"><display-name>LOI TV 13</display-name><url>https://sky.com</url></channel>
 <channel id="IELOITV14.us"><display-name>LOI TV 14</display-name><url>https://sky.com</url></channel>
 <channel id="IELOITV15.us"><display-name>LOI TV 15</display-name><url>https://sky.com</url></channel>
+<channel id="IEClubberTV01.us"><display-name>Clubber TV 01</display-name><url>https://sky.com</url></channel>
 <channel id="IEClubberTV02.us"><display-name>Clubber TV 02</display-name><url>https://sky.com</url></channel>
 <channel id="IEClubberTV03.us"><display-name>Clubber TV 03</display-name><url>https://sky.com</url></channel>
 <channel id="IEClubberTV04.us"><display-name>Clubber TV 04</display-name><url>https://sky.com</url></channel>
@@ -2189,6 +2178,12 @@
 <channel id="USESPN+016.us"><display-name>ESPN+ 016</display-name><url>https://sky.com</url></channel>
 <channel id="USESPN+017.us"><display-name>ESPN+ 017</display-name><url>https://sky.com</url></channel>
 <channel id="USESPN+018.us"><display-name>ESPN+ 018</display-name><url>https://sky.com</url></channel>
+<channel id="USESPN+019.us"><display-name>ESPN+ 019</display-name><url>https://sky.com</url></channel>
+<channel id="USESPN+020.us"><display-name>ESPN+ 020</display-name><url>https://sky.com</url></channel>
+<channel id="USESPN+021.us"><display-name>ESPN+ 021</display-name><url>https://sky.com</url></channel>
+<channel id="USESPN+022.us"><display-name>ESPN+ 022</display-name><url>https://sky.com</url></channel>
+<channel id="USESPN+023.us"><display-name>ESPN+ 023</display-name><url>https://sky.com</url></channel>
+<channel id="USESPN+024.us"><display-name>ESPN+ 024</display-name><url>https://sky.com</url></channel>
 <channel id="USESPN+106.us"><display-name>ESPN+ 106</display-name><url>https://sky.com</url></channel>
 <channel id="USESPN+107.us"><display-name>ESPN+ 107</display-name><url>https://sky.com</url></channel>
 <channel id="USESPN+108.us"><display-name>ESPN+ 108</display-name><url>https://sky.com</url></channel>
@@ -2888,6 +2883,7 @@
 <channel id="CASN+002.us"><display-name>CA SN+ 002</display-name><url>https://sky.com</url></channel>
 <channel id="CASN+003.us"><display-name>CA SN+ 003</display-name><url>https://sky.com</url></channel>
 <channel id="CASN+004.us"><display-name>CA SN+ 004</display-name><url>https://sky.com</url></channel>
+<channel id="CASN+005.us"><display-name>CA SN+ 005</display-name><url>https://sky.com</url></channel>
 <channel id="CASN+026.us"><display-name>CA SN+ 026</display-name><url>https://sky.com</url></channel>
 <channel id="CASN+027.us"><display-name>CA SN+ 027</display-name><url>https://sky.com</url></channel>
 <channel id="CASN+028.us"><display-name>CA SN+ 028</display-name><url>https://sky.com</url></channel>
@@ -2969,6 +2965,10 @@
 <channel id="CATSN+004.us"><display-name>CA TSN+ 004</display-name><url>https://sky.com</url></channel>
 <channel id="CATSN+005.us"><display-name>CA TSN+ 005</display-name><url>https://sky.com</url></channel>
 <channel id="CATSN+006.us"><display-name>CA TSN+ 006</display-name><url>https://sky.com</url></channel>
+<channel id="CATSN+007.us"><display-name>CA TSN+ 007</display-name><url>https://sky.com</url></channel>
+<channel id="CATSN+008.us"><display-name>CA TSN+ 008</display-name><url>https://sky.com</url></channel>
+<channel id="CATSN+009.us"><display-name>CA TSN+ 009</display-name><url>https://sky.com</url></channel>
+<channel id="CATSN+010.us"><display-name>CA TSN+ 010</display-name><url>https://sky.com</url></channel>
 <channel id="CATSN+039.us"><display-name>CA TSN+ 039</display-name><url>https://sky.com</url></channel>
 <channel id="CATSN+040.us"><display-name>CA TSN+ 040</display-name><url>https://sky.com</url></channel>
 <channel id="CATSN+041.us"><display-name>CA TSN+ 041</display-name><url>https://sky.com</url></channel>
@@ -3601,6 +3601,13 @@
 <channel id="CACBC20.us"><display-name>CA CBC 20</display-name><url>https://sky.com</url></channel>
 <channel id="CACBC21.us"><display-name>CA CBC 21</display-name><url>https://sky.com</url></channel>
 <channel id="CACBC22.us"><display-name>CA CBC 22</display-name><url>https://sky.com</url></channel>
+<channel id="CACBC23.us"><display-name>CA CBC 23</display-name><url>https://sky.com</url></channel>
+<channel id="CACBC24.us"><display-name>CA CBC 24</display-name><url>https://sky.com</url></channel>
+<channel id="CACBC25.us"><display-name>CA CBC 25</display-name><url>https://sky.com</url></channel>
+<channel id="CACBC26.us"><display-name>CA CBC 26</display-name><url>https://sky.com</url></channel>
+<channel id="CACBC27.us"><display-name>CA CBC 27</display-name><url>https://sky.com</url></channel>
+<channel id="CACBC28.us"><display-name>CA CBC 28</display-name><url>https://sky.com</url></channel>
+<channel id="CACBC29.us"><display-name>CA CBC 29</display-name><url>https://sky.com</url></channel>
 <channel id="CACBC45.us"><display-name>CA CBC 45</display-name><url>https://sky.com</url></channel>
 <channel id="CACBC46.us"><display-name>CA CBC 46</display-name><url>https://sky.com</url></channel>
 <channel id="CACBC47.us"><display-name>CA CBC 47</display-name><url>https://sky.com</url></channel>
@@ -3638,6 +3645,14 @@
 <channel id="UKHBOMAX18.us"><display-name>UK HBO MAX 18</display-name><url>https://sky.com</url></channel>
 <channel id="UKHBOMAX19.us"><display-name>UK HBO MAX 19</display-name><url>https://sky.com</url></channel>
 <channel id="UKHBOMAX20.us"><display-name>UK HBO MAX 20</display-name><url>https://sky.com</url></channel>
+<channel id="UKTNTEvent05.us"><display-name>UK TNT Event 05</display-name><url>https://sky.com</url></channel>
+<channel id="UKTNTEvent06.us"><display-name>UK TNT Event 06</display-name><url>https://sky.com</url></channel>
+<channel id="UKTNTEvent07.us"><display-name>UK TNT Event 07</display-name><url>https://sky.com</url></channel>
+<channel id="UKTNTEvent08.us"><display-name>UK TNT Event 08</display-name><url>https://sky.com</url></channel>
+<channel id="UKTNTEvent09.us"><display-name>UK TNT Event 09</display-name><url>https://sky.com</url></channel>
+<channel id="UKTNTEvent10.us"><display-name>UK TNT Event 10</display-name><url>https://sky.com</url></channel>
+<channel id="UKTNTEvent13.us"><display-name>UK TNT Event 13</display-name><url>https://sky.com</url></channel>
+<channel id="UKTNTEvent14.us"><display-name>UK TNT Event 14</display-name><url>https://sky.com</url></channel>
 <channel id="UKTNTEvent15.us"><display-name>UK TNT Event 15</display-name><url>https://sky.com</url></channel>
 <channel id="UKTNTEvent16.us"><display-name>UK TNT Event 16</display-name><url>https://sky.com</url></channel>
 <channel id="UKTNTEvent17.us"><display-name>UK TNT Event 17</display-name><url>https://sky.com</url></channel>
@@ -3928,6 +3943,91 @@
 <channel id="USMaxPPV98.us"><display-name>US MAX PPV 98</display-name><url>https://sky.com</url></channel>
 <channel id="USMaxPPV99.us"><display-name>US MAX PPV 99</display-name><url>https://sky.com</url></channel>
 <channel id="USMaxPPV100.us"><display-name>US MAX PPV 100</display-name><url>https://sky.com</url></channel>
+<channel id="AUKayo+001.us"><display-name>AU KAYO+ 001</display-name><url>https://sky.com</url></channel>
+<channel id="AUKayo+002.us"><display-name>AU KAYO+ 002</display-name><url>https://sky.com</url></channel>
+<channel id="AUKayo+003.us"><display-name>AU KAYO+ 003</display-name><url>https://sky.com</url></channel>
+<channel id="AUKayo+004.us"><display-name>AU KAYO+ 004</display-name><url>https://sky.com</url></channel>
+<channel id="AUKayo+005.us"><display-name>AU KAYO+ 005</display-name><url>https://sky.com</url></channel>
+<channel id="AUKayo+006.us"><display-name>AU KAYO+ 006</display-name><url>https://sky.com</url></channel>
+<channel id="AUKayo+007.us"><display-name>AU KAYO+ 007</display-name><url>https://sky.com</url></channel>
+<channel id="AUKayo+008.us"><display-name>AU KAYO+ 008</display-name><url>https://sky.com</url></channel>
+<channel id="AUKayo+009.us"><display-name>AU KAYO+ 009</display-name><url>https://sky.com</url></channel>
+<channel id="AUKayo+010.us"><display-name>AU KAYO+ 010</display-name><url>https://sky.com</url></channel>
+<channel id="AUKayo+011.us"><display-name>AU KAYO+ 011</display-name><url>https://sky.com</url></channel>
+<channel id="AUKayo+012.us"><display-name>AU KAYO+ 012</display-name><url>https://sky.com</url></channel>
+<channel id="AUKayo+013.us"><display-name>AU KAYO+ 013</display-name><url>https://sky.com</url></channel>
+<channel id="AUKayo+014.us"><display-name>AU KAYO+ 014</display-name><url>https://sky.com</url></channel>
+<channel id="AUKayo+015.us"><display-name>AU KAYO+ 015</display-name><url>https://sky.com</url></channel>
+<channel id="AUKayo+016.us"><display-name>AU KAYO+ 016</display-name><url>https://sky.com</url></channel>
+<channel id="AUKayo+032.us"><display-name>AU KAYO+ 032</display-name><url>https://sky.com</url></channel>
+<channel id="AUKayo+033.us"><display-name>AU KAYO+ 033</display-name><url>https://sky.com</url></channel>
+<channel id="AUKayo+034.us"><display-name>AU KAYO+ 034</display-name><url>https://sky.com</url></channel>
+<channel id="AUKayo+035.us"><display-name>AU KAYO+ 035</display-name><url>https://sky.com</url></channel>
+<channel id="AUKayo+036.us"><display-name>AU KAYO+ 036</display-name><url>https://sky.com</url></channel>
+<channel id="AUKayo+037.us"><display-name>AU KAYO+ 037</display-name><url>https://sky.com</url></channel>
+<channel id="AUKayo+038.us"><display-name>AU KAYO+ 038</display-name><url>https://sky.com</url></channel>
+<channel id="AUKayo+039.us"><display-name>AU KAYO+ 039</display-name><url>https://sky.com</url></channel>
+<channel id="AUKayo+040.us"><display-name>AU KAYO+ 040</display-name><url>https://sky.com</url></channel>
+<channel id="AUKayo+041.us"><display-name>AU KAYO+ 041</display-name><url>https://sky.com</url></channel>
+<channel id="AUKayo+042.us"><display-name>AU KAYO+ 042</display-name><url>https://sky.com</url></channel>
+<channel id="AUKayo+043.us"><display-name>AU KAYO+ 043</display-name><url>https://sky.com</url></channel>
+<channel id="AUKayo+044.us"><display-name>AU KAYO+ 044</display-name><url>https://sky.com</url></channel>
+<channel id="AUKayo+045.us"><display-name>AU KAYO+ 045</display-name><url>https://sky.com</url></channel>
+<channel id="AUKayo+046.us"><display-name>AU KAYO+ 046</display-name><url>https://sky.com</url></channel>
+<channel id="AUKayo+047.us"><display-name>AU KAYO+ 047</display-name><url>https://sky.com</url></channel>
+<channel id="AUKayo+048.us"><display-name>AU KAYO+ 048</display-name><url>https://sky.com</url></channel>
+<channel id="AUKayo+049.us"><display-name>AU KAYO+ 049</display-name><url>https://sky.com</url></channel>
+<channel id="AUKayo+050.us"><display-name>AU KAYO+ 050</display-name><url>https://sky.com</url></channel>
+<channel id="AUKayo+051.us"><display-name>AU KAYO+ 051</display-name><url>https://sky.com</url></channel>
+<channel id="AUKayo+052.us"><display-name>AU KAYO+ 052</display-name><url>https://sky.com</url></channel>
+<channel id="AUKayo+053.us"><display-name>AU KAYO+ 053</display-name><url>https://sky.com</url></channel>
+<channel id="AUKayo+054.us"><display-name>AU KAYO+ 054</display-name><url>https://sky.com</url></channel>
+<channel id="AUKayo+055.us"><display-name>AU KAYO+ 055</display-name><url>https://sky.com</url></channel>
+<channel id="AUKayo+056.us"><display-name>AU KAYO+ 056</display-name><url>https://sky.com</url></channel>
+<channel id="AUKayo+057.us"><display-name>AU KAYO+ 057</display-name><url>https://sky.com</url></channel>
+<channel id="AUKayo+058.us"><display-name>AU KAYO+ 058</display-name><url>https://sky.com</url></channel>
+<channel id="AUKayo+059.us"><display-name>AU KAYO+ 059</display-name><url>https://sky.com</url></channel>
+<channel id="AUKayo+060.us"><display-name>AU KAYO+ 060</display-name><url>https://sky.com</url></channel>
+<channel id="AUKayo+061.us"><display-name>AU KAYO+ 061</display-name><url>https://sky.com</url></channel>
+<channel id="AUKayo+062.us"><display-name>AU KAYO+ 062</display-name><url>https://sky.com</url></channel>
+<channel id="AUKayo+063.us"><display-name>AU KAYO+ 063</display-name><url>https://sky.com</url></channel>
+<channel id="AUKayo+064.us"><display-name>AU KAYO+ 064</display-name><url>https://sky.com</url></channel>
+<channel id="AUKayo+065.us"><display-name>AU KAYO+ 065</display-name><url>https://sky.com</url></channel>
+<channel id="AUKayo+066.us"><display-name>AU KAYO+ 066</display-name><url>https://sky.com</url></channel>
+<channel id="AUKayo+067.us"><display-name>AU KAYO+ 067</display-name><url>https://sky.com</url></channel>
+<channel id="AUKayo+068.us"><display-name>AU KAYO+ 068</display-name><url>https://sky.com</url></channel>
+<channel id="AUKayo+069.us"><display-name>AU KAYO+ 069</display-name><url>https://sky.com</url></channel>
+<channel id="AUKayo+070.us"><display-name>AU KAYO+ 070</display-name><url>https://sky.com</url></channel>
+<channel id="AUKayo+071.us"><display-name>AU KAYO+ 071</display-name><url>https://sky.com</url></channel>
+<channel id="AUKayo+072.us"><display-name>AU KAYO+ 072</display-name><url>https://sky.com</url></channel>
+<channel id="AUKayo+073.us"><display-name>AU KAYO+ 073</display-name><url>https://sky.com</url></channel>
+<channel id="AUKayo+074.us"><display-name>AU KAYO+ 074</display-name><url>https://sky.com</url></channel>
+<channel id="AUKayo+075.us"><display-name>AU KAYO+ 075</display-name><url>https://sky.com</url></channel>
+<channel id="AUKayo+076.us"><display-name>AU KAYO+ 076</display-name><url>https://sky.com</url></channel>
+<channel id="AUKayo+077.us"><display-name>AU KAYO+ 077</display-name><url>https://sky.com</url></channel>
+<channel id="AUKayo+078.us"><display-name>AU KAYO+ 078</display-name><url>https://sky.com</url></channel>
+<channel id="AUKayo+079.us"><display-name>AU KAYO+ 079</display-name><url>https://sky.com</url></channel>
+<channel id="AUKayo+080.us"><display-name>AU KAYO+ 080</display-name><url>https://sky.com</url></channel>
+<channel id="AUKayo+081.us"><display-name>AU KAYO+ 081</display-name><url>https://sky.com</url></channel>
+<channel id="AUKayo+082.us"><display-name>AU KAYO+ 082</display-name><url>https://sky.com</url></channel>
+<channel id="AUKayo+083.us"><display-name>AU KAYO+ 083</display-name><url>https://sky.com</url></channel>
+<channel id="AUKayo+084.us"><display-name>AU KAYO+ 084</display-name><url>https://sky.com</url></channel>
+<channel id="AUKayo+085.us"><display-name>AU KAYO+ 085</display-name><url>https://sky.com</url></channel>
+<channel id="AUKayo+086.us"><display-name>AU KAYO+ 086</display-name><url>https://sky.com</url></channel>
+<channel id="AUKayo+087.us"><display-name>AU KAYO+ 087</display-name><url>https://sky.com</url></channel>
+<channel id="AUKayo+088.us"><display-name>AU KAYO+ 088</display-name><url>https://sky.com</url></channel>
+<channel id="AUKayo+089.us"><display-name>AU KAYO+ 089</display-name><url>https://sky.com</url></channel>
+<channel id="AUKayo+090.us"><display-name>AU KAYO+ 090</display-name><url>https://sky.com</url></channel>
+<channel id="AUKayo+091.us"><display-name>AU KAYO+ 091</display-name><url>https://sky.com</url></channel>
+<channel id="AUKayo+092.us"><display-name>AU KAYO+ 092</display-name><url>https://sky.com</url></channel>
+<channel id="AUKayo+093.us"><display-name>AU KAYO+ 093</display-name><url>https://sky.com</url></channel>
+<channel id="AUKayo+094.us"><display-name>AU KAYO+ 094</display-name><url>https://sky.com</url></channel>
+<channel id="AUKayo+095.us"><display-name>AU KAYO+ 095</display-name><url>https://sky.com</url></channel>
+<channel id="AUKayo+096.us"><display-name>AU KAYO+ 096</display-name><url>https://sky.com</url></channel>
+<channel id="AUKayo+097.us"><display-name>AU KAYO+ 097</display-name><url>https://sky.com</url></channel>
+<channel id="AUKayo+098.us"><display-name>AU KAYO+ 098</display-name><url>https://sky.com</url></channel>
+<channel id="AUKayo+099.us"><display-name>AU KAYO+ 099</display-name><url>https://sky.com</url></channel>
+<channel id="AUKayo+100.us"><display-name>AU KAYO+ 100</display-name><url>https://sky.com</url></channel>
 <programme start="20260730000000 +0000" stop="20260730190000 +0000" channel="PPVLiveEvent01.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260730190000 +0000" stop="20260730230000 +0000" channel="PPVLiveEvent01.us"><title lang="en">PPV| LIVE EVENT 01 - </title><desc lang="en">PPV| LIVE EVENT 01 - 2pm Power Slap 22 Bathory v Montes</desc></programme>
 <programme start="20260730230000 +0000" stop="20260804235959 +0000" channel="PPVLiveEvent01.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
@@ -3940,18 +4040,6 @@
 <programme start="20260730000000 +0000" stop="20260730195000 +0000" channel="UKSkySport+01.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260730195000 +0000" stop="20260730225000 +0000" channel="UKSkySport+01.us"><title lang="en">UK| SKY SPORT+ 01 | H</title><desc lang="en">UK| SKY SPORT+ 01 | Huddersfield Giants vs Hull Fc // UK Thu 30 Jul 7:50pm // ET Thu 30 Jul2:50pm</desc></programme>
 <programme start="20260730225000 +0000" stop="20260804235959 +0000" channel="UKSkySport+01.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20260730000000 +0000" stop="20260730185500 +0000" channel="UKSkySport+04.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20260730185500 +0000" stop="20260730215500 +0000" channel="UKSkySport+04.us"><title lang="en">UK| SKY SPORT+ 04 | R</title><desc lang="en">UK| SKY SPORT+ 04 | Rocket Classic Featured Groups // UK Thu 30 Jul 6:55pm // ET Thu 30 Jul1:55pm</desc></programme>
-<programme start="20260730215500 +0000" stop="20260804235959 +0000" channel="UKSkySport+04.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20260730000000 +0000" stop="20260730185500 +0000" channel="UKSkySport+05.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20260730185500 +0000" stop="20260730215500 +0000" channel="UKSkySport+05.us"><title lang="en">UK| SKY SPORT+ 05 | R</title><desc lang="en">UK| SKY SPORT+ 05 | Rocket Classic Featured Holes // UK Thu 30 Jul 6:55pm // ET Thu 30 Jul1:55pm</desc></programme>
-<programme start="20260730215500 +0000" stop="20260804235959 +0000" channel="UKSkySport+05.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20260730000000 +0000" stop="20260730185500 +0000" channel="UKSkySport+06.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20260730185500 +0000" stop="20260730215500 +0000" channel="UKSkySport+06.us"><title lang="en">UK| SKY SPORT+ 06 | R</title><desc lang="en">UK| SKY SPORT+ 06 | Rocket Classic Main Feed // UK Thu 30 Jul 6:55pm // ET Thu 30 Jul 1:55pm</desc></programme>
-<programme start="20260730215500 +0000" stop="20260804235959 +0000" channel="UKSkySport+06.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20260730000000 +0000" stop="20260730185500 +0000" channel="UKSkySport+07.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20260730185500 +0000" stop="20260730215500 +0000" channel="UKSkySport+07.us"><title lang="en">UK| SKY SPORT+ 07 | R</title><desc lang="en">UK| SKY SPORT+ 07 | Rocket Classic Marquee Group, Quiet Please! // UK Thu 30 Jul 6:55pm // ET Thu 30 Jul 1:55pm</desc></programme>
-<programme start="20260730215500 +0000" stop="20260804235959 +0000" channel="UKSkySport+07.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260730000000 +0000" stop="20260730171000 +0000" channel="USMLBLive01.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260730171000 +0000" stop="20260731002320 +0000" channel="USMLBLive01.us"><title lang="en">US| MLB LIVE 01 | Ran</title><desc lang="en">US| MLB LIVE 01 | Rangers x Rays</desc></programme>
 <programme start="20260731002320 +0000" stop="20260804235959 +0000" channel="USMLBLive01.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
@@ -3985,46 +4073,12 @@
 <programme start="20260730000000 +0000" stop="20260730230000 +0000" channel="CADAZNCAEvent03.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260730230000 +0000" stop="20260731020000 +0000" channel="CADAZNCAEvent03.us"><title lang="en">CA| DAZN CA 03 | Muni</title><desc lang="en">CA| DAZN CA 03 | Municipal Jalapa vs. Real Estelí // UK Thu 30 Jul 11:00pm // ET Thu 30 Jul6:00pm CA| DAZN CA 04 | LD Alajuelense vs. Alianza FC // UK Thu 30 Jul 2:30am // ET Wed 29 Jul 9:30pm</desc></programme>
 <programme start="20260731020000 +0000" stop="20260804235959 +0000" channel="CADAZNCAEvent03.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20260730000000 +0000" stop="20260730170000 +0000" channel="CADAZNCAEvent04.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20260730170000 +0000" stop="20260730200000 +0000" channel="CADAZNCAEvent04.us"><title lang="en">CA| DAZN CA 04 | Memp</title><desc lang="en">CA| DAZN CA 04 | Memphis Open: Day 1 // UK Thu 30 Jul 5:00pm // ET Thu 30 Jul 12:00pm</desc></programme>
-<programme start="20260730200000 +0000" stop="20260731120000 +0000" channel="CADAZNCAEvent04.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260731120000 +0000" channel="CADAZNCAEvent04.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260731120000 +0000" stop="20260731150000 +0000" channel="CADAZNCAEvent04.us"><title lang="en">CA| DAZN CA 04 | Dubl</title><desc lang="en">CA| DAZN CA 04 | Dublanc FC vs. South East FC // UK Fri 31 Jul 12:00am // ET Thu 30 Jul7:00pm</desc></programme>
 <programme start="20260731150000 +0000" stop="20260804235959 +0000" channel="CADAZNCAEvent04.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20260730000000 +0000" stop="20260730171500 +0000" channel="CADAZNCAEvent05.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20260730171500 +0000" stop="20260730201500 +0000" channel="CADAZNCAEvent05.us"><title lang="en">CA| DAZN CA 05 | Sect</title><desc lang="en">CA| DAZN CA 05 | Secto Rally Finland: Secto Rally Finland - Pre Show from Service Park // UK Thu 30 Jul 5:15pm // ET Thu 30 Jul 12:15pm</desc></programme>
-<programme start="20260730201500 +0000" stop="20260731120000 +0000" channel="CADAZNCAEvent05.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260731120000 +0000" channel="CADAZNCAEvent05.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260731120000 +0000" stop="20260731150000 +0000" channel="CADAZNCAEvent05.us"><title lang="en">CA| DAZN CA 05 | Maha</title><desc lang="en">CA| DAZN CA 05 | Mahaut Soca Strikers FC vs. Mighty Avengers // UK Fri 31 Jul 12:00am // ET Thu 30 Jul 7:00pm</desc></programme>
 <programme start="20260731150000 +0000" stop="20260804235959 +0000" channel="CADAZNCAEvent05.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20260730000000 +0000" stop="20260730180000 +0000" channel="CADAZNCAEvent06.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20260730180000 +0000" stop="20260730210000 +0000" channel="CADAZNCAEvent06.us"><title lang="en">CA| DAZN CA 06 | King</title><desc lang="en">CA| DAZN CA 06 | Kings World Cup Clubs - Last Chance (In English, Portuguese and Spanish) // UK Thu 30 Jul 6:00pm // ET Thu 30 Jul 1:00pm</desc></programme>
-<programme start="20260730210000 +0000" stop="20260804235959 +0000" channel="CADAZNCAEvent06.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20260730000000 +0000" stop="20260730180000 +0000" channel="CADAZNCAEvent07.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20260730180000 +0000" stop="20260730210000 +0000" channel="CADAZNCAEvent07.us"><title lang="en">CA| DAZN CA 07 | Wash</title><desc lang="en">CA| DAZN CA 07 | Washington Open: Day 4 // UK Thu 30 Jul 6:00pm // ET Thu 30 Jul 1:00pm</desc></programme>
-<programme start="20260730210000 +0000" stop="20260804235959 +0000" channel="CADAZNCAEvent07.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20260730000000 +0000" stop="20260730180000 +0000" channel="CADAZNVIPEvent09.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20260730180000 +0000" stop="20260730210000 +0000" channel="CADAZNVIPEvent09.us"><title lang="en">CA| DAZN CA 09 | Sect</title><desc lang="en">CA| DAZN CA 09 | Secto Rally Finland: Stage 1 // UK Thu 30 Jul 6:00pm // ET Thu 30 Jul 1:00pm</desc></programme>
-<programme start="20260730210000 +0000" stop="20260804235959 +0000" channel="CADAZNVIPEvent09.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20260730000000 +0000" stop="20260730170000 +0000" channel="CADAZNEvent07.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20260730170000 +0000" stop="20260730200000 +0000" channel="CADAZNEvent07.us"><title lang="en">CA| DAZN 07 | Memphis</title><desc lang="en">CA| DAZN 07 | Memphis Open: Day 1 (2026-07-30 12:00:00)</desc></programme>
-<programme start="20260730200000 +0000" stop="20260804235959 +0000" channel="CADAZNEvent07.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20260730000000 +0000" stop="20260730171500 +0000" channel="CADAZNEvent08.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20260730171500 +0000" stop="20260730201500 +0000" channel="CADAZNEvent08.us"><title lang="en">CA| DAZN 08 | Secto R</title><desc lang="en">CA| DAZN 08 | Secto Rally Finland: Secto Rally Finland _ Pre Show from Service Park (2026-07-30 12:15:00)</desc></programme>
-<programme start="20260730201500 +0000" stop="20260804235959 +0000" channel="CADAZNEvent08.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20260730000000 +0000" stop="20260730180000 +0000" channel="CADAZNEvent09.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20260730180000 +0000" stop="20260730210000 +0000" channel="CADAZNEvent09.us"><title lang="en">CA| DAZN 09 | Kings W</title><desc lang="en">CA| DAZN 09 | Kings World Cup Clubs _ Last Chance (In English_ Portuguese and Spanish) (2026-07-30 13:00:00)</desc></programme>
-<programme start="20260730210000 +0000" stop="20260804235959 +0000" channel="CADAZNEvent09.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20260730000000 +0000" stop="20260730180000 +0000" channel="CADAZNEvent10.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20260730180000 +0000" stop="20260730210000 +0000" channel="CADAZNEvent10.us"><title lang="en">CA| DAZN 10 | Kings W</title><desc lang="en">CA| DAZN 10 | Kings World Cup Clubs _ Last Chance (In French and German) (2026-07-30 13:00:05)</desc></programme>
-<programme start="20260730210000 +0000" stop="20260804235959 +0000" channel="CADAZNEvent10.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20260730000000 +0000" stop="20260730180000 +0000" channel="CADAZNEvent11.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20260730180000 +0000" stop="20260730210000 +0000" channel="CADAZNEvent11.us"><title lang="en">CA| DAZN 11 | Kings W</title><desc lang="en">CA| DAZN 11 | Kings World Cup Clubs _ Last Chance (Italian) (2026-07-30 13:00:10)</desc></programme>
-<programme start="20260730210000 +0000" stop="20260804235959 +0000" channel="CADAZNEvent11.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20260730000000 +0000" stop="20260730180000 +0000" channel="CADAZNEvent12.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20260730180000 +0000" stop="20260730210000 +0000" channel="CADAZNEvent12.us"><title lang="en">CA| DAZN 12 | Washing</title><desc lang="en">CA| DAZN 12 | Washington Open: Day 4 (2026-07-30 13:00:15)</desc></programme>
-<programme start="20260730210000 +0000" stop="20260804235959 +0000" channel="CADAZNEvent12.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20260730000000 +0000" stop="20260730180000 +0000" channel="CADAZNEvent13.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20260730180000 +0000" stop="20260730210000 +0000" channel="CADAZNEvent13.us"><title lang="en">CA| DAZN 13 | Secto R</title><desc lang="en">CA| DAZN 13 | Secto Rally Finland: Stage 1 (2026-07-30 13:00:20)</desc></programme>
-<programme start="20260730210000 +0000" stop="20260804235959 +0000" channel="CADAZNEvent13.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260730000000 +0000" stop="20260730210000 +0000" channel="CADAZNEvent14.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260730210000 +0000" stop="20260731000000 +0000" channel="CADAZNEvent14.us"><title lang="en">CA| DAZN 14 | Roach J</title><desc lang="en">CA| DAZN 14 | Roach Jr. vs. Zepeda: Press Conference (2026-07-30 16:00:00)</desc></programme>
 <programme start="20260731000000 +0000" stop="20260804235959 +0000" channel="CADAZNEvent14.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
@@ -4100,28 +4154,18 @@
 <programme start="20260730000000 +0000" stop="20260801045500 +0000" channel="CADAZNEvent38.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260801045500 +0000" stop="20260801075500 +0000" channel="CADAZNEvent38.us"><title lang="en">CA| DAZN 38 | Grand P</title><desc lang="en">CA| DAZN 38 | Grand Prix of Kyrgyzstan_ Issyk_Kul _ Qualifying (2026-07-31 23:55:00)</desc></programme>
 <programme start="20260801075500 +0000" stop="20260804235959 +0000" channel="CADAZNEvent38.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20260730000000 +0000" stop="20260730165800 +0000" channel="UKDAZNEvent01.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20260730165800 +0000" stop="20260730195800 +0000" channel="UKDAZNEvent01.us"><title lang="en">UK| DAZN UK 01 | Spor</title><desc lang="en">UK| DAZN UK 01 | Sporting vs. Flamengo de pefine // UK Thu 30 Jul 4:58pm // ET Thu 30 Jul11:58am</desc></programme>
-<programme start="20260730195800 +0000" stop="20260730235800 +0000" channel="UKDAZNEvent01.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260730235800 +0000" channel="UKDAZNEvent01.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260730235800 +0000" stop="20260731025800 +0000" channel="UKDAZNEvent01.us"><title lang="en">UK| DAZN UK 01 | Dubl</title><desc lang="en">UK| DAZN UK 01 | Dublanc fc vs. South east fc // UK Thu 30 Jul 11:58pm // ET Thu 30 Jul 6:58pm</desc></programme>
 <programme start="20260731025800 +0000" stop="20260804235959 +0000" channel="UKDAZNEvent01.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260730000000 +0000" stop="20260730205800 +0000" channel="UKDAZNEvent02.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260730205800 +0000" stop="20260730235800 +0000" channel="UKDAZNEvent02.us"><title lang="en">UK| DAZN UK 02 | Roac</title><desc lang="en">UK| DAZN UK 02 | Roach jr. Vs. Zepeda press conference // UK Thu 30 Jul 8:58pm // ET Thu 30 Jul3:58pm</desc></programme>
 <programme start="20260730235800 +0000" stop="20260804235959 +0000" channel="UKDAZNEvent02.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20260730000000 +0000" stop="20260730171300 +0000" channel="UKDAZNEvent03.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20260730171300 +0000" stop="20260730201300 +0000" channel="UKDAZNEvent03.us"><title lang="en">UK| DAZN UK 03 | Sect</title><desc lang="en">UK| DAZN UK 03 | Secto rally finland secto rally finland pre show from service park // UK Thu 30 Jul 5:13pm // ET Thu 30 Jul 12:13pm</desc></programme>
-<programme start="20260730201300 +0000" stop="20260730235800 +0000" channel="UKDAZNEvent03.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260730235800 +0000" channel="UKDAZNEvent03.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260730235800 +0000" stop="20260731025800 +0000" channel="UKDAZNEvent03.us"><title lang="en">UK| DAZN UK 03 | Maha</title><desc lang="en">UK| DAZN UK 03 | Mahaut soca strikers fc vs. Mighty avengers // UK Thu 30 Jul 11:58pm // ET Thu 30 Jul 6:58pm</desc></programme>
 <programme start="20260731025800 +0000" stop="20260804235959 +0000" channel="UKDAZNEvent03.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20260730000000 +0000" stop="20260730175800 +0000" channel="UKDAZNEvent04.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20260730175800 +0000" stop="20260730205800 +0000" channel="UKDAZNEvent04.us"><title lang="en">UK| DAZN UK 04 | King</title><desc lang="en">UK| DAZN UK 04 | Kings world cup clubs last chance (in english portuguese and spanish) // UK Thu 30 Jul 5:58pm // ET Thu 30 Jul 12:58pm</desc></programme>
-<programme start="20260730205800 +0000" stop="20260804235959 +0000" channel="UKDAZNEvent04.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260730000000 +0000" stop="20260730225800 +0000" channel="UKDAZNEvent05.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260730225800 +0000" stop="20260731015800 +0000" channel="UKDAZNEvent05.us"><title lang="en">UK| DAZN UK 05 | Muni</title><desc lang="en">UK| DAZN UK 05 | Municipal jalapa vs. Real estelí // UK Thu 30 Jul 10:58pm // ET Thu 30 Jul5:58pm</desc></programme>
 <programme start="20260731015800 +0000" stop="20260804235959 +0000" channel="UKDAZNEvent05.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20260730000000 +0000" stop="20260730175800 +0000" channel="UKDAZNEvent07.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20260730175800 +0000" stop="20260730205800 +0000" channel="UKDAZNEvent07.us"><title lang="en">UK| DAZN UK 07 | Sect</title><desc lang="en">UK| DAZN UK 07 | Secto rally finland stage 1 // UK Thu 30 Jul 5:58pm // ET Thu 30 Jul 12:58pm</desc></programme>
-<programme start="20260730205800 +0000" stop="20260804235959 +0000" channel="UKDAZNEvent07.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260730000000 +0000" stop="20260731030000 +0000" channel="Amazon01.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260731030000 +0000" stop="20260731053000 +0000" channel="Amazon01.uk"><title lang="en">UK| Amazon UK 01 : Li</title><desc lang="en">UK| Amazon UK 01 : Liberty vs. Aces</desc></programme>
 <programme start="20260731053000 +0000" stop="20260804235959 +0000" channel="Amazon01.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
@@ -4133,12 +4177,6 @@
 <programme start="20260730000000 +0000" stop="20260730180009 +0000" channel="AUStanSportEvent01.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260730180009 +0000" stop="20260731040009 +0000" channel="AUStanSportEvent01.us"><title lang="en">AU| STAN SPORT AU EVE</title><desc lang="en">AU| STAN SPORT AU EVENT 01 : Washington, D.C.: Day 4 - WTA 500</desc></programme>
 <programme start="20260731040009 +0000" stop="20260804235959 +0000" channel="AUStanSportEvent01.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20260730000000 +0000" stop="20260730180026 +0000" channel="AUStanSportEvent02.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20260730180026 +0000" stop="20260730205346 +0000" channel="AUStanSportEvent02.us"><title lang="en">AU| STAN SPORT AU EVE</title><desc lang="en">AU| STAN SPORT AU EVENT 02 : SSS1 Harju 1 - WRC Finland 2026</desc></programme>
-<programme start="20260730205346 +0000" stop="20260804235959 +0000" channel="AUStanSportEvent02.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20260730000000 +0000" stop="20260730190000 +0000" channel="IEClubberTV01.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20260730190000 +0000" stop="20260730220000 +0000" channel="IEClubberTV01.us"><title lang="en">IE| CLUBBER TV 01: Di</title><desc lang="en">IE| CLUBBER TV 01: Dicksboro vs O'Loughlin Gaels - 19:00</desc></programme>
-<programme start="20260730220000 +0000" stop="20260804235959 +0000" channel="IEClubberTV01.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260730000000 +0000" stop="20260731095500 +0000" channel="USTriller02.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260731095500 +0000" stop="20260731125500 +0000" channel="USTriller02.us"><title lang="en">US| TRILLER TV [BG] 0</title><desc lang="en">US| TRILLER TV [BG] 02 | MOBA PC (Dota 2)_ GS_ D1_ C_D (2026-07-31 04:55:13)</desc></programme>
 <programme start="20260731125500 +0000" stop="20260804235959 +0000" channel="USTriller02.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
@@ -4151,24 +4189,6 @@
 <programme start="20260730000000 +0000" stop="20260731175500 +0000" channel="USTriller05.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260731175500 +0000" stop="20260731205500 +0000" channel="USTriller05.us"><title lang="en">US| TRILLER TV [BG] 0</title><desc lang="en">US| TRILLER TV [BG] 05 | GOTF: Phygital Basketball Ro16 (2026-07-31 12:55:29)</desc></programme>
 <programme start="20260731205500 +0000" stop="20260804235959 +0000" channel="USTriller05.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20260730000000 +0000" stop="20260730170500 +0000" channel="USESPN+019.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20260730170500 +0000" stop="20260730200500 +0000" channel="USESPN+019.us"><title lang="en">US| ESPN+ 019 | Socce</title><desc lang="en">US| ESPN+ 019 | Soccer: Panathinaikos vs. Paksi FC (2026-07-30 12:05:00)</desc></programme>
-<programme start="20260730200500 +0000" stop="20260804235959 +0000" channel="USESPN+019.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20260730000000 +0000" stop="20260730180000 +0000" channel="USESPN+020.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20260730180000 +0000" stop="20260730210000 +0000" channel="USESPN+020.us"><title lang="en">US| ESPN+ 020 | Socce</title><desc lang="en">US| ESPN+ 020 | Soccer: Midtjylland vs. Besiktas (2026-07-30 13:00:00)</desc></programme>
-<programme start="20260730210000 +0000" stop="20260804235959 +0000" channel="USESPN+020.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20260730000000 +0000" stop="20260730183000 +0000" channel="USESPN+021.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20260730183000 +0000" stop="20260730213000 +0000" channel="USESPN+021.us"><title lang="en">US| ESPN+ 021 | MLB: </title><desc lang="en">US| ESPN+ 021 | MLB: Cardinals Broadcast (2026-07-30 13:30:00)</desc></programme>
-<programme start="20260730213000 +0000" stop="20260804235959 +0000" channel="USESPN+021.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20260730000000 +0000" stop="20260730183000 +0000" channel="USESPN+022.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20260730183000 +0000" stop="20260730213000 +0000" channel="USESPN+022.us"><title lang="en">US| ESPN+ 022 | MLB: </title><desc lang="en">US| ESPN+ 022 | MLB: Cubs Broadcast (2026-07-30 13:30:05)</desc></programme>
-<programme start="20260730213000 +0000" stop="20260804235959 +0000" channel="USESPN+022.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20260730000000 +0000" stop="20260730183000 +0000" channel="USESPN+023.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20260730183000 +0000" stop="20260730213000 +0000" channel="USESPN+023.us"><title lang="en">US| ESPN+ 023 | MLB: </title><desc lang="en">US| ESPN+ 023 | MLB: Cubs vs. Cardinals (ESP) (2026-07-30 13:30:10)</desc></programme>
-<programme start="20260730213000 +0000" stop="20260804235959 +0000" channel="USESPN+023.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20260730000000 +0000" stop="20260730190000 +0000" channel="USESPN+024.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20260730190000 +0000" stop="20260730220000 +0000" channel="USESPN+024.us"><title lang="en">US| ESPN+ 024 | Footb</title><desc lang="en">US| ESPN+ 024 | Football: The Mina Kimes Show featuring Lenny (2026-07-30 14:00:00)</desc></programme>
-<programme start="20260730220000 +0000" stop="20260804235959 +0000" channel="USESPN+024.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260730000000 +0000" stop="20260730200000 +0000" channel="USESPN+025.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260730200000 +0000" stop="20260730230000 +0000" channel="USESPN+025.us"><title lang="en">US| ESPN+ 025 | PGA T</title><desc lang="en">US| ESPN+ 025 | PGA TOUR: Young Featured Group (2026-07-30 15:00:00)</desc></programme>
 <programme start="20260730230000 +0000" stop="20260804235959 +0000" channel="USESPN+025.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
@@ -4412,9 +4432,6 @@
 <programme start="20260730000000 +0000" stop="20260801030000 +0000" channel="USESPN+105.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260801030000 +0000" stop="20260801060000 +0000" channel="USESPN+105.us"><title lang="en">US| ESPN+ 105 | Boxin</title><desc lang="en">US| ESPN+ 105 | Boxing: Adrian Curiel vs. Luis Castillo (ESP) (2026-07-31 22:00:00)</desc></programme>
 <programme start="20260801060000 +0000" stop="20260804235959 +0000" channel="USESPN+105.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20260730000000 +0000" stop="20260730190000 +0000" channel="CASN+005.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20260730190000 +0000" stop="20260730220000 +0000" channel="CASN+005.us"><title lang="en">CA| SN+ 005 | New Yor</title><desc lang="en">CA| SN+ 005 | New York Yankees @ Chicago White Sox (2026-07-30 14:00:00)</desc></programme>
-<programme start="20260730220000 +0000" stop="20260804235959 +0000" channel="CASN+005.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260730000000 +0000" stop="20260730195000 +0000" channel="CASN+006.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260730195000 +0000" stop="20260730225000 +0000" channel="CASN+006.us"><title lang="en">CA| SN+ 006 | Hudders</title><desc lang="en">CA| SN+ 006 | Huddersfield Giants vs. Hull FC (2026-07-30 14:50:00)</desc></programme>
 <programme start="20260730225000 +0000" stop="20260804235959 +0000" channel="CASN+006.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
@@ -4475,18 +4492,6 @@
 <programme start="20260730000000 +0000" stop="20260801100000 +0000" channel="CASN+025.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260801100000 +0000" stop="20260801130000 +0000" channel="CASN+025.us"><title lang="en">CA| SN+ 025 | Sportsn</title><desc lang="en">CA| SN+ 025 | Sportsnet Central: July 31 (2026-08-01 05:00:00)</desc></programme>
 <programme start="20260801130000 +0000" stop="20260804235959 +0000" channel="CASN+025.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20260730000000 +0000" stop="20260730170000 +0000" channel="CATSN+007.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20260730170000 +0000" stop="20260730200000 +0000" channel="CATSN+007.us"><title lang="en">CA| TSN+ 007 | Rich E</title><desc lang="en">CA| TSN+ 007 | Rich Eisen Show (2026-07-30 12:00:00)</desc></programme>
-<programme start="20260730200000 +0000" stop="20260804235959 +0000" channel="CATSN+007.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20260730000000 +0000" stop="20260730170000 +0000" channel="CATSN+008.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20260730170000 +0000" stop="20260730200000 +0000" channel="CATSN+008.us"><title lang="en">CA| TSN+ 008 | Pat Mc</title><desc lang="en">CA| TSN+ 008 | Pat McAfee Show (2026-07-30 12:00:05)</desc></programme>
-<programme start="20260730200000 +0000" stop="20260804235959 +0000" channel="CATSN+008.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20260730000000 +0000" stop="20260730180000 +0000" channel="CATSN+009.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20260730180000 +0000" stop="20260730210000 +0000" channel="CATSN+009.us"><title lang="en">CA| TSN+ 009 | WTA 50</title><desc lang="en">CA| TSN+ 009 | WTA 500 Tennis: Washington _ Day #4 (2026-07-30 13:00:00)</desc></programme>
-<programme start="20260730210000 +0000" stop="20260804235959 +0000" channel="CATSN+009.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20260730000000 +0000" stop="20260730180000 +0000" channel="CATSN+010.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20260730180000 +0000" stop="20260730210000 +0000" channel="CATSN+010.us"><title lang="en">CA| TSN+ 010 | ATP 50</title><desc lang="en">CA| TSN+ 010 | ATP 500 Tennis: Washington _ Day #4 (John Harris) (2026-07-30 13:00:05)</desc></programme>
-<programme start="20260730210000 +0000" stop="20260804235959 +0000" channel="CATSN+010.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260730000000 +0000" stop="20260731000000 +0000" channel="CATSN+011.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260731000000 +0000" stop="20260731030000 +0000" channel="CATSN+011.us"><title lang="en">CA| TSN+ 011 | 2026 W</title><desc lang="en">CA| TSN+ 011 | 2026 World Junior Summer Showcase: Canada vs. Finland (2026-07-30 19:00:00)</desc></programme>
 <programme start="20260731030000 +0000" stop="20260804235959 +0000" channel="CATSN+011.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
@@ -4702,9 +4707,6 @@
 <programme start="20260730000000 +0000" stop="20260730000100 +0000" channel="USNCAAF15.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260730000100 +0000" stop="20260804235859 +0000" channel="USNCAAF15.us"><title lang="en">US| NCAAF 15: TNT</title><desc lang="en">US| NCAAF 15: TNT</desc></programme>
 <programme start="20260804235859 +0000" stop="20260804235959 +0000" channel="USNCAAF15.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20260730000000 +0000" stop="20260730183000 +0000" channel="USFloSports008.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20260730183000 +0000" stop="20260730213000 +0000" channel="USFloSports008.us"><title lang="en">US| FLO SPORTS 008 | </title><desc lang="en">US| FLO SPORTS 008 | flolive: 2026 Birmingham Phoenix vs Southern Brave _ Cricket (Birmingham Phoenix vs Southern Brave) (2026-07-30 13:30:00)</desc></programme>
-<programme start="20260730213000 +0000" stop="20260804235959 +0000" channel="USFloSports008.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260730000000 +0000" stop="20260730220000 +0000" channel="USFloSports009.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260730220000 +0000" stop="20260731010000 +0000" channel="USFloSports009.us"><title lang="en">US| FLO SPORTS 009 | </title><desc lang="en">US| FLO SPORTS 009 | flobaseball: 2026 Kenosha Kingfish vs Traverse City Pit Spitters _ Doubleheader (Kingfish vs Pit Spitters _ DH) (2026-07-30 17:00:00)</desc></programme>
 <programme start="20260731010000 +0000" stop="20260804235959 +0000" channel="USFloSports009.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
@@ -4966,27 +4968,6 @@
 <programme start="20260730000000 +0000" stop="20260801033000 +0000" channel="USPeacockPPV012.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260801033000 +0000" stop="20260801063000 +0000" channel="USPeacockPPV012.us"><title lang="en">US| PEACOCK PPV 012 |</title><desc lang="en">US| PEACOCK PPV 012 | Juárez vs. Pumas (Español) (2026-07-31 22:30:00)</desc></programme>
 <programme start="20260801063000 +0000" stop="20260804235959 +0000" channel="USPeacockPPV012.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20260730000000 +0000" stop="20260730182000 +0000" channel="CACBC23.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20260730182000 +0000" stop="20260730212000 +0000" channel="CACBC23.us"><title lang="en">CA| CBC 23 | Athletic</title><desc lang="en">CA| CBC 23 | Athletics and Para Athletics_ Session 8 Overview_ Glasgow 2026 (2026-07-30 13:20:00)</desc></programme>
-<programme start="20260730212000 +0000" stop="20260804235959 +0000" channel="CACBC23.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20260730000000 +0000" stop="20260730182000 +0000" channel="CACBC24.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20260730182000 +0000" stop="20260730212000 +0000" channel="CACBC24.us"><title lang="en">CA| CBC 24 | Weightli</title><desc lang="en">CA| CBC 24 | Weightlifting_ Session 15_ Glasgow 2026 (2026-07-30 13:20:05)</desc></programme>
-<programme start="20260730212000 +0000" stop="20260804235959 +0000" channel="CACBC24.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20260730000000 +0000" stop="20260730185000 +0000" channel="CACBC25.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20260730185000 +0000" stop="20260730215000 +0000" channel="CACBC25.us"><title lang="en">CA| CBC 25 | Athletic</title><desc lang="en">CA| CBC 25 | Athletics and Para Athletics_ Throws_ Session 8_ Glasgow 2026 (2026-07-30 13:50:00)</desc></programme>
-<programme start="20260730215000 +0000" stop="20260804235959 +0000" channel="CACBC25.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20260730000000 +0000" stop="20260730185000 +0000" channel="CACBC26.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20260730185000 +0000" stop="20260730215000 +0000" channel="CACBC26.us"><title lang="en">CA| CBC 26 | Commonwe</title><desc lang="en">CA| CBC 26 | Commonwealth Games on CBC: Day 7_ Glasgow 2026 (2026-07-30 13:50:05)</desc></programme>
-<programme start="20260730215000 +0000" stop="20260804235959 +0000" channel="CACBC26.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20260730000000 +0000" stop="20260730185500 +0000" channel="CACBC27.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20260730185500 +0000" stop="20260730215500 +0000" channel="CACBC27.us"><title lang="en">CA| CBC 27 | Athletic</title><desc lang="en">CA| CBC 27 | Athletics and Para Athletics_ Ver. Jumps_ Session 8_ Glasgow 2026 (2026-07-30 13:55:00)</desc></programme>
-<programme start="20260730215500 +0000" stop="20260804235959 +0000" channel="CACBC27.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20260730000000 +0000" stop="20260730185500 +0000" channel="CACBC28.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20260730185500 +0000" stop="20260730215500 +0000" channel="CACBC28.us"><title lang="en">CA| CBC 28 | Athletic</title><desc lang="en">CA| CBC 28 | Athletics and Para Athletics_ Track_ Session 8_ Glasgow 2026 (2026-07-30 13:55:05)</desc></programme>
-<programme start="20260730215500 +0000" stop="20260804235959 +0000" channel="CACBC28.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20260730000000 +0000" stop="20260730191000 +0000" channel="CACBC29.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20260730191000 +0000" stop="20260730221000 +0000" channel="CACBC29.us"><title lang="en">CA| CBC 29 | Athletic</title><desc lang="en">CA| CBC 29 | Athletics and Para Athletics_ Hor. Jumps_ Session 7_ Glasgow 2026 (2026-07-30 14:10:00)</desc></programme>
-<programme start="20260730221000 +0000" stop="20260804235959 +0000" channel="CACBC29.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260730000000 +0000" stop="20260731003000 +0000" channel="CACBC30.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260731003000 +0000" stop="20260731033000 +0000" channel="CACBC30.us"><title lang="en">CA| CBC 30 | CEBL: Mo</title><desc lang="en">CA| CBC 30 | CEBL: Montreal at Brampton (2026-07-30 19:30:00)</desc></programme>
 <programme start="20260731033000 +0000" stop="20260804235959 +0000" channel="CACBC30.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
@@ -5032,9 +5013,7 @@
 <programme start="20260730000000 +0000" stop="20260731003000 +0000" channel="CACBC44.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260731003000 +0000" stop="20260731033000 +0000" channel="CACBC44.us"><title lang="en">CA| CBC 44 | CEBL: Mo</title><desc lang="en">CA| CBC 44 | CEBL: Montreal at Brampton (2026-07-30 19:30:00)</desc></programme>
 <programme start="20260731033000 +0000" stop="20260804235959 +0000" channel="CACBC44.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20260730000000 +0000" stop="20260730173000 +0000" channel="UKTNTEvent01.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20260730173000 +0000" stop="20260730214500 +0000" channel="UKTNTEvent01.us"><title lang="en">UK| TNT SPORTS EVENT </title><desc lang="en">UK| TNT SPORTS EVENT 01 : Athletics and Para Athletics</desc></programme>
-<programme start="20260730214500 +0000" stop="20260731001500 +0000" channel="UKTNTEvent01.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260731001500 +0000" channel="UKTNTEvent01.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260731001500 +0000" stop="20260731030000 +0000" channel="UKTNTEvent01.us"><title lang="en">UK| TNT SPORTS EVENT </title><desc lang="en">UK| TNT SPORTS EVENT 01 : Washington Nationals @ Atlanta Braves</desc></programme>
 <programme start="20260731030000 +0000" stop="20260731063000 +0000" channel="UKTNTEvent01.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260731063000 +0000" stop="20260731083000 +0000" channel="UKTNTEvent01.us"><title lang="en">UK| TNT SPORTS EVENT </title><desc lang="en">UK| TNT SPORTS EVENT 01 : WRC</desc></programme>
@@ -5044,50 +5023,63 @@
 <programme start="20260730223000 +0000" stop="20260731063000 +0000" channel="UKTNTEvent02.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260731063000 +0000" stop="20260731083000 +0000" channel="UKTNTEvent02.us"><title lang="en">UK| TNT SPORTS EVENT </title><desc lang="en">UK| TNT SPORTS EVENT 02 : WRC</desc></programme>
 <programme start="20260731083000 +0000" stop="20260804235959 +0000" channel="UKTNTEvent02.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20260730000000 +0000" stop="20260730191500 +0000" channel="UKTNTEvent03.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20260730191500 +0000" stop="20260730220000 +0000" channel="UKTNTEvent03.us"><title lang="en">UK| TNT SPORTS EVENT </title><desc lang="en">UK| TNT SPORTS EVENT 03 : Chicago Cubs @ St. Louis Cardinals</desc></programme>
-<programme start="20260730220000 +0000" stop="20260731070000 +0000" channel="UKTNTEvent03.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260731070000 +0000" channel="UKTNTEvent03.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260731070000 +0000" stop="20260731100000 +0000" channel="UKTNTEvent03.us"><title lang="en">UK| TNT SPORTS EVENT </title><desc lang="en">UK| TNT SPORTS EVENT 03 : Shanghai Masters</desc></programme>
 <programme start="20260731100000 +0000" stop="20260804235959 +0000" channel="UKTNTEvent03.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20260730000000 +0000" stop="20260730180000 +0000" channel="UKTNTEvent04.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20260730180000 +0000" stop="20260730193000 +0000" channel="UKTNTEvent04.us"><title lang="en">UK| TNT SPORTS EVENT </title><desc lang="en">UK| TNT SPORTS EVENT 04 : WRC</desc></programme>
-<programme start="20260730193000 +0000" stop="20260730204500 +0000" channel="UKTNTEvent04.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20260730204500 +0000" stop="20260730214000 +0000" channel="UKTNTEvent04.us"><title lang="en">UK| TNT SPORTS EVENT </title><desc lang="en">UK| TNT SPORTS EVENT 04 : Athletics and Para Athletics</desc></programme>
-<programme start="20260730214000 +0000" stop="20260731070000 +0000" channel="UKTNTEvent04.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260731070000 +0000" channel="UKTNTEvent04.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260731070000 +0000" stop="20260731100000 +0000" channel="UKTNTEvent04.us"><title lang="en">UK| TNT SPORTS EVENT </title><desc lang="en">UK| TNT SPORTS EVENT 04 : Snooker</desc></programme>
 <programme start="20260731100000 +0000" stop="20260804235959 +0000" channel="UKTNTEvent04.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20260730000000 +0000" stop="20260730182700 +0000" channel="UKTNTEvent05.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20260730182700 +0000" stop="20260730215500 +0000" channel="UKTNTEvent05.us"><title lang="en">UK| TNT SPORTS EVENT </title><desc lang="en">UK| TNT SPORTS EVENT 05 : Athletics and Para Athletics</desc></programme>
-<programme start="20260730215500 +0000" stop="20260804235959 +0000" channel="UKTNTEvent05.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20260730000000 +0000" stop="20260730145000 +0000" channel="UKTNTEvent06.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20260730145000 +0000" stop="20260730220000 +0000" channel="UKTNTEvent06.us"><title lang="en">UK| TNT SPORTS EVENT </title><desc lang="en">UK| TNT SPORTS EVENT 06 : Bowls and Para Bowls</desc></programme>
-<programme start="20260730220000 +0000" stop="20260804235959 +0000" channel="UKTNTEvent06.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20260730000000 +0000" stop="20260730145000 +0000" channel="UKTNTEvent07.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20260730145000 +0000" stop="20260730220500 +0000" channel="UKTNTEvent07.us"><title lang="en">UK| TNT SPORTS EVENT </title><desc lang="en">UK| TNT SPORTS EVENT 07 : Bowls and Para Bowls</desc></programme>
-<programme start="20260730220500 +0000" stop="20260804235959 +0000" channel="UKTNTEvent07.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20260730000000 +0000" stop="20260730145000 +0000" channel="UKTNTEvent08.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20260730145000 +0000" stop="20260730220000 +0000" channel="UKTNTEvent08.us"><title lang="en">UK| TNT SPORTS EVENT </title><desc lang="en">UK| TNT SPORTS EVENT 08 : Bowls and Para Bowls</desc></programme>
-<programme start="20260730220000 +0000" stop="20260804235959 +0000" channel="UKTNTEvent08.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20260730000000 +0000" stop="20260730145000 +0000" channel="UKTNTEvent09.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20260730145000 +0000" stop="20260730220000 +0000" channel="UKTNTEvent09.us"><title lang="en">UK| TNT SPORTS EVENT </title><desc lang="en">UK| TNT SPORTS EVENT 09 : Bowls and Para Bowls</desc></programme>
-<programme start="20260730220000 +0000" stop="20260804235959 +0000" channel="UKTNTEvent09.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20260730000000 +0000" stop="20260730183500 +0000" channel="UKTNTEvent10.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20260730183500 +0000" stop="20260730210000 +0000" channel="UKTNTEvent10.us"><title lang="en">UK| TNT SPORTS EVENT </title><desc lang="en">UK| TNT SPORTS EVENT 10 : Weightlifting</desc></programme>
-<programme start="20260730210000 +0000" stop="20260804235959 +0000" channel="UKTNTEvent10.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260730000000 +0000" stop="20260730085000 +0000" channel="UKTNTEvent11.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260730085000 +0000" stop="20260730223500 +0000" channel="UKTNTEvent11.us"><title lang="en">UK| TNT SPORTS EVENT </title><desc lang="en">UK| TNT SPORTS EVENT 11 : Multiview</desc></programme>
 <programme start="20260730223500 +0000" stop="20260804235959 +0000" channel="UKTNTEvent11.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20260730000000 +0000" stop="20260730185000 +0000" channel="UKTNTEvent12.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20260730185000 +0000" stop="20260730203000 +0000" channel="UKTNTEvent12.us"><title lang="en">UK| TNT SPORTS EVENT </title><desc lang="en">UK| TNT SPORTS EVENT 12 : Netball | Jamaica - Wales</desc></programme>
-<programme start="20260730203000 +0000" stop="20260730205000 +0000" channel="UKTNTEvent12.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260730205000 +0000" channel="UKTNTEvent12.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260730205000 +0000" stop="20260730223000 +0000" channel="UKTNTEvent12.us"><title lang="en">UK| TNT SPORTS EVENT </title><desc lang="en">UK| TNT SPORTS EVENT 12 : Netball | England - South Africa</desc></programme>
 <programme start="20260730223000 +0000" stop="20260804235959 +0000" channel="UKTNTEvent12.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20260730000000 +0000" stop="20260730185800 +0000" channel="UKTNTEvent13.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20260730185800 +0000" stop="20260730201500 +0000" channel="UKTNTEvent13.us"><title lang="en">UK| TNT SPORTS EVENT </title><desc lang="en">UK| TNT SPORTS EVENT 13 : Athletics and Para Athletics</desc></programme>
-<programme start="20260730201500 +0000" stop="20260804235959 +0000" channel="UKTNTEvent13.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20260730000000 +0000" stop="20260730145000 +0000" channel="UKTNTEvent14.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20260730145000 +0000" stop="20260730220000 +0000" channel="UKTNTEvent14.us"><title lang="en">UK| TNT SPORTS EVENT </title><desc lang="en">UK| TNT SPORTS EVENT 14 : Bowls and Para Bowls</desc></programme>
-<programme start="20260730220000 +0000" stop="20260804235959 +0000" channel="UKTNTEvent14.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260730195500 +0000" channel="AUKayo+017.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730195500 +0000" stop="20260730225500 +0000" channel="AUKayo+017.us"><title lang="en">AU| K+ SPORT 017 | Hu</title><desc lang="en">AU| K+ SPORT 017 | Huddersfield v Hull FC (2026-07-31 04:55:00)</desc></programme>
+<programme start="20260730225500 +0000" stop="20260804235959 +0000" channel="AUKayo+017.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260730232000 +0000" channel="AUKayo+018.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730232000 +0000" stop="20260731022000 +0000" channel="AUKayo+018.us"><title lang="en">AU| K+ SPORT 018 | Co</title><desc lang="en">AU| K+ SPORT 018 | Corinthians v Athletico PR (2026-07-31 08:20:00)</desc></programme>
+<programme start="20260731022000 +0000" stop="20260804235959 +0000" channel="AUKayo+018.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260731000000 +0000" channel="AUKayo+019.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260731000000 +0000" stop="20260731030000 +0000" channel="AUKayo+019.us"><title lang="en">AU| K+ SPORT 019 | Br</title><desc lang="en">AU| K+ SPORT 019 | Braves v Nationals (2026-07-31 09:00:00)</desc></programme>
+<programme start="20260731030000 +0000" stop="20260804235959 +0000" channel="AUKayo+019.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260731051500 +0000" channel="AUKayo+020.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260731051500 +0000" stop="20260731081500 +0000" channel="AUKayo+020.us"><title lang="en">AU| K+ SPORT 020 | Su</title><desc lang="en">AU| K+ SPORT 020 | Supercars Perth Practice (2026-07-31 14:15:00)</desc></programme>
+<programme start="20260731081500 +0000" stop="20260804235959 +0000" channel="AUKayo+020.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260731070000 +0000" channel="AUKayo+021.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260731070000 +0000" stop="20260731100000 +0000" channel="AUKayo+021.us"><title lang="en">AU| K+ SPORT 021 | Ge</title><desc lang="en">AU| K+ SPORT 021 | Geelong v Collingwood (2026-07-31 16:00:00)</desc></programme>
+<programme start="20260731100000 +0000" stop="20260804235959 +0000" channel="AUKayo+021.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260731073000 +0000" channel="AUKayo+022.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260731073000 +0000" stop="20260731103000 +0000" channel="AUKayo+022.us"><title lang="en">AU| K+ SPORT 022 | Cl</title><desc lang="en">AU| K+ SPORT 022 | Clontarf Interstate Challenge (2026-07-31 16:30:00)</desc></programme>
+<programme start="20260731103000 +0000" stop="20260804235959 +0000" channel="AUKayo+022.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260731080000 +0000" channel="AUKayo+023.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260731080000 +0000" stop="20260731110000 +0000" channel="AUKayo+023.us"><title lang="en">AU| K+ SPORT 023 | Dr</title><desc lang="en">AU| K+ SPORT 023 | Dragons v Dolphins (2026-07-31 17:00:00)</desc></programme>
+<programme start="20260731110000 +0000" stop="20260804235959 +0000" channel="AUKayo+023.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260731090000 +0000" channel="AUKayo+024.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260731090000 +0000" stop="20260731120000 +0000" channel="AUKayo+024.us"><title lang="en">AU| K+ SPORT 024 | Wo</title><desc lang="en">AU| K+ SPORT 024 | Women`s Open Round 2 Featured Groups (2026-07-31 18:00:00)</desc></programme>
+<programme start="20260731120000 +0000" stop="20260804235959 +0000" channel="AUKayo+024.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260731100000 +0000" channel="AUKayo+025.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260731100000 +0000" stop="20260731130000 +0000" channel="AUKayo+025.us"><title lang="en">AU| K+ SPORT 025 | Fr</title><desc lang="en">AU| K+ SPORT 025 | Fremantle v Western Bulldogs (2026-07-31 19:00:00)</desc></programme>
+<programme start="20260731130000 +0000" stop="20260804235959 +0000" channel="AUKayo+025.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260731105500 +0000" channel="AUKayo+026.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260731105500 +0000" stop="20260731135500 +0000" channel="AUKayo+026.us"><title lang="en">AU| K+ SPORT 026 | St</title><desc lang="en">AU| K+ SPORT 026 | Storm v Bulldogs (2026-07-31 19:55:00)</desc></programme>
+<programme start="20260731135500 +0000" stop="20260804235959 +0000" channel="AUKayo+026.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260731120000 +0000" channel="AUKayo+027.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260731120000 +0000" stop="20260731150000 +0000" channel="AUKayo+027.us"><title lang="en">AU| K+ SPORT 027 | Ro</title><desc lang="en">AU| K+ SPORT 027 | Rocket Classic Round 2 (2026-07-31 21:00:00)</desc></programme>
+<programme start="20260731150000 +0000" stop="20260804235959 +0000" channel="AUKayo+027.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260731123000 +0000" channel="AUKayo+028.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260731123000 +0000" stop="20260731153000 +0000" channel="AUKayo+028.us"><title lang="en">AU| K+ SPORT 028 | Ro</title><desc lang="en">AU| K+ SPORT 028 | Rocket Classic Round 2 Featured Groups (2026-07-31 21:30:00)</desc></programme>
+<programme start="20260731153000 +0000" stop="20260804235959 +0000" channel="AUKayo+028.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260731130000 +0000" channel="AUKayo+029.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260731130000 +0000" stop="20260731160000 +0000" channel="AUKayo+029.us"><title lang="en">AU| K+ SPORT 029 | Wo</title><desc lang="en">AU| K+ SPORT 029 | Women`s Open Round 2 (2026-07-31 22:00:00)</desc></programme>
+<programme start="20260731160000 +0000" stop="20260804235959 +0000" channel="AUKayo+029.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260731143000 +0000" channel="AUKayo+030.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260731143000 +0000" stop="20260731173000 +0000" channel="AUKayo+030.us"><title lang="en">AU| K+ SPORT 030 | On</title><desc lang="en">AU| K+ SPORT 030 | One Friday Fights: 164 (2026-07-31 23:30:00)</desc></programme>
+<programme start="20260731173000 +0000" stop="20260804235959 +0000" channel="AUKayo+030.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260731145800 +0000" channel="AUKayo+031.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260731145800 +0000" stop="20260731175800 +0000" channel="AUKayo+031.us"><title lang="en">AU| K+ SPORT 031 | Su</title><desc lang="en">AU| K+ SPORT 031 | Super Giants v Rockets (2026-07-31 23:58:00)</desc></programme>
+<programme start="20260731175800 +0000" stop="20260804235959 +0000" channel="AUKayo+031.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="PPVBoxing00.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="PPVBoxing01.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="PPVBoxing02.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
@@ -5269,6 +5261,10 @@
 <programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="UKLiveFootball32.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="UKSkySport+02.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="UKSkySport+03.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="UKSkySport+04.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="UKSkySport+05.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="UKSkySport+06.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="UKSkySport+07.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="UKSkySport+08.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="UKSkySport+09.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="UKSkySport+10.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
@@ -5499,7 +5495,10 @@
 <programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="CADAZNVIPEvent07.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="CADAZNCAEvent01.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="CADAZNCAEvent02.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="CADAZNCAEvent06.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="CADAZNCAEvent07.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="CADAZNVIPEvent08.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="CADAZNVIPEvent09.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="CADAZNVIPEvent10.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="CADAZNVIPEvent11.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="CADAZNVIPEvent12.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
@@ -5527,6 +5526,13 @@
 <programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="CADAZNEvent04.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="CADAZNEvent05.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="CADAZNEvent06.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="CADAZNEvent07.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="CADAZNEvent08.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="CADAZNEvent09.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="CADAZNEvent10.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="CADAZNEvent11.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="CADAZNEvent12.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="CADAZNEvent13.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="CADAZNEvent39.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="CADAZNEvent40.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="CADAZNEvent41.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
@@ -5596,7 +5602,9 @@
 <programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="UKDAZNVIPEvent05.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="UKDAZNVIPEvent06.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="UKDAZNVIPEvent07.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="UKDAZNEvent04.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="UKDAZNEvent06.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="UKDAZNEvent07.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="UKDAZNEvent08.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="UKDAZNEvent09.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="UKDAZNEvent10.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
@@ -5873,6 +5881,7 @@
 <programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="USFloSports005.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="USFloSports006.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="USFloSports007.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="USFloSports008.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="USFloSports079.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="USFloSports080.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="USFloSports081.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
@@ -6794,6 +6803,7 @@
 <programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="USFloSports997.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="USFloSports998.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="USFloSports999.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="AUStanSportEvent02.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="AUStanSportEvent03.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="AUStanSportEvent04.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="AUStanSportEvent05.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
@@ -6848,6 +6858,7 @@
 <programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="IELOITV13.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="IELOITV14.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="IELOITV15.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="IEClubberTV01.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="IEClubberTV02.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="IEClubberTV03.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="IEClubberTV04.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
@@ -6900,6 +6911,12 @@
 <programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="USESPN+016.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="USESPN+017.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="USESPN+018.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="USESPN+019.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="USESPN+020.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="USESPN+021.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="USESPN+022.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="USESPN+023.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="USESPN+024.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="USESPN+106.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="USESPN+107.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="USESPN+108.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
@@ -7599,6 +7616,7 @@
 <programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="CASN+002.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="CASN+003.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="CASN+004.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="CASN+005.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="CASN+026.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="CASN+027.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="CASN+028.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
@@ -7680,6 +7698,10 @@
 <programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="CATSN+004.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="CATSN+005.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="CATSN+006.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="CATSN+007.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="CATSN+008.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="CATSN+009.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="CATSN+010.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="CATSN+039.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="CATSN+040.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="CATSN+041.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
@@ -8312,6 +8334,13 @@
 <programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="CACBC20.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="CACBC21.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="CACBC22.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="CACBC23.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="CACBC24.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="CACBC25.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="CACBC26.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="CACBC27.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="CACBC28.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="CACBC29.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="CACBC45.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="CACBC46.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="CACBC47.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
@@ -8349,6 +8378,14 @@
 <programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="UKHBOMAX18.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="UKHBOMAX19.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="UKHBOMAX20.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="UKTNTEvent05.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="UKTNTEvent06.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="UKTNTEvent07.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="UKTNTEvent08.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="UKTNTEvent09.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="UKTNTEvent10.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="UKTNTEvent13.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="UKTNTEvent14.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="UKTNTEvent15.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="UKTNTEvent16.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="UKTNTEvent17.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
@@ -8639,4 +8676,89 @@
 <programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="USMaxPPV98.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="USMaxPPV99.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="USMaxPPV100.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="AUKayo+001.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="AUKayo+002.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="AUKayo+003.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="AUKayo+004.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="AUKayo+005.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="AUKayo+006.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="AUKayo+007.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="AUKayo+008.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="AUKayo+009.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="AUKayo+010.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="AUKayo+011.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="AUKayo+012.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="AUKayo+013.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="AUKayo+014.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="AUKayo+015.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="AUKayo+016.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="AUKayo+032.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="AUKayo+033.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="AUKayo+034.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="AUKayo+035.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="AUKayo+036.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="AUKayo+037.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="AUKayo+038.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="AUKayo+039.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="AUKayo+040.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="AUKayo+041.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="AUKayo+042.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="AUKayo+043.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="AUKayo+044.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="AUKayo+045.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="AUKayo+046.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="AUKayo+047.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="AUKayo+048.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="AUKayo+049.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="AUKayo+050.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="AUKayo+051.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="AUKayo+052.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="AUKayo+053.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="AUKayo+054.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="AUKayo+055.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="AUKayo+056.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="AUKayo+057.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="AUKayo+058.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="AUKayo+059.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="AUKayo+060.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="AUKayo+061.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="AUKayo+062.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="AUKayo+063.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="AUKayo+064.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="AUKayo+065.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="AUKayo+066.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="AUKayo+067.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="AUKayo+068.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="AUKayo+069.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="AUKayo+070.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="AUKayo+071.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="AUKayo+072.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="AUKayo+073.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="AUKayo+074.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="AUKayo+075.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="AUKayo+076.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="AUKayo+077.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="AUKayo+078.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="AUKayo+079.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="AUKayo+080.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="AUKayo+081.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="AUKayo+082.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="AUKayo+083.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="AUKayo+084.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="AUKayo+085.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="AUKayo+086.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="AUKayo+087.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="AUKayo+088.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="AUKayo+089.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="AUKayo+090.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="AUKayo+091.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="AUKayo+092.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="AUKayo+093.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="AUKayo+094.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="AUKayo+095.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="AUKayo+096.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="AUKayo+097.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="AUKayo+098.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="AUKayo+099.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260730000000 +0000" stop="20260804235959 +0000" channel="AUKayo+100.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 </tv>
