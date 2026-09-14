@@ -996,6 +996,11 @@
 <channel id="B1GPL+38.uk"><display-name>PL+ 38</display-name><url>https://sky.com</url></channel>
 <channel id="B1GPL+39.uk"><display-name>PL+ 39</display-name><url>https://sky.com</url></channel>
 <channel id="B1GPL+40.uk"><display-name>PL+ 40</display-name><url>https://sky.com</url></channel>
+<channel id="B1GPremLeague+01.uk"><display-name>Prem League+ 1</display-name><url>https://sky.com</url></channel>
+<channel id="B1GPremLeague+02.uk"><display-name>Prem League+ 2</display-name><url>https://sky.com</url></channel>
+<channel id="B1GPremLeague+03.uk"><display-name>Prem League+ 3</display-name><url>https://sky.com</url></channel>
+<channel id="B1GPremLeague+04.uk"><display-name>Prem League+ 4</display-name><url>https://sky.com</url></channel>
+<channel id="B1GPremLeague+05.uk"><display-name>Prem League+ 5</display-name><url>https://sky.com</url></channel>
 <programme start="20260914000000 +0000" stop="20260914170000 +0000" channel="B1GLiveSports01.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260914170000 +0000" stop="20260914220000 +0000" channel="B1GLiveSports01.uk"><title lang="en">01. WTA Tour | Sao Pa</title><desc lang="en">01. WTA Tour | Sao Paulo Open (Mon 17:00 UK)</desc></programme>
 <programme start="20260914220000 +0000" stop="20260919235959 +0000" channel="B1GLiveSports01.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
@@ -2095,4 +2100,9 @@
 <programme start="20260914000000 +0000" stop="20260919235959 +0000" channel="B1GPL+38.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260914000000 +0000" stop="20260919235959 +0000" channel="B1GPL+39.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260914000000 +0000" stop="20260919235959 +0000" channel="B1GPL+40.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260914000000 +0000" stop="20260919235959 +0000" channel="B1GPremLeague+01.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260914000000 +0000" stop="20260919235959 +0000" channel="B1GPremLeague+02.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260914000000 +0000" stop="20260919235959 +0000" channel="B1GPremLeague+03.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260914000000 +0000" stop="20260919235959 +0000" channel="B1GPremLeague+04.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260914000000 +0000" stop="20260919235959 +0000" channel="B1GPremLeague+05.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 </tv>
