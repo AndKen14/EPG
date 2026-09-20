@@ -4090,6 +4090,32 @@
 <channel id="UKCymruPremier08.us"><display-name>UK Cymru Premier 08</display-name><url>https://sky.com</url></channel>
 <channel id="UKCymruPremier09.us"><display-name>UK Cymru Premier 09</display-name><url>https://sky.com</url></channel>
 <channel id="UKCymruPremier10.us"><display-name>UK Cymru Premier 10</display-name><url>https://sky.com</url></channel>
+<channel id="USTennisChannel+01.us"><display-name>US TENNIS CHANNEL+ 01</display-name><url>https://sky.com</url></channel>
+<channel id="USTennisChannel+02.us"><display-name>US TENNIS CHANNEL+ 02</display-name><url>https://sky.com</url></channel>
+<channel id="USTennisChannel+03.us"><display-name>US TENNIS CHANNEL+ 03</display-name><url>https://sky.com</url></channel>
+<channel id="USTennisChannel+04.us"><display-name>US TENNIS CHANNEL+ 04</display-name><url>https://sky.com</url></channel>
+<channel id="USTennisChannel+05.us"><display-name>US TENNIS CHANNEL+ 05</display-name><url>https://sky.com</url></channel>
+<channel id="USTennisChannel+06.us"><display-name>US TENNIS CHANNEL+ 06</display-name><url>https://sky.com</url></channel>
+<channel id="USTennisChannel+07.us"><display-name>US TENNIS CHANNEL+ 07</display-name><url>https://sky.com</url></channel>
+<channel id="USTennisChannel+08.us"><display-name>US TENNIS CHANNEL+ 08</display-name><url>https://sky.com</url></channel>
+<channel id="USTennisChannel+09.us"><display-name>US TENNIS CHANNEL+ 09</display-name><url>https://sky.com</url></channel>
+<channel id="USTennisChannel+10.us"><display-name>US TENNIS CHANNEL+ 10</display-name><url>https://sky.com</url></channel>
+<channel id="USTennisChannel+11.us"><display-name>US TENNIS CHANNEL+ 11</display-name><url>https://sky.com</url></channel>
+<channel id="USTennisChannel+12.us"><display-name>US TENNIS CHANNEL+ 12</display-name><url>https://sky.com</url></channel>
+<channel id="USTennisChannel+13.us"><display-name>US TENNIS CHANNEL+ 13</display-name><url>https://sky.com</url></channel>
+<channel id="USTennisChannel+14.us"><display-name>US TENNIS CHANNEL+ 14</display-name><url>https://sky.com</url></channel>
+<channel id="USTennisChannel+15.us"><display-name>US TENNIS CHANNEL+ 15</display-name><url>https://sky.com</url></channel>
+<channel id="USTennisChannel+16.us"><display-name>US TENNIS CHANNEL+ 16</display-name><url>https://sky.com</url></channel>
+<channel id="USTennisChannel+17.us"><display-name>US TENNIS CHANNEL+ 17</display-name><url>https://sky.com</url></channel>
+<channel id="USTennisChannel+18.us"><display-name>US TENNIS CHANNEL+ 18</display-name><url>https://sky.com</url></channel>
+<channel id="USTennisChannel+19.us"><display-name>US TENNIS CHANNEL+ 19</display-name><url>https://sky.com</url></channel>
+<channel id="USTennisChannel+20.us"><display-name>US TENNIS CHANNEL+ 20</display-name><url>https://sky.com</url></channel>
+<channel id="USTennisChannel+21.us"><display-name>US TENNIS CHANNEL+ 21</display-name><url>https://sky.com</url></channel>
+<channel id="USTennisChannel+22.us"><display-name>US TENNIS CHANNEL+ 22</display-name><url>https://sky.com</url></channel>
+<channel id="USTennisChannel+23.us"><display-name>US TENNIS CHANNEL+ 23</display-name><url>https://sky.com</url></channel>
+<channel id="USTennisChannel+24.us"><display-name>US TENNIS CHANNEL+ 24</display-name><url>https://sky.com</url></channel>
+<channel id="USTennisChannel+25.us"><display-name>US TENNIS CHANNEL+ 25</display-name><url>https://sky.com</url></channel>
+<channel id="USTennisChannel+26.us"><display-name>US TENNIS CHANNEL+ 26</display-name><url>https://sky.com</url></channel>
 <programme start="20260919000000 +0000" stop="20260919194500 +0000" channel="UKCOUPANGPLAY01.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260919194500 +0000" stop="20260919224500 +0000" channel="UKCOUPANGPLAY01.us"><title lang="en">ASIA-PPV| COUPANG PLA</title><desc lang="en">ASIA-PPV| COUPANG PLAY 01 | Lyon vs Rennes // UK Sat 19 Sep 7:45pm // ET Sat 19 Sep 2:45pm</desc></programme>
 <programme start="20260919224500 +0000" stop="20260920123000 +0000" channel="UKCOUPANGPLAY01.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
@@ -10581,4 +10607,30 @@
 <programme start="20260919000000 +0000" stop="20260924235959 +0000" channel="UKCymruPremier08.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260919000000 +0000" stop="20260924235959 +0000" channel="UKCymruPremier09.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260919000000 +0000" stop="20260924235959 +0000" channel="UKCymruPremier10.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260920000000 +0000" stop="20260925235959 +0000" channel="USTennisChannel+01.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260920000000 +0000" stop="20260925235959 +0000" channel="USTennisChannel+02.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260920000000 +0000" stop="20260925235959 +0000" channel="USTennisChannel+03.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260920000000 +0000" stop="20260925235959 +0000" channel="USTennisChannel+04.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260920000000 +0000" stop="20260925235959 +0000" channel="USTennisChannel+05.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260920000000 +0000" stop="20260925235959 +0000" channel="USTennisChannel+06.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260920000000 +0000" stop="20260925235959 +0000" channel="USTennisChannel+07.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260920000000 +0000" stop="20260925235959 +0000" channel="USTennisChannel+08.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260920000000 +0000" stop="20260925235959 +0000" channel="USTennisChannel+09.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260920000000 +0000" stop="20260925235959 +0000" channel="USTennisChannel+10.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260920000000 +0000" stop="20260925235959 +0000" channel="USTennisChannel+11.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260920000000 +0000" stop="20260925235959 +0000" channel="USTennisChannel+12.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260920000000 +0000" stop="20260925235959 +0000" channel="USTennisChannel+13.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260920000000 +0000" stop="20260925235959 +0000" channel="USTennisChannel+14.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260920000000 +0000" stop="20260925235959 +0000" channel="USTennisChannel+15.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260920000000 +0000" stop="20260925235959 +0000" channel="USTennisChannel+16.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260920000000 +0000" stop="20260925235959 +0000" channel="USTennisChannel+17.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260920000000 +0000" stop="20260925235959 +0000" channel="USTennisChannel+18.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260920000000 +0000" stop="20260925235959 +0000" channel="USTennisChannel+19.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260920000000 +0000" stop="20260925235959 +0000" channel="USTennisChannel+20.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260920000000 +0000" stop="20260925235959 +0000" channel="USTennisChannel+21.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260920000000 +0000" stop="20260925235959 +0000" channel="USTennisChannel+22.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260920000000 +0000" stop="20260925235959 +0000" channel="USTennisChannel+23.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260920000000 +0000" stop="20260925235959 +0000" channel="USTennisChannel+24.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260920000000 +0000" stop="20260925235959 +0000" channel="USTennisChannel+25.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260920000000 +0000" stop="20260925235959 +0000" channel="USTennisChannel+26.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 </tv>

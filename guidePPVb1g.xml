@@ -382,6 +382,7 @@
 <channel id="B1GWSL01.uk"><display-name>B1G WSL 01</display-name><url>https://sky.com</url></channel>
 <channel id="B1GWSL02.uk"><display-name>B1G WSL 02</display-name><url>https://sky.com</url></channel>
 <channel id="B1GWSL03.uk"><display-name>B1G WSL 03</display-name><url>https://sky.com</url></channel>
+<channel id="B1GWSL07.uk"><display-name>B1G WSL 07</display-name><url>https://sky.com</url></channel>
 <channel id="B1GAFL01.uk"><display-name>B1G AFL 01</display-name><url>https://sky.com</url></channel>
 <channel id="B1GAFL02.uk"><display-name>B1G AFL 02</display-name><url>https://sky.com</url></channel>
 <channel id="B1GAFL03.uk"><display-name>B1G AFL 03</display-name><url>https://sky.com</url></channel>
@@ -1616,6 +1617,7 @@
 <programme start="20260919000000 +0000" stop="20260924235959 +0000" channel="B1GWSL01.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260919000000 +0000" stop="20260924235959 +0000" channel="B1GWSL02.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260919000000 +0000" stop="20260924235959 +0000" channel="B1GWSL03.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20260920000000 +0000" stop="20260925235959 +0000" channel="B1GWSL07.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260919000000 +0000" stop="20260924235959 +0000" channel="B1GAFL01.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260919000000 +0000" stop="20260924235959 +0000" channel="B1GAFL02.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20260919000000 +0000" stop="20260924235959 +0000" channel="B1GAFL03.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
