@@ -1,0 +1,692 @@
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20250903">
+<channel id="UKEPL01.uk"><display-name>UK EPL 01</display-name><url>https://sky.com</url></channel>
+<channel id="USEVENTS02.us"><display-name>US Events 02</display-name><url>https://sky.com</url></channel>
+<channel id="USEVENTS03.us"><display-name>US Events 03</display-name><url>https://sky.com</url></channel>
+<channel id="USEVENTS04.us"><display-name>US Events 04</display-name><url>https://sky.com</url></channel>
+<channel id="USEVENTS05.us"><display-name>US Events 05</display-name><url>https://sky.com</url></channel>
+<channel id="USSOCCER01.us"><display-name>US Soccer 01</display-name><url>https://sky.com</url></channel>
+<channel id="USSOCCER02.us"><display-name>US Soccer 02</display-name><url>https://sky.com</url></channel>
+<channel id="USSOCCER03.us"><display-name>US Soccer 03</display-name><url>https://sky.com</url></channel>
+<channel id="USSOCCER04.us"><display-name>US Soccer 04</display-name><url>https://sky.com</url></channel>
+<channel id="USSOCCER05.us"><display-name>US Soccer 05</display-name><url>https://sky.com</url></channel>
+<channel id="USSOCCER06.us"><display-name>US Soccer 06</display-name><url>https://sky.com</url></channel>
+<channel id="USSOCCER07.us"><display-name>US Soccer 07</display-name><url>https://sky.com</url></channel>
+<channel id="USSOCCER08.us"><display-name>US Soccer 08</display-name><url>https://sky.com</url></channel>
+<channel id="USSOCCER09.us"><display-name>US Soccer 09</display-name><url>https://sky.com</url></channel>
+<channel id="USSOCCER10.us"><display-name>US Soccer 10</display-name><url>https://sky.com</url></channel>
+<channel id="USSOCCER11.us"><display-name>US Soccer 11</display-name><url>https://sky.com</url></channel>
+<channel id="USSOCCER12.us"><display-name>US Soccer 12</display-name><url>https://sky.com</url></channel>
+<channel id="USSOCCER13.us"><display-name>US Soccer 13</display-name><url>https://sky.com</url></channel>
+<channel id="USSOCCER14.us"><display-name>US Soccer 14</display-name><url>https://sky.com</url></channel>
+<channel id="USSOCCER15.us"><display-name>US Soccer 15</display-name><url>https://sky.com</url></channel>
+<channel id="USSOCCER16.us"><display-name>US Soccer 16</display-name><url>https://sky.com</url></channel>
+<channel id="USSOCCER17.us"><display-name>US Soccer 17</display-name><url>https://sky.com</url></channel>
+<channel id="USSOCCER18.us"><display-name>US Soccer 18</display-name><url>https://sky.com</url></channel>
+<channel id="USSOCCER19.us"><display-name>US Soccer 19</display-name><url>https://sky.com</url></channel>
+<channel id="USSOCCER20.us"><display-name>US Soccer 20</display-name><url>https://sky.com</url></channel>
+<channel id="USSOCCER21.us"><display-name>US Soccer 21</display-name><url>https://sky.com</url></channel>
+<channel id="USSOCCER22.us"><display-name>US Soccer 22</display-name><url>https://sky.com</url></channel>
+<channel id="USSOCCER23.us"><display-name>US Soccer 23</display-name><url>https://sky.com</url></channel>
+<channel id="USNHL00.us"><display-name>US NHL 00</display-name><url>https://sky.com</url></channel>
+<channel id="USNHL01.us"><display-name>US NHL 01</display-name><url>https://sky.com</url></channel>
+<channel id="USNHL02.us"><display-name>US NHL 02</display-name><url>https://sky.com</url></channel>
+<channel id="USNHL03.us"><display-name>US NHL 03</display-name><url>https://sky.com</url></channel>
+<channel id="UKEPL02.uk"><display-name>UK EPL 02</display-name><url>https://sky.com</url></channel>
+<channel id="UKEPL03.uk"><display-name>UK EPL 03</display-name><url>https://sky.com</url></channel>
+<channel id="UKEPL04.uk"><display-name>UK EPL 04</display-name><url>https://sky.com</url></channel>
+<channel id="UKEPL05.uk"><display-name>UK EPL 05</display-name><url>https://sky.com</url></channel>
+<channel id="UKEPL06.uk"><display-name>UK EPL 06</display-name><url>https://sky.com</url></channel>
+<channel id="UKEPL07.uk"><display-name>UK EPL 07</display-name><url>https://sky.com</url></channel>
+<channel id="UKEPL08.uk"><display-name>UK EPL 08</display-name><url>https://sky.com</url></channel>
+<channel id="UKEPL09.uk"><display-name>UK EPL 09</display-name><url>https://sky.com</url></channel>
+<channel id="UKEPL10.uk"><display-name>UK EPL 10</display-name><url>https://sky.com</url></channel>
+<channel id="UKEPL11.uk"><display-name>UK EPL 11</display-name><url>https://sky.com</url></channel>
+<channel id="UKEPL12.uk"><display-name>UK EPL 12</display-name><url>https://sky.com</url></channel>
+<channel id="UKSPFL01.uk"><display-name>UK SPFL 01</display-name><url>https://sky.com</url></channel>
+<channel id="UKSPFL02.uk"><display-name>UK SPFL 02</display-name><url>https://sky.com</url></channel>
+<channel id="UKSPFL03.uk"><display-name>UK SPFL 03</display-name><url>https://sky.com</url></channel>
+<channel id="UKSPFL04.uk"><display-name>UK SPFL 04</display-name><url>https://sky.com</url></channel>
+<channel id="UKSPFL05.uk"><display-name>UK SPFL 05</display-name><url>https://sky.com</url></channel>
+<channel id="UKSPFL06.uk"><display-name>UK SPFL 06</display-name><url>https://sky.com</url></channel>
+<channel id="UKSPFL07.uk"><display-name>UK SPFL 07</display-name><url>https://sky.com</url></channel>
+<channel id="USEVENTS01.us"><display-name>US Events 01</display-name><url>https://sky.com</url></channel>
+<channel id="USEVENTS06.us"><display-name>US Events 06</display-name><url>https://sky.com</url></channel>
+<channel id="USEVENTS07.us"><display-name>US Events 07</display-name><url>https://sky.com</url></channel>
+<channel id="USEVENTS08.us"><display-name>US Events 08</display-name><url>https://sky.com</url></channel>
+<channel id="USEVENTS09.us"><display-name>US Events 09</display-name><url>https://sky.com</url></channel>
+<channel id="USEVENTS10.us"><display-name>US Events 10</display-name><url>https://sky.com</url></channel>
+<channel id="USEVENTS11.us"><display-name>US Events 11</display-name><url>https://sky.com</url></channel>
+<channel id="USEVENTS12.us"><display-name>US Events 12</display-name><url>https://sky.com</url></channel>
+<channel id="USEVENTS13.us"><display-name>US Events 13</display-name><url>https://sky.com</url></channel>
+<channel id="USEVENTS14.us"><display-name>US Events 14</display-name><url>https://sky.com</url></channel>
+<channel id="USEVENTS15.us"><display-name>US Events 15</display-name><url>https://sky.com</url></channel>
+<channel id="USEVENTS16.us"><display-name>US Events 16</display-name><url>https://sky.com</url></channel>
+<channel id="USEVENTS17.us"><display-name>US Events 17</display-name><url>https://sky.com</url></channel>
+<channel id="USEVENTS18.us"><display-name>US Events 18</display-name><url>https://sky.com</url></channel>
+<channel id="USEVENTS19.us"><display-name>US Events 19</display-name><url>https://sky.com</url></channel>
+<channel id="USEVENTS20.us"><display-name>US Events 20</display-name><url>https://sky.com</url></channel>
+<channel id="USEVENTS21.us"><display-name>US Events 21</display-name><url>https://sky.com</url></channel>
+<channel id="USEVENTS22.us"><display-name>US Events 22</display-name><url>https://sky.com</url></channel>
+<channel id="USEVENTS23.us"><display-name>US Events 23</display-name><url>https://sky.com</url></channel>
+<channel id="USEVENTS24.us"><display-name>US Events 24</display-name><url>https://sky.com</url></channel>
+<channel id="USEVENTS25.us"><display-name>US Events 25</display-name><url>https://sky.com</url></channel>
+<channel id="USEVENTS26.us"><display-name>US Events 26</display-name><url>https://sky.com</url></channel>
+<channel id="USEVENTS27.us"><display-name>US Events 27</display-name><url>https://sky.com</url></channel>
+<channel id="USEVENTS28.us"><display-name>US Events 28</display-name><url>https://sky.com</url></channel>
+<channel id="USEVENTS29.us"><display-name>US Events 29</display-name><url>https://sky.com</url></channel>
+<channel id="USEVENTS30.us"><display-name>US Events 30</display-name><url>https://sky.com</url></channel>
+<channel id="USEVENTS31.us"><display-name>US Events 31</display-name><url>https://sky.com</url></channel>
+<channel id="USEVENTS32.us"><display-name>US Events 32</display-name><url>https://sky.com</url></channel>
+<channel id="USEVENTS33.us"><display-name>US Events 33</display-name><url>https://sky.com</url></channel>
+<channel id="USEVENTS34.us"><display-name>US Events 34</display-name><url>https://sky.com</url></channel>
+<channel id="USEVENTS35.us"><display-name>US Events 35</display-name><url>https://sky.com</url></channel>
+<channel id="USEVENTS36.us"><display-name>US Events 36</display-name><url>https://sky.com</url></channel>
+<channel id="USEVENTS37.us"><display-name>US Events 37</display-name><url>https://sky.com</url></channel>
+<channel id="USEVENTS38.us"><display-name>US Events 38</display-name><url>https://sky.com</url></channel>
+<channel id="USEVENTS39.us"><display-name>US Events 39</display-name><url>https://sky.com</url></channel>
+<channel id="USEVENTS40.us"><display-name>US Events 40</display-name><url>https://sky.com</url></channel>
+<channel id="USEVENTS41.us"><display-name>US Events 41</display-name><url>https://sky.com</url></channel>
+<channel id="USEVENTS42.us"><display-name>US Events 42</display-name><url>https://sky.com</url></channel>
+<channel id="USEVENTS43.us"><display-name>US Events 43</display-name><url>https://sky.com</url></channel>
+<channel id="USEVENTS44.us"><display-name>US Events 44</display-name><url>https://sky.com</url></channel>
+<channel id="USEVENTS45.us"><display-name>US Events 45</display-name><url>https://sky.com</url></channel>
+<channel id="USEVENTS46.us"><display-name>US Events 46</display-name><url>https://sky.com</url></channel>
+<channel id="USEVENTS47.us"><display-name>US Events 47</display-name><url>https://sky.com</url></channel>
+<channel id="USEVENTS48.us"><display-name>US Events 48</display-name><url>https://sky.com</url></channel>
+<channel id="USEVENTS49.us"><display-name>US Events 49</display-name><url>https://sky.com</url></channel>
+<channel id="USEVENTS50.us"><display-name>US Events 50</display-name><url>https://sky.com</url></channel>
+<channel id="USEVENTS51.us"><display-name>US Events 51</display-name><url>https://sky.com</url></channel>
+<channel id="USEVENTS52.us"><display-name>US Events 52</display-name><url>https://sky.com</url></channel>
+<channel id="USEVENTS53.us"><display-name>US Events 53</display-name><url>https://sky.com</url></channel>
+<channel id="USEVENTS54.us"><display-name>US Events 54</display-name><url>https://sky.com</url></channel>
+<channel id="USEVENTS55.us"><display-name>US Events 55</display-name><url>https://sky.com</url></channel>
+<channel id="USEVENTS56.us"><display-name>US Events 56</display-name><url>https://sky.com</url></channel>
+<channel id="USEVENTS57.us"><display-name>US Events 57</display-name><url>https://sky.com</url></channel>
+<channel id="USEVENTS58.us"><display-name>US Events 58</display-name><url>https://sky.com</url></channel>
+<channel id="USEVENTS59.us"><display-name>US Events 59</display-name><url>https://sky.com</url></channel>
+<channel id="USEVENTS60.us"><display-name>US Events 60</display-name><url>https://sky.com</url></channel>
+<channel id="USEVENTS61.us"><display-name>US Events 61</display-name><url>https://sky.com</url></channel>
+<channel id="USEVENTS62.us"><display-name>US Events 62</display-name><url>https://sky.com</url></channel>
+<channel id="USEVENTS63.us"><display-name>US Events 63</display-name><url>https://sky.com</url></channel>
+<channel id="USEVENTS64.us"><display-name>US Events 64</display-name><url>https://sky.com</url></channel>
+<channel id="USEVENTS65.us"><display-name>US Events 65</display-name><url>https://sky.com</url></channel>
+<channel id="USEVENTS66.us"><display-name>US Events 66</display-name><url>https://sky.com</url></channel>
+<channel id="USEVENTS67.us"><display-name>US Events 67</display-name><url>https://sky.com</url></channel>
+<channel id="USEVENTS68.us"><display-name>US Events 68</display-name><url>https://sky.com</url></channel>
+<channel id="USEVENTS69.us"><display-name>US Events 69</display-name><url>https://sky.com</url></channel>
+<channel id="USEVENTS70.us"><display-name>US Events 70</display-name><url>https://sky.com</url></channel>
+<channel id="USEVENTS71.us"><display-name>US Events 71</display-name><url>https://sky.com</url></channel>
+<channel id="USEVENTS72.us"><display-name>US Events 72</display-name><url>https://sky.com</url></channel>
+<channel id="USEVENTS73.us"><display-name>US Events 73</display-name><url>https://sky.com</url></channel>
+<channel id="USEVENTS74.us"><display-name>US Events 74</display-name><url>https://sky.com</url></channel>
+<channel id="USEVENTS75.us"><display-name>US Events 75</display-name><url>https://sky.com</url></channel>
+<channel id="USEVENTS76.us"><display-name>US Events 76</display-name><url>https://sky.com</url></channel>
+<channel id="USEVENTS77.us"><display-name>US Events 77</display-name><url>https://sky.com</url></channel>
+<channel id="USEVENTS78.us"><display-name>US Events 78</display-name><url>https://sky.com</url></channel>
+<channel id="USEVENTS79.us"><display-name>US Events 79</display-name><url>https://sky.com</url></channel>
+<channel id="USEVENTS80.us"><display-name>US Events 80</display-name><url>https://sky.com</url></channel>
+<channel id="USEVENTS81.us"><display-name>US Events 81</display-name><url>https://sky.com</url></channel>
+<channel id="USEVENTS82.us"><display-name>US Events 82</display-name><url>https://sky.com</url></channel>
+<channel id="USEVENTS83.us"><display-name>US Events 83</display-name><url>https://sky.com</url></channel>
+<channel id="USEVENTS84.us"><display-name>US Events 84</display-name><url>https://sky.com</url></channel>
+<channel id="USEVENTS85.us"><display-name>US Events 85</display-name><url>https://sky.com</url></channel>
+<channel id="USEVENTS86.us"><display-name>US Events 86</display-name><url>https://sky.com</url></channel>
+<channel id="USEVENTS87.us"><display-name>US Events 87</display-name><url>https://sky.com</url></channel>
+<channel id="USEVENTS88.us"><display-name>US Events 88</display-name><url>https://sky.com</url></channel>
+<channel id="USEVENTS89.us"><display-name>US Events 89</display-name><url>https://sky.com</url></channel>
+<channel id="USEVENTS90.us"><display-name>US Events 90</display-name><url>https://sky.com</url></channel>
+<channel id="USEVENTS91.us"><display-name>US Events 91</display-name><url>https://sky.com</url></channel>
+<channel id="USEVENTS92.us"><display-name>US Events 92</display-name><url>https://sky.com</url></channel>
+<channel id="USEVENTS93.us"><display-name>US Events 93</display-name><url>https://sky.com</url></channel>
+<channel id="USEVENTS94.us"><display-name>US Events 94</display-name><url>https://sky.com</url></channel>
+<channel id="USEVENTS95.us"><display-name>US Events 95</display-name><url>https://sky.com</url></channel>
+<channel id="USEVENTS96.us"><display-name>US Events 96</display-name><url>https://sky.com</url></channel>
+<channel id="USEVENTS97.us"><display-name>US Events 97</display-name><url>https://sky.com</url></channel>
+<channel id="USEVENTS98.us"><display-name>US Events 98</display-name><url>https://sky.com</url></channel>
+<channel id="USEVENTS99.us"><display-name>US Events 99</display-name><url>https://sky.com</url></channel>
+<channel id="USSOCCER24.us"><display-name>US Soccer 24</display-name><url>https://sky.com</url></channel>
+<channel id="USSOCCER25.us"><display-name>US Soccer 25</display-name><url>https://sky.com</url></channel>
+<channel id="USSOCCER26.us"><display-name>US Soccer 26</display-name><url>https://sky.com</url></channel>
+<channel id="USSOCCER27.us"><display-name>US Soccer 27</display-name><url>https://sky.com</url></channel>
+<channel id="USSOCCER28.us"><display-name>US Soccer 28</display-name><url>https://sky.com</url></channel>
+<channel id="USSOCCER29.us"><display-name>US Soccer 29</display-name><url>https://sky.com</url></channel>
+<channel id="USSOCCER30.us"><display-name>US Soccer 30</display-name><url>https://sky.com</url></channel>
+<channel id="USSOCCER31.us"><display-name>US Soccer 31</display-name><url>https://sky.com</url></channel>
+<channel id="USSOCCER32.us"><display-name>US Soccer 32</display-name><url>https://sky.com</url></channel>
+<channel id="USSOCCER33.us"><display-name>US Soccer 33</display-name><url>https://sky.com</url></channel>
+<channel id="USSOCCER34.us"><display-name>US Soccer 34</display-name><url>https://sky.com</url></channel>
+<channel id="USSOCCER35.us"><display-name>US Soccer 35</display-name><url>https://sky.com</url></channel>
+<channel id="USSOCCER36.us"><display-name>US Soccer 36</display-name><url>https://sky.com</url></channel>
+<channel id="USSOCCER37.us"><display-name>US Soccer 37</display-name><url>https://sky.com</url></channel>
+<channel id="USSOCCER38.us"><display-name>US Soccer 38</display-name><url>https://sky.com</url></channel>
+<channel id="USSOCCER39.us"><display-name>US Soccer 39</display-name><url>https://sky.com</url></channel>
+<channel id="USSOCCER40.us"><display-name>US Soccer 40</display-name><url>https://sky.com</url></channel>
+<channel id="USSOCCER41.us"><display-name>US Soccer 41</display-name><url>https://sky.com</url></channel>
+<channel id="USSOCCER42.us"><display-name>US Soccer 42</display-name><url>https://sky.com</url></channel>
+<channel id="USSOCCER43.us"><display-name>US Soccer 43</display-name><url>https://sky.com</url></channel>
+<channel id="USSOCCER44.us"><display-name>US Soccer 44</display-name><url>https://sky.com</url></channel>
+<channel id="USSOCCER45.us"><display-name>US Soccer 45</display-name><url>https://sky.com</url></channel>
+<channel id="USSOCCER46.us"><display-name>US Soccer 46</display-name><url>https://sky.com</url></channel>
+<channel id="USSOCCER47.us"><display-name>US Soccer 47</display-name><url>https://sky.com</url></channel>
+<channel id="USSOCCER48.us"><display-name>US Soccer 48</display-name><url>https://sky.com</url></channel>
+<channel id="USSOCCER49.us"><display-name>US Soccer 49</display-name><url>https://sky.com</url></channel>
+<channel id="USSOCCER50.us"><display-name>US Soccer 50</display-name><url>https://sky.com</url></channel>
+<channel id="USSOCCER51.us"><display-name>US Soccer 51</display-name><url>https://sky.com</url></channel>
+<channel id="USSOCCER52.us"><display-name>US Soccer 52</display-name><url>https://sky.com</url></channel>
+<channel id="USSOCCER53.us"><display-name>US Soccer 53</display-name><url>https://sky.com</url></channel>
+<channel id="USSOCCER54.us"><display-name>US Soccer 54</display-name><url>https://sky.com</url></channel>
+<channel id="USSOCCER55.us"><display-name>US Soccer 55</display-name><url>https://sky.com</url></channel>
+<channel id="USSOCCER56.us"><display-name>US Soccer 56</display-name><url>https://sky.com</url></channel>
+<channel id="USSOCCER57.us"><display-name>US Soccer 57</display-name><url>https://sky.com</url></channel>
+<channel id="USSOCCER58.us"><display-name>US Soccer 58</display-name><url>https://sky.com</url></channel>
+<channel id="USSOCCER59.us"><display-name>US Soccer 59</display-name><url>https://sky.com</url></channel>
+<channel id="USSOCCER60.us"><display-name>US Soccer 60</display-name><url>https://sky.com</url></channel>
+<channel id="USSOCCER61.us"><display-name>US Soccer 61</display-name><url>https://sky.com</url></channel>
+<channel id="USSOCCER62.us"><display-name>US Soccer 62</display-name><url>https://sky.com</url></channel>
+<channel id="USSOCCER63.us"><display-name>US Soccer 63</display-name><url>https://sky.com</url></channel>
+<channel id="USSOCCER64.us"><display-name>US Soccer 64</display-name><url>https://sky.com</url></channel>
+<channel id="USSOCCER65.us"><display-name>US Soccer 65</display-name><url>https://sky.com</url></channel>
+<channel id="USSOCCER66.us"><display-name>US Soccer 66</display-name><url>https://sky.com</url></channel>
+<channel id="USSOCCER67.us"><display-name>US Soccer 67</display-name><url>https://sky.com</url></channel>
+<channel id="USSOCCER68.us"><display-name>US Soccer 68</display-name><url>https://sky.com</url></channel>
+<channel id="USSOCCER69.us"><display-name>US Soccer 69</display-name><url>https://sky.com</url></channel>
+<channel id="USSOCCER70.us"><display-name>US Soccer 70</display-name><url>https://sky.com</url></channel>
+<channel id="USSOCCER71.us"><display-name>US Soccer 71</display-name><url>https://sky.com</url></channel>
+<channel id="USSOCCER72.us"><display-name>US Soccer 72</display-name><url>https://sky.com</url></channel>
+<channel id="USSOCCER73.us"><display-name>US Soccer 73</display-name><url>https://sky.com</url></channel>
+<channel id="USSOCCER74.us"><display-name>US Soccer 74</display-name><url>https://sky.com</url></channel>
+<channel id="USSOCCER75.us"><display-name>US Soccer 75</display-name><url>https://sky.com</url></channel>
+<channel id="USSOCCER76.us"><display-name>US Soccer 76</display-name><url>https://sky.com</url></channel>
+<channel id="USSOCCER77.us"><display-name>US Soccer 77</display-name><url>https://sky.com</url></channel>
+<channel id="USSOCCER78.us"><display-name>US Soccer 78</display-name><url>https://sky.com</url></channel>
+<channel id="USSOCCER79.us"><display-name>US Soccer 79</display-name><url>https://sky.com</url></channel>
+<channel id="USSOCCER80.us"><display-name>US Soccer 80</display-name><url>https://sky.com</url></channel>
+<channel id="USSOCCER81.us"><display-name>US Soccer 81</display-name><url>https://sky.com</url></channel>
+<channel id="USSOCCER82.us"><display-name>US Soccer 82</display-name><url>https://sky.com</url></channel>
+<channel id="USSOCCER83.us"><display-name>US Soccer 83</display-name><url>https://sky.com</url></channel>
+<channel id="USSOCCER84.us"><display-name>US Soccer 84</display-name><url>https://sky.com</url></channel>
+<channel id="USSOCCER85.us"><display-name>US Soccer 85</display-name><url>https://sky.com</url></channel>
+<channel id="USSOCCER86.us"><display-name>US Soccer 86</display-name><url>https://sky.com</url></channel>
+<channel id="USSOCCER87.us"><display-name>US Soccer 87</display-name><url>https://sky.com</url></channel>
+<channel id="USSOCCER88.us"><display-name>US Soccer 88</display-name><url>https://sky.com</url></channel>
+<channel id="USSOCCER89.us"><display-name>US Soccer 89</display-name><url>https://sky.com</url></channel>
+<channel id="USSOCCER90.us"><display-name>US Soccer 90</display-name><url>https://sky.com</url></channel>
+<channel id="USSOCCER91.us"><display-name>US Soccer 91</display-name><url>https://sky.com</url></channel>
+<channel id="USSOCCER92.us"><display-name>US Soccer 92</display-name><url>https://sky.com</url></channel>
+<channel id="USSOCCER93.us"><display-name>US Soccer 93</display-name><url>https://sky.com</url></channel>
+<channel id="USSOCCER94.us"><display-name>US Soccer 94</display-name><url>https://sky.com</url></channel>
+<channel id="USSOCCER95.us"><display-name>US Soccer 95</display-name><url>https://sky.com</url></channel>
+<channel id="USSOCCER96.us"><display-name>US Soccer 96</display-name><url>https://sky.com</url></channel>
+<channel id="USSOCCER97.us"><display-name>US Soccer 97</display-name><url>https://sky.com</url></channel>
+<channel id="USSOCCER98.us"><display-name>US Soccer 98</display-name><url>https://sky.com</url></channel>
+<channel id="USSOCCER99.us"><display-name>US Soccer 99</display-name><url>https://sky.com</url></channel>
+<channel id="USSOCCER100.us"><display-name>US Soccer 100</display-name><url>https://sky.com</url></channel>
+<channel id="USRUGBYPASS01.us"><display-name>US Rugby Pass 01</display-name><url>https://sky.com</url></channel>
+<channel id="USRUGBYPASS02.us"><display-name>US Rugby Pass 02</display-name><url>https://sky.com</url></channel>
+<channel id="USRUGBYPASS03.us"><display-name>US Rugby Pass 03</display-name><url>https://sky.com</url></channel>
+<channel id="USRUGBYPASS04.us"><display-name>US Rugby Pass 04</display-name><url>https://sky.com</url></channel>
+<channel id="USRUGBYPASS05.us"><display-name>US Rugby Pass 05</display-name><url>https://sky.com</url></channel>
+<channel id="USRUGBYPASS06.us"><display-name>US Rugby Pass 06</display-name><url>https://sky.com</url></channel>
+<channel id="USRUGBYPASS07.us"><display-name>US Rugby Pass 07</display-name><url>https://sky.com</url></channel>
+<channel id="USRUGBYPASS08.us"><display-name>US Rugby Pass 08</display-name><url>https://sky.com</url></channel>
+<channel id="USRUGBYPASS09.us"><display-name>US Rugby Pass 09</display-name><url>https://sky.com</url></channel>
+<channel id="USRUGBYPASS10.us"><display-name>US Rugby Pass 10</display-name><url>https://sky.com</url></channel>
+<channel id="USRUGBYPASS11.us"><display-name>US Rugby Pass 11</display-name><url>https://sky.com</url></channel>
+<channel id="USRUGBYPASS12.us"><display-name>US Rugby Pass 12</display-name><url>https://sky.com</url></channel>
+<channel id="USRUGBYPASS13.us"><display-name>US Rugby Pass 13</display-name><url>https://sky.com</url></channel>
+<channel id="USRUGBYPASS14.us"><display-name>US Rugby Pass 14</display-name><url>https://sky.com</url></channel>
+<channel id="USRUGBYPASS15.us"><display-name>US Rugby Pass 15</display-name><url>https://sky.com</url></channel>
+<channel id="USRUGBYPASS16.us"><display-name>US Rugby Pass 16</display-name><url>https://sky.com</url></channel>
+<channel id="USRUGBYPASS17.us"><display-name>US Rugby Pass 17</display-name><url>https://sky.com</url></channel>
+<channel id="USRUGBYPASS18.us"><display-name>US Rugby Pass 18</display-name><url>https://sky.com</url></channel>
+<channel id="USRUGBYPASS19.us"><display-name>US Rugby Pass 19</display-name><url>https://sky.com</url></channel>
+<channel id="USRUGBYPASS20.us"><display-name>US Rugby Pass 20</display-name><url>https://sky.com</url></channel>
+<channel id="USNFLGAME01.us"><display-name>US NFL Game 01</display-name><url>https://sky.com</url></channel>
+<channel id="USNFLGAME02.us"><display-name>US NFL Game 02</display-name><url>https://sky.com</url></channel>
+<channel id="USNFLGAME03.us"><display-name>US NFL Game 03</display-name><url>https://sky.com</url></channel>
+<channel id="USNFLGAME04.us"><display-name>US NFL Game 04</display-name><url>https://sky.com</url></channel>
+<channel id="USNFLGAME05.us"><display-name>US NFL Game 05</display-name><url>https://sky.com</url></channel>
+<channel id="USNFLGAME06.us"><display-name>US NFL Game 06</display-name><url>https://sky.com</url></channel>
+<channel id="USNFLGAME07.us"><display-name>US NFL Game 07</display-name><url>https://sky.com</url></channel>
+<channel id="USNFLGAME08.us"><display-name>US NFL Game 08</display-name><url>https://sky.com</url></channel>
+<channel id="USNFLGAME09.us"><display-name>US NFL Game 09</display-name><url>https://sky.com</url></channel>
+<channel id="USNFLGAME10.us"><display-name>US NFL Game 10</display-name><url>https://sky.com</url></channel>
+<channel id="USNFLGAME11.us"><display-name>US NFL Game 11</display-name><url>https://sky.com</url></channel>
+<channel id="USNFLGAME12.us"><display-name>US NFL Game 12</display-name><url>https://sky.com</url></channel>
+<channel id="USNFLGAME13.us"><display-name>US NFL Game 13</display-name><url>https://sky.com</url></channel>
+<channel id="USNFLGAME14.us"><display-name>US NFL Game 14</display-name><url>https://sky.com</url></channel>
+<channel id="USNFLGAME15.us"><display-name>US NFL Game 15</display-name><url>https://sky.com</url></channel>
+<channel id="IECLUBBER01.ie"><display-name>IE Clubber 01</display-name><url>https://sky.com</url></channel>
+<channel id="IECLUBBER02.ie"><display-name>IE Clubber 02</display-name><url>https://sky.com</url></channel>
+<channel id="IECLUBBER03.ie"><display-name>IE Clubber 03</display-name><url>https://sky.com</url></channel>
+<channel id="IECLUBBER04.ie"><display-name>IE Clubber 04</display-name><url>https://sky.com</url></channel>
+<channel id="IECLUBBER05.ie"><display-name>IE Clubber 05</display-name><url>https://sky.com</url></channel>
+<channel id="IECLUBBER06.ie"><display-name>IE Clubber 06</display-name><url>https://sky.com</url></channel>
+<channel id="IECLUBBER07.ie"><display-name>IE Clubber 07</display-name><url>https://sky.com</url></channel>
+<channel id="IECLUBBER08.ie"><display-name>IE Clubber 08</display-name><url>https://sky.com</url></channel>
+<channel id="IECLUBBER09.ie"><display-name>IE Clubber 09</display-name><url>https://sky.com</url></channel>
+<channel id="IECLUBBER10.ie"><display-name>IE Clubber 10</display-name><url>https://sky.com</url></channel>
+<channel id="IECLUBBER11.ie"><display-name>IE Clubber 11</display-name><url>https://sky.com</url></channel>
+<channel id="IECLUBBER12.ie"><display-name>IE Clubber 12</display-name><url>https://sky.com</url></channel>
+<channel id="IECLUBBER13.ie"><display-name>IE Clubber 13</display-name><url>https://sky.com</url></channel>
+<channel id="IECLUBBER14.ie"><display-name>IE Clubber 14</display-name><url>https://sky.com</url></channel>
+<channel id="IECLUBBER15.ie"><display-name>IE Clubber 15</display-name><url>https://sky.com</url></channel>
+<channel id="IECLUBBER16.ie"><display-name>IE Clubber 16</display-name><url>https://sky.com</url></channel>
+<channel id="IECLUBBER17.ie"><display-name>IE Clubber 17</display-name><url>https://sky.com</url></channel>
+<channel id="IECLUBBER18.ie"><display-name>IE Clubber 18</display-name><url>https://sky.com</url></channel>
+<channel id="IECLUBBER19.ie"><display-name>IE Clubber 19</display-name><url>https://sky.com</url></channel>
+<channel id="IECLUBBER20.ie"><display-name>IE Clubber 20</display-name><url>https://sky.com</url></channel>
+<channel id="IECLUBBER21.ie"><display-name>IE Clubber 21</display-name><url>https://sky.com</url></channel>
+<channel id="IECLUBBER22.ie"><display-name>IE Clubber 22</display-name><url>https://sky.com</url></channel>
+<channel id="IECLUBBER23.ie"><display-name>IE Clubber 23</display-name><url>https://sky.com</url></channel>
+<channel id="IECLUBBER24.ie"><display-name>IE Clubber 24</display-name><url>https://sky.com</url></channel>
+<channel id="IECLUBBER25.ie"><display-name>IE Clubber 25</display-name><url>https://sky.com</url></channel>
+<channel id="IECLUBBER26.ie"><display-name>IE Clubber 26</display-name><url>https://sky.com</url></channel>
+<channel id="IECLUBBER27.ie"><display-name>IE Clubber 27</display-name><url>https://sky.com</url></channel>
+<channel id="IECLUBBER28.ie"><display-name>IE Clubber 28</display-name><url>https://sky.com</url></channel>
+<channel id="IECLUBBER29.ie"><display-name>IE Clubber 29</display-name><url>https://sky.com</url></channel>
+<channel id="IECLUBBER30.ie"><display-name>IE Clubber 30</display-name><url>https://sky.com</url></channel>
+<channel id="IECLUBBER31.ie"><display-name>IE Clubber 31</display-name><url>https://sky.com</url></channel>
+<channel id="IECLUBBER32.ie"><display-name>IE Clubber 32</display-name><url>https://sky.com</url></channel>
+<channel id="IECLUBBER33.ie"><display-name>IE Clubber 33</display-name><url>https://sky.com</url></channel>
+<channel id="IECLUBBER34.ie"><display-name>IE Clubber 34</display-name><url>https://sky.com</url></channel>
+<channel id="IECLUBBER35.ie"><display-name>IE Clubber 35</display-name><url>https://sky.com</url></channel>
+<channel id="IECLUBBER36.ie"><display-name>IE Clubber 36</display-name><url>https://sky.com</url></channel>
+<channel id="IECLUBBER37.ie"><display-name>IE Clubber 37</display-name><url>https://sky.com</url></channel>
+<channel id="IECLUBBER38.ie"><display-name>IE Clubber 38</display-name><url>https://sky.com</url></channel>
+<channel id="IECLUBBER39.ie"><display-name>IE Clubber 39</display-name><url>https://sky.com</url></channel>
+<channel id="IECLUBBER40.ie"><display-name>IE Clubber 40</display-name><url>https://sky.com</url></channel>
+<channel id="IECLUBBER41.ie"><display-name>IE Clubber 41</display-name><url>https://sky.com</url></channel>
+<channel id="IECLUBBER42.ie"><display-name>IE Clubber 42</display-name><url>https://sky.com</url></channel>
+<channel id="IECLUBBER43.ie"><display-name>IE Clubber 43</display-name><url>https://sky.com</url></channel>
+<channel id="IECLUBBER44.ie"><display-name>IE Clubber 44</display-name><url>https://sky.com</url></channel>
+<channel id="USNHL04.us"><display-name>US NHL 04</display-name><url>https://sky.com</url></channel>
+<channel id="USNHL05.us"><display-name>US NHL 05</display-name><url>https://sky.com</url></channel>
+<channel id="USNHL06.us"><display-name>US NHL 06</display-name><url>https://sky.com</url></channel>
+<channel id="USNHL07.us"><display-name>US NHL 07</display-name><url>https://sky.com</url></channel>
+<channel id="USNHL08.us"><display-name>US NHL 08</display-name><url>https://sky.com</url></channel>
+<channel id="USNHL09.us"><display-name>US NHL 09</display-name><url>https://sky.com</url></channel>
+<channel id="USNHL10.us"><display-name>US NHL 10</display-name><url>https://sky.com</url></channel>
+<channel id="USNHL11.us"><display-name>US NHL 11</display-name><url>https://sky.com</url></channel>
+<channel id="USNHL12.us"><display-name>US NHL 12</display-name><url>https://sky.com</url></channel>
+<channel id="USNHL13.us"><display-name>US NHL 13</display-name><url>https://sky.com</url></channel>
+<channel id="USNHL14.us"><display-name>US NHL 14</display-name><url>https://sky.com</url></channel>
+<channel id="USNHL15.us"><display-name>US NHL 15</display-name><url>https://sky.com</url></channel>
+<programme start="20261019000000 +0000" stop="20261019200000 +0000" channel="UKEPL01.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019200000 +0000" stop="20261019230000 +0000" channel="UKEPL01.uk"><title lang="en">EPL01: 20:00  Tottenh</title><desc lang="en">EPL01: 20:00  Tottenham Hotspur vs. Coventry City FC</desc></programme>
+<programme start="20261019230000 +0000" stop="20261024235959 +0000" channel="UKEPL01.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261019180000 +0000" channel="USEVENTS02.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019180000 +0000" stop="20261019210000 +0000" channel="USEVENTS02.us"><title lang="en">Event 02: Basketball </title><desc lang="en">Event 02: Basketball | Poland. PLK | Energa Czarni Slupsk vs. Stal Ostrow Wielkopolski | Monday. 19 October 2026 18:00</desc></programme>
+<programme start="20261019210000 +0000" stop="20261024235959 +0000" channel="USEVENTS02.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261019180000 +0000" channel="USEVENTS03.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019180000 +0000" stop="20261019210000 +0000" channel="USEVENTS03.us"><title lang="en">Event 03: Handball | </title><desc lang="en">Event 03: Handball | Germany. Bundesliga | HBW Balingen-Weilstetten vs. TSV Hannover-Burgdorf | Monday. 19 October 2026 18:00</desc></programme>
+<programme start="20261019210000 +0000" stop="20261024235959 +0000" channel="USEVENTS03.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261019163000 +0000" channel="USEVENTS04.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019163000 +0000" stop="20261019193000 +0000" channel="USEVENTS04.us"><title lang="en">Event 04: Volleyball </title><desc lang="en">Event 04: Volleyball | Poland. Liga Siatkowki | Chks Chelm vs. Cuprum Lubin SA | Monday. 19 October 2026 16:30</desc></programme>
+<programme start="20261019193000 +0000" stop="20261024235959 +0000" channel="USEVENTS04.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261019193000 +0000" channel="USEVENTS05.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019193000 +0000" stop="20261019223000 +0000" channel="USEVENTS05.us"><title lang="en">Event 05: Volleyball </title><desc lang="en">Event 05: Volleyball | Poland. Liga Siatkowki. Women | MKS Sokol Mogilno vs. Bks Bielsko-Biala | Monday. 19 October 2026 19:30</desc></programme>
+<programme start="20261019223000 +0000" stop="20261024235959 +0000" channel="USEVENTS05.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261019150000 +0000" channel="USSOCCER01.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019150000 +0000" stop="20261020030000 +0000" channel="USSOCCER01.us"><title lang="en">SOCCER 01: Turkiye. 1</title><desc lang="en">SOCCER 01: Turkiye. 1. Lig | Fatih Karagumruk Istanbul vs. Ankara Keciorengucu | Monday. 19 October 2026 15:00</desc></programme>
+<programme start="20261020030000 +0000" stop="20261024235959 +0000" channel="USSOCCER01.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261019150000 +0000" channel="USSOCCER02.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019150000 +0000" stop="20261020030000 +0000" channel="USSOCCER02.us"><title lang="en">SOCCER 02: Turkiye. 1</title><desc lang="en">SOCCER 02: Turkiye. 1. Lig | Manisa BBSK vs. Mugla | Monday. 19 October 2026 15:00</desc></programme>
+<programme start="20261020030000 +0000" stop="20261024235959 +0000" channel="USSOCCER02.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261019160000 +0000" channel="USSOCCER03.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019160000 +0000" stop="20261020040000 +0000" channel="USSOCCER03.us"><title lang="en">SOCCER 03: Cyprus. Fi</title><desc lang="en">SOCCER 03: Cyprus. First Division | Pafos FC vs. APOEL Nicosia | Monday. 19 October 2026 16:00</desc></programme>
+<programme start="20261020040000 +0000" stop="20261024235959 +0000" channel="USSOCCER03.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261019160000 +0000" channel="USSOCCER04.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019160000 +0000" stop="20261019200000 +0000" channel="USSOCCER04.us"><title lang="en">SOCCER 04: Romania. L</title><desc lang="en">SOCCER 04: Romania. Liga I | Universitatea Cluj-Napoca vs. SCM Arges Pitesti | Monday. 19 October 2026 16:00</desc></programme>
+<programme start="20261019200000 +0000" stop="20261024235959 +0000" channel="USSOCCER04.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261019160500 +0000" channel="USSOCCER05.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019160500 +0000" stop="20261019200500 +0000" channel="USSOCCER05.us"><title lang="en">SOCCER 05: Saudi Arab</title><desc lang="en">SOCCER 05: Saudi Arabia. Saudi Professional League | Al Fayha FC vs. Al Ahli Jeddah | Monday. 19 October 2026 16:05</desc></programme>
+<programme start="20261019200500 +0000" stop="20261024235959 +0000" channel="USSOCCER05.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261019170000 +0000" channel="USSOCCER06.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019170000 +0000" stop="20261019210000 +0000" channel="USSOCCER06.us"><title lang="en">SOCCER 06: Bulgaria. </title><desc lang="en">SOCCER 06: Bulgaria. Bulgarian Cup | SFC Etar Veliko Tarnovo vs. FK Spartak 1918 Varna | Monday. 19 October 2026 17:00</desc></programme>
+<programme start="20261019210000 +0000" stop="20261024235959 +0000" channel="USSOCCER06.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261019170000 +0000" channel="USSOCCER07.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019170000 +0000" stop="20261019210000 +0000" channel="USSOCCER07.us"><title lang="en">SOCCER 07: Germany. B</title><desc lang="en">SOCCER 07: Germany. Bundesliga. Women | Bayern Munich vs. VfB Stuttgart | Monday. 19 October 2026 17:00</desc></programme>
+<programme start="20261019210000 +0000" stop="20261024235959 +0000" channel="USSOCCER07.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261019170000 +0000" channel="USSOCCER08.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019170000 +0000" stop="20261019210000 +0000" channel="USSOCCER08.us"><title lang="en">SOCCER 08: Poland. I </title><desc lang="en">SOCCER 08: Poland. I liga | Bruk-Bet Termalica Nieciecza vs. Puszcza Niepolomice | Monday. 19 October 2026 17:00</desc></programme>
+<programme start="20261019210000 +0000" stop="20261024235959 +0000" channel="USSOCCER08.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261019173000 +0000" channel="USSOCCER09.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019173000 +0000" stop="20261019203000 +0000" channel="USSOCCER09.us"><title lang="en">SOCCER 09: Russia. Pr</title><desc lang="en">SOCCER 09: Russia. Premier League | FK Rodina Moscow vs. FC Orenburg | Monday. 19 October 2026 17:30</desc></programme>
+<programme start="20261019203000 +0000" stop="20261024235959 +0000" channel="USSOCCER09.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261019180000 +0000" channel="USSOCCER10.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019180000 +0000" stop="20261019210000 +0000" channel="USSOCCER10.us"><title lang="en">SOCCER 10: Denmark. S</title><desc lang="en">SOCCER 10: Denmark. Superligaen | Viborg FF vs. FC Midtjylland | Monday. 19 October 2026 18:00</desc></programme>
+<programme start="20261019210000 +0000" stop="20261024235959 +0000" channel="USSOCCER10.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261019180000 +0000" channel="USSOCCER11.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019180000 +0000" stop="20261019210000 +0000" channel="USSOCCER11.us"><title lang="en">SOCCER 11: Poland. Ek</title><desc lang="en">SOCCER 11: Poland. Ekstraklasa | Wisla Plock vs. RKS Radomiak Radom | Monday. 19 October 2026 18:00</desc></programme>
+<programme start="20261019210000 +0000" stop="20261024235959 +0000" channel="USSOCCER11.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261019180000 +0000" channel="USSOCCER12.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019180000 +0000" stop="20261019210000 +0000" channel="USSOCCER12.us"><title lang="en">SOCCER 12: Sweden. Al</title><desc lang="en">SOCCER 12: Sweden. Allsvenskan | Degerfors IF vs. Kalmar FF | Monday. 19 October 2026 18:00</desc></programme>
+<programme start="20261019210000 +0000" stop="20261024235959 +0000" channel="USSOCCER12.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261019180000 +0000" channel="USSOCCER13.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019180000 +0000" stop="20261019210000 +0000" channel="USSOCCER13.us"><title lang="en">SOCCER 13: Turkiye. 1</title><desc lang="en">SOCCER 13: Turkiye. 1. Lig | Bursaspor vs. Pendikspor | Monday. 19 October 2026 18:00</desc></programme>
+<programme start="20261019210000 +0000" stop="20261024235959 +0000" channel="USSOCCER13.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261019180000 +0000" channel="USSOCCER14.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019180000 +0000" stop="20261019210000 +0000" channel="USSOCCER14.us"><title lang="en">SOCCER 14: Turkiye. 1</title><desc lang="en">SOCCER 14: Turkiye. 1. Lig | Esenler Erokspor vs. Mardin 1969 | Monday. 19 October 2026 18:00</desc></programme>
+<programme start="20261019210000 +0000" stop="20261024235959 +0000" channel="USSOCCER14.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261019180000 +0000" channel="USSOCCER15.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019180000 +0000" stop="20261019210000 +0000" channel="USSOCCER15.us"><title lang="en">SOCCER 15: Turkiye. S</title><desc lang="en">SOCCER 15: Turkiye. Super Lig | Trabzonspor vs. Besiktas Istanbul | Monday. 19 October 2026 18:00</desc></programme>
+<programme start="20261019210000 +0000" stop="20261024235959 +0000" channel="USSOCCER15.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261019190000 +0000" channel="USSOCCER16.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019190000 +0000" stop="20261019220000 +0000" channel="USSOCCER16.us"><title lang="en">SOCCER 16: Saudi Arab</title><desc lang="en">SOCCER 16: Saudi Arabia. Saudi Professional League | Al Hilal Rijad vs. Al Hazm | Monday. 19 October 2026 19:00</desc></programme>
+<programme start="20261019220000 +0000" stop="20261024235959 +0000" channel="USSOCCER16.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261019190000 +0000" channel="USSOCCER17.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019190000 +0000" stop="20261019220000 +0000" channel="USSOCCER17.us"><title lang="en">SOCCER 17: Romania. L</title><desc lang="en">SOCCER 17: Romania. Liga I | CS Voluntari vs. Fotbal Club FCSB | Monday. 19 October 2026 19:00</desc></programme>
+<programme start="20261019220000 +0000" stop="20261024235959 +0000" channel="USSOCCER17.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261019190000 +0000" channel="USSOCCER18.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019190000 +0000" stop="20261019220000 +0000" channel="USSOCCER18.us"><title lang="en">SOCCER 18: Netherland</title><desc lang="en">SOCCER 18: Netherlands. Eerste Divisie | Jong Ajax Amsterdam vs. De Graafschap | Monday. 19 October 2026 19:00</desc></programme>
+<programme start="20261019220000 +0000" stop="20261024235959 +0000" channel="USSOCCER18.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261019190000 +0000" channel="USSOCCER19.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019190000 +0000" stop="20261019220000 +0000" channel="USSOCCER19.us"><title lang="en">SOCCER 19: Netherland</title><desc lang="en">SOCCER 19: Netherlands. Eerste Divisie | Jong PSV Eindhoven vs. FC Dordrecht | Monday. 19 October 2026 19:00</desc></programme>
+<programme start="20261019220000 +0000" stop="20261024235959 +0000" channel="USSOCCER19.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261019190000 +0000" channel="USSOCCER20.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019190000 +0000" stop="20261019220000 +0000" channel="USSOCCER20.us"><title lang="en">SOCCER 20: Netherland</title><desc lang="en">SOCCER 20: Netherlands. Eerste Divisie | Jong FC Utrecht vs. Roda JC Kerkrade | Monday. 19 October 2026 19:00</desc></programme>
+<programme start="20261019220000 +0000" stop="20261024235959 +0000" channel="USSOCCER20.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261019193000 +0000" channel="USSOCCER21.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019193000 +0000" stop="20261019223000 +0000" channel="USSOCCER21.us"><title lang="en">SOCCER 21: Spain. LaL</title><desc lang="en">SOCCER 21: Spain. LaLiga 2 | RC Celta de Vigo B vs. Tenerife CD | Monday. 19 October 2026 19:30</desc></programme>
+<programme start="20261019223000 +0000" stop="20261024235959 +0000" channel="USSOCCER21.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261019194500 +0000" channel="USSOCCER22.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019194500 +0000" stop="20261019224500 +0000" channel="USSOCCER22.us"><title lang="en">SOCCER 22: France. Li</title><desc lang="en">SOCCER 22: France. Ligue 2 | Rodez Aveyron vs. Montpellier HSC | Monday. 19 October 2026 19:45</desc></programme>
+<programme start="20261019224500 +0000" stop="20261024235959 +0000" channel="USSOCCER22.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261019201500 +0000" channel="USSOCCER23.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019201500 +0000" stop="20261019231500 +0000" channel="USSOCCER23.us"><title lang="en">SOCCER 23: Portugal. </title><desc lang="en">SOCCER 23: Portugal. Primeira Liga | SC Braga vs. Gil Vicente Barcelos | Monday. 19 October 2026 20:15</desc></programme>
+<programme start="20261019231500 +0000" stop="20261024235959 +0000" channel="USSOCCER23.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261020000000 +0000" channel="USNHL00.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261020000000 +0000" stop="20261020030000 +0000" channel="USNHL00.us"><title lang="en">NHL 00: Anaheim Ducks</title><desc lang="en">NHL 00: Anaheim Ducks at New York Rangers | Mon 19th Oct 7:00PM ET</desc></programme>
+<programme start="20261020030000 +0000" stop="20261024235959 +0000" channel="USNHL00.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261020000000 +0000" channel="USNHL01.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261020000000 +0000" stop="20261020030000 +0000" channel="USNHL01.us"><title lang="en">NHL 01: Colorado Aval</title><desc lang="en">NHL 01: Colorado Avalanche at Philadelphia Flyers | Mon 19th Oct 7:00PM ET</desc></programme>
+<programme start="20261020030000 +0000" stop="20261024235959 +0000" channel="USNHL01.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261020003000 +0000" channel="USNHL02.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261020003000 +0000" stop="20261020033000 +0000" channel="USNHL02.us"><title lang="en">NHL 02: San Jose Shar</title><desc lang="en">NHL 02: San Jose Sharks at Toronto Maple Leafs | Mon 19th Oct 7:30PM ET</desc></programme>
+<programme start="20261020033000 +0000" stop="20261024235959 +0000" channel="USNHL02.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261020020000 +0000" channel="USNHL03.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261020020000 +0000" stop="20261020050000 +0000" channel="USNHL03.us"><title lang="en">NHL 03: Pittsburgh Pe</title><desc lang="en">NHL 03: Pittsburgh Penguins at Utah Mammoth | Mon 19th Oct 9:00PM ET</desc></programme>
+<programme start="20261020050000 +0000" stop="20261024235959 +0000" channel="USNHL03.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="UKEPL02.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="UKEPL03.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="UKEPL04.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="UKEPL05.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="UKEPL06.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="UKEPL07.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="UKEPL08.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="UKEPL09.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="UKEPL10.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="UKEPL11.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="UKEPL12.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="UKSPFL01.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="UKSPFL02.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="UKSPFL03.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="UKSPFL04.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="UKSPFL05.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="UKSPFL06.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="UKSPFL07.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USEVENTS01.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USEVENTS06.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USEVENTS07.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USEVENTS08.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USEVENTS09.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USEVENTS10.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USEVENTS11.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USEVENTS12.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USEVENTS13.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USEVENTS14.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USEVENTS15.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USEVENTS16.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USEVENTS17.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USEVENTS18.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USEVENTS19.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USEVENTS20.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USEVENTS21.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USEVENTS22.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USEVENTS23.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USEVENTS24.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USEVENTS25.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USEVENTS26.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USEVENTS27.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USEVENTS28.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USEVENTS29.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USEVENTS30.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USEVENTS31.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USEVENTS32.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USEVENTS33.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USEVENTS34.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USEVENTS35.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USEVENTS36.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USEVENTS37.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USEVENTS38.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USEVENTS39.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USEVENTS40.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USEVENTS41.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USEVENTS42.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USEVENTS43.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USEVENTS44.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USEVENTS45.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USEVENTS46.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USEVENTS47.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USEVENTS48.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USEVENTS49.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USEVENTS50.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USEVENTS51.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USEVENTS52.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USEVENTS53.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USEVENTS54.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USEVENTS55.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USEVENTS56.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USEVENTS57.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USEVENTS58.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USEVENTS59.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USEVENTS60.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USEVENTS61.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USEVENTS62.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USEVENTS63.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USEVENTS64.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USEVENTS65.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USEVENTS66.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USEVENTS67.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USEVENTS68.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USEVENTS69.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USEVENTS70.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USEVENTS71.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USEVENTS72.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USEVENTS73.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USEVENTS74.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USEVENTS75.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USEVENTS76.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USEVENTS77.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USEVENTS78.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USEVENTS79.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USEVENTS80.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USEVENTS81.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USEVENTS82.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USEVENTS83.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USEVENTS84.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USEVENTS85.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USEVENTS86.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USEVENTS87.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USEVENTS88.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USEVENTS89.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USEVENTS90.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USEVENTS91.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USEVENTS92.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USEVENTS93.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USEVENTS94.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USEVENTS95.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USEVENTS96.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USEVENTS97.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USEVENTS98.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USEVENTS99.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USSOCCER24.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USSOCCER25.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USSOCCER26.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USSOCCER27.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USSOCCER28.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USSOCCER29.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USSOCCER30.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USSOCCER31.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USSOCCER32.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USSOCCER33.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USSOCCER34.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USSOCCER35.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USSOCCER36.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USSOCCER37.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USSOCCER38.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USSOCCER39.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USSOCCER40.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USSOCCER41.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USSOCCER42.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USSOCCER43.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USSOCCER44.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USSOCCER45.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USSOCCER46.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USSOCCER47.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USSOCCER48.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USSOCCER49.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USSOCCER50.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USSOCCER51.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USSOCCER52.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USSOCCER53.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USSOCCER54.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USSOCCER55.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USSOCCER56.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USSOCCER57.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USSOCCER58.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USSOCCER59.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USSOCCER60.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USSOCCER61.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USSOCCER62.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USSOCCER63.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USSOCCER64.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USSOCCER65.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USSOCCER66.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USSOCCER67.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USSOCCER68.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USSOCCER69.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USSOCCER70.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USSOCCER71.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USSOCCER72.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USSOCCER73.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USSOCCER74.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USSOCCER75.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USSOCCER76.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USSOCCER77.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USSOCCER78.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USSOCCER79.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USSOCCER80.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USSOCCER81.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USSOCCER82.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USSOCCER83.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USSOCCER84.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USSOCCER85.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USSOCCER86.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USSOCCER87.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USSOCCER88.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USSOCCER89.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USSOCCER90.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USSOCCER91.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USSOCCER92.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USSOCCER93.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USSOCCER94.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USSOCCER95.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USSOCCER96.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USSOCCER97.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USSOCCER98.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USSOCCER99.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USSOCCER100.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USRUGBYPASS01.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USRUGBYPASS02.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USRUGBYPASS03.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USRUGBYPASS04.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USRUGBYPASS05.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USRUGBYPASS06.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USRUGBYPASS07.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USRUGBYPASS08.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USRUGBYPASS09.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USRUGBYPASS10.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USRUGBYPASS11.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USRUGBYPASS12.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USRUGBYPASS13.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USRUGBYPASS14.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USRUGBYPASS15.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USRUGBYPASS16.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USRUGBYPASS17.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USRUGBYPASS18.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USRUGBYPASS19.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USRUGBYPASS20.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USNFLGAME01.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USNFLGAME02.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USNFLGAME03.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USNFLGAME04.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USNFLGAME05.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USNFLGAME06.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USNFLGAME07.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USNFLGAME08.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USNFLGAME09.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USNFLGAME10.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USNFLGAME11.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USNFLGAME12.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USNFLGAME13.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USNFLGAME14.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USNFLGAME15.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="IECLUBBER01.ie"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="IECLUBBER02.ie"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="IECLUBBER03.ie"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="IECLUBBER04.ie"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="IECLUBBER05.ie"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="IECLUBBER06.ie"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="IECLUBBER07.ie"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="IECLUBBER08.ie"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="IECLUBBER09.ie"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="IECLUBBER10.ie"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="IECLUBBER11.ie"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="IECLUBBER12.ie"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="IECLUBBER13.ie"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="IECLUBBER14.ie"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="IECLUBBER15.ie"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="IECLUBBER16.ie"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="IECLUBBER17.ie"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="IECLUBBER18.ie"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="IECLUBBER19.ie"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="IECLUBBER20.ie"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="IECLUBBER21.ie"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="IECLUBBER22.ie"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="IECLUBBER23.ie"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="IECLUBBER24.ie"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="IECLUBBER25.ie"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="IECLUBBER26.ie"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="IECLUBBER27.ie"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="IECLUBBER28.ie"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="IECLUBBER29.ie"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="IECLUBBER30.ie"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="IECLUBBER31.ie"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="IECLUBBER32.ie"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="IECLUBBER33.ie"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="IECLUBBER34.ie"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="IECLUBBER35.ie"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="IECLUBBER36.ie"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="IECLUBBER37.ie"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="IECLUBBER38.ie"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="IECLUBBER39.ie"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="IECLUBBER40.ie"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="IECLUBBER41.ie"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="IECLUBBER42.ie"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="IECLUBBER43.ie"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="IECLUBBER44.ie"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USNHL04.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USNHL05.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USNHL06.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USNHL07.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USNHL08.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USNHL09.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USNHL10.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USNHL11.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USNHL12.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USNHL13.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USNHL14.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261019000000 +0000" stop="20261024235959 +0000" channel="USNHL15.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+</tv>
