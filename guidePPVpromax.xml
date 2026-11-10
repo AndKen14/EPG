@@ -1,17 +1,38 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20250903">
-<channel id="USNFLGAME14.us"><display-name>US NFL Game 14</display-name><url>https://sky.com</url></channel>
+<channel id="USEVENTS02.us"><display-name>US Events 02</display-name><url>https://sky.com</url></channel>
+<channel id="USEVENTS03.us"><display-name>US Events 03</display-name><url>https://sky.com</url></channel>
+<channel id="USEVENTS04.us"><display-name>US Events 04</display-name><url>https://sky.com</url></channel>
+<channel id="USEVENTS05.us"><display-name>US Events 05</display-name><url>https://sky.com</url></channel>
+<channel id="USEVENTS06.us"><display-name>US Events 06</display-name><url>https://sky.com</url></channel>
+<channel id="USEVENTS07.us"><display-name>US Events 07</display-name><url>https://sky.com</url></channel>
+<channel id="USEVENTS08.us"><display-name>US Events 08</display-name><url>https://sky.com</url></channel>
+<channel id="USEVENTS09.us"><display-name>US Events 09</display-name><url>https://sky.com</url></channel>
+<channel id="USSOCCER01.us"><display-name>US Soccer 01</display-name><url>https://sky.com</url></channel>
+<channel id="USSOCCER02.us"><display-name>US Soccer 02</display-name><url>https://sky.com</url></channel>
+<channel id="USSOCCER03.us"><display-name>US Soccer 03</display-name><url>https://sky.com</url></channel>
+<channel id="USSOCCER04.us"><display-name>US Soccer 04</display-name><url>https://sky.com</url></channel>
 <channel id="USNHL00.us"><display-name>US NHL 00</display-name><url>https://sky.com</url></channel>
 <channel id="USNHL01.us"><display-name>US NHL 01</display-name><url>https://sky.com</url></channel>
 <channel id="USNHL02.us"><display-name>US NHL 02</display-name><url>https://sky.com</url></channel>
+<channel id="USNHL03.us"><display-name>US NHL 03</display-name><url>https://sky.com</url></channel>
+<channel id="USNHL04.us"><display-name>US NHL 04</display-name><url>https://sky.com</url></channel>
+<channel id="USNHL05.us"><display-name>US NHL 05</display-name><url>https://sky.com</url></channel>
+<channel id="USNHL06.us"><display-name>US NHL 06</display-name><url>https://sky.com</url></channel>
+<channel id="UKSkySports+02.uk"><display-name>UK SKY SPORTS+ 02</display-name><url>https://sky.com</url></channel>
+<channel id="UKSkySports+19.uk"><display-name>UK SKY SPORTS+ 19</display-name><url>https://sky.com</url></channel>
+<channel id="UKSkySports+20.uk"><display-name>UK SKY SPORTS+ 20</display-name><url>https://sky.com</url></channel>
+<channel id="UKSkySports+21.uk"><display-name>UK SKY SPORTS+ 21</display-name><url>https://sky.com</url></channel>
+<channel id="UKSkySports+22.uk"><display-name>UK SKY SPORTS+ 22</display-name><url>https://sky.com</url></channel>
+<channel id="UKSkySports+23.uk"><display-name>UK SKY SPORTS+ 23</display-name><url>https://sky.com</url></channel>
+<channel id="UKSkySports+24.uk"><display-name>UK SKY SPORTS+ 24</display-name><url>https://sky.com</url></channel>
+<channel id="UKSkySports+25.uk"><display-name>UK SKY SPORTS+ 25</display-name><url>https://sky.com</url></channel>
+<channel id="UKSkySports+26.uk"><display-name>UK SKY SPORTS+ 26</display-name><url>https://sky.com</url></channel>
 <channel id="USNBA01.us"><display-name>US NBA 01</display-name><url>https://sky.com</url></channel>
 <channel id="USNBA02.us"><display-name>US NBA 02</display-name><url>https://sky.com</url></channel>
 <channel id="USNBA03.us"><display-name>US NBA 03</display-name><url>https://sky.com</url></channel>
 <channel id="USNBA04.us"><display-name>US NBA 04</display-name><url>https://sky.com</url></channel>
 <channel id="USNBA05.us"><display-name>US NBA 05</display-name><url>https://sky.com</url></channel>
 <channel id="USNBA06.us"><display-name>US NBA 06</display-name><url>https://sky.com</url></channel>
-<channel id="USNBA07.us"><display-name>US NBA 07</display-name><url>https://sky.com</url></channel>
-<channel id="USNBA08.us"><display-name>US NBA 08</display-name><url>https://sky.com</url></channel>
-<channel id="USPPV01.us"><display-name>US PPV 01</display-name><url>https://sky.com</url></channel>
 <channel id="UKEPL01.uk"><display-name>UK EPL 01</display-name><url>https://sky.com</url></channel>
 <channel id="UKEPL02.uk"><display-name>UK EPL 02</display-name><url>https://sky.com</url></channel>
 <channel id="UKEPL03.uk"><display-name>UK EPL 03</display-name><url>https://sky.com</url></channel>
@@ -32,14 +53,6 @@
 <channel id="UKSPFL06.uk"><display-name>UK SPFL 06</display-name><url>https://sky.com</url></channel>
 <channel id="UKSPFL07.uk"><display-name>UK SPFL 07</display-name><url>https://sky.com</url></channel>
 <channel id="USEVENTS01.us"><display-name>US Events 01</display-name><url>https://sky.com</url></channel>
-<channel id="USEVENTS02.us"><display-name>US Events 02</display-name><url>https://sky.com</url></channel>
-<channel id="USEVENTS03.us"><display-name>US Events 03</display-name><url>https://sky.com</url></channel>
-<channel id="USEVENTS04.us"><display-name>US Events 04</display-name><url>https://sky.com</url></channel>
-<channel id="USEVENTS05.us"><display-name>US Events 05</display-name><url>https://sky.com</url></channel>
-<channel id="USEVENTS06.us"><display-name>US Events 06</display-name><url>https://sky.com</url></channel>
-<channel id="USEVENTS07.us"><display-name>US Events 07</display-name><url>https://sky.com</url></channel>
-<channel id="USEVENTS08.us"><display-name>US Events 08</display-name><url>https://sky.com</url></channel>
-<channel id="USEVENTS09.us"><display-name>US Events 09</display-name><url>https://sky.com</url></channel>
 <channel id="USEVENTS10.us"><display-name>US Events 10</display-name><url>https://sky.com</url></channel>
 <channel id="USEVENTS11.us"><display-name>US Events 11</display-name><url>https://sky.com</url></channel>
 <channel id="USEVENTS12.us"><display-name>US Events 12</display-name><url>https://sky.com</url></channel>
@@ -130,10 +143,6 @@
 <channel id="USEVENTS97.us"><display-name>US Events 97</display-name><url>https://sky.com</url></channel>
 <channel id="USEVENTS98.us"><display-name>US Events 98</display-name><url>https://sky.com</url></channel>
 <channel id="USEVENTS99.us"><display-name>US Events 99</display-name><url>https://sky.com</url></channel>
-<channel id="USSOCCER01.us"><display-name>US Soccer 01</display-name><url>https://sky.com</url></channel>
-<channel id="USSOCCER02.us"><display-name>US Soccer 02</display-name><url>https://sky.com</url></channel>
-<channel id="USSOCCER03.us"><display-name>US Soccer 03</display-name><url>https://sky.com</url></channel>
-<channel id="USSOCCER04.us"><display-name>US Soccer 04</display-name><url>https://sky.com</url></channel>
 <channel id="USSOCCER05.us"><display-name>US Soccer 05</display-name><url>https://sky.com</url></channel>
 <channel id="USSOCCER06.us"><display-name>US Soccer 06</display-name><url>https://sky.com</url></channel>
 <channel id="USSOCCER07.us"><display-name>US Soccer 07</display-name><url>https://sky.com</url></channel>
@@ -263,6 +272,7 @@
 <channel id="USNFLGAME11.us"><display-name>US NFL Game 11</display-name><url>https://sky.com</url></channel>
 <channel id="USNFLGAME12.us"><display-name>US NFL Game 12</display-name><url>https://sky.com</url></channel>
 <channel id="USNFLGAME13.us"><display-name>US NFL Game 13</display-name><url>https://sky.com</url></channel>
+<channel id="USNFLGAME14.us"><display-name>US NFL Game 14</display-name><url>https://sky.com</url></channel>
 <channel id="USNFLGAME15.us"><display-name>US NFL Game 15</display-name><url>https://sky.com</url></channel>
 <channel id="IECLUBBER00.ie"><display-name>IE Clubber 00</display-name><url>https://sky.com</url></channel>
 <channel id="IECLUBBER01.ie"><display-name>IE Clubber 01</display-name><url>https://sky.com</url></channel>
@@ -309,10 +319,6 @@
 <channel id="IECLUBBER42.ie"><display-name>IE Clubber 42</display-name><url>https://sky.com</url></channel>
 <channel id="IECLUBBER43.ie"><display-name>IE Clubber 43</display-name><url>https://sky.com</url></channel>
 <channel id="IECLUBBER44.ie"><display-name>IE Clubber 44</display-name><url>https://sky.com</url></channel>
-<channel id="USNHL03.us"><display-name>US NHL 03</display-name><url>https://sky.com</url></channel>
-<channel id="USNHL04.us"><display-name>US NHL 04</display-name><url>https://sky.com</url></channel>
-<channel id="USNHL05.us"><display-name>US NHL 05</display-name><url>https://sky.com</url></channel>
-<channel id="USNHL06.us"><display-name>US NHL 06</display-name><url>https://sky.com</url></channel>
 <channel id="USNHL07.us"><display-name>US NHL 07</display-name><url>https://sky.com</url></channel>
 <channel id="USNHL08.us"><display-name>US NHL 08</display-name><url>https://sky.com</url></channel>
 <channel id="USNHL09.us"><display-name>US NHL 09</display-name><url>https://sky.com</url></channel>
@@ -323,7 +329,6 @@
 <channel id="USNHL14.us"><display-name>US NHL 14</display-name><url>https://sky.com</url></channel>
 <channel id="USNHL15.us"><display-name>US NHL 15</display-name><url>https://sky.com</url></channel>
 <channel id="UKSkySports+01.uk"><display-name>UK SKY SPORTS+ 01</display-name><url>https://sky.com</url></channel>
-<channel id="UKSkySports+02.uk"><display-name>UK SKY SPORTS+ 02</display-name><url>https://sky.com</url></channel>
 <channel id="UKSkySports+03.uk"><display-name>UK SKY SPORTS+ 03</display-name><url>https://sky.com</url></channel>
 <channel id="UKSkySports+04.uk"><display-name>UK SKY SPORTS+ 04</display-name><url>https://sky.com</url></channel>
 <channel id="UKSkySports+05.uk"><display-name>UK SKY SPORTS+ 05</display-name><url>https://sky.com</url></channel>
@@ -340,14 +345,6 @@
 <channel id="UKSkySports+16.uk"><display-name>UK SKY SPORTS+ 16</display-name><url>https://sky.com</url></channel>
 <channel id="UKSkySports+17.uk"><display-name>UK SKY SPORTS+ 17</display-name><url>https://sky.com</url></channel>
 <channel id="UKSkySports+18.uk"><display-name>UK SKY SPORTS+ 18</display-name><url>https://sky.com</url></channel>
-<channel id="UKSkySports+19.uk"><display-name>UK SKY SPORTS+ 19</display-name><url>https://sky.com</url></channel>
-<channel id="UKSkySports+20.uk"><display-name>UK SKY SPORTS+ 20</display-name><url>https://sky.com</url></channel>
-<channel id="UKSkySports+21.uk"><display-name>UK SKY SPORTS+ 21</display-name><url>https://sky.com</url></channel>
-<channel id="UKSkySports+22.uk"><display-name>UK SKY SPORTS+ 22</display-name><url>https://sky.com</url></channel>
-<channel id="UKSkySports+23.uk"><display-name>UK SKY SPORTS+ 23</display-name><url>https://sky.com</url></channel>
-<channel id="UKSkySports+24.uk"><display-name>UK SKY SPORTS+ 24</display-name><url>https://sky.com</url></channel>
-<channel id="UKSkySports+25.uk"><display-name>UK SKY SPORTS+ 25</display-name><url>https://sky.com</url></channel>
-<channel id="UKSkySports+26.uk"><display-name>UK SKY SPORTS+ 26</display-name><url>https://sky.com</url></channel>
 <channel id="UKSkySports+27.uk"><display-name>UK SKY SPORTS+ 27</display-name><url>https://sky.com</url></channel>
 <channel id="UKSkySports+28.uk"><display-name>UK SKY SPORTS+ 28</display-name><url>https://sky.com</url></channel>
 <channel id="UKSkySports+29.uk"><display-name>UK SKY SPORTS+ 29</display-name><url>https://sky.com</url></channel>
@@ -418,6 +415,8 @@
 <channel id="UKEFL34.uk"><display-name>UK EFL 34</display-name><url>https://sky.com</url></channel>
 <channel id="UKEFL35.uk"><display-name>UK EFL 35</display-name><url>https://sky.com</url></channel>
 <channel id="UKEFL36.uk"><display-name>UK EFL 36</display-name><url>https://sky.com</url></channel>
+<channel id="USNBA07.us"><display-name>US NBA 07</display-name><url>https://sky.com</url></channel>
+<channel id="USNBA08.us"><display-name>US NBA 08</display-name><url>https://sky.com</url></channel>
 <channel id="USNBA09.us"><display-name>US NBA 09</display-name><url>https://sky.com</url></channel>
 <channel id="USNBA10.us"><display-name>US NBA 10</display-name><url>https://sky.com</url></channel>
 <channel id="USNBA11.us"><display-name>US NBA 11</display-name><url>https://sky.com</url></channel>
@@ -485,6 +484,7 @@
 <channel id="USMLS13.us"><display-name>US MLS 13</display-name><url>https://sky.com</url></channel>
 <channel id="USMLS14.us"><display-name>US MLS 14</display-name><url>https://sky.com</url></channel>
 <channel id="USMLS15.us"><display-name>US MLS 15</display-name><url>https://sky.com</url></channel>
+<channel id="USPPV01.us"><display-name>US PPV 01</display-name><url>https://sky.com</url></channel>
 <channel id="USPPV02.us"><display-name>US PPV 02</display-name><url>https://sky.com</url></channel>
 <channel id="USPPV03.us"><display-name>US PPV 03</display-name><url>https://sky.com</url></channel>
 <channel id="USPPV04.us"><display-name>US PPV 04</display-name><url>https://sky.com</url></channel>
@@ -534,45 +534,108 @@
 <channel id="USPPV48.us"><display-name>US PPV 48</display-name><url>https://sky.com</url></channel>
 <channel id="USPPV49.us"><display-name>US PPV 49</display-name><url>https://sky.com</url></channel>
 <channel id="USPPV50.us"><display-name>US PPV 50</display-name><url>https://sky.com</url></channel>
-<programme start="20261110000000 +0000" stop="20261110011500 +0000" channel="USNFLGAME14.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20261110011500 +0000" stop="20261110041500 +0000" channel="USNFLGAME14.us"><title lang="en">NFL Game 14: Buffalo </title><desc lang="en">NFL Game 14: Buffalo Bills vs Minnesota Vikings | Mon 9th Nov 8:15 PM ET</desc></programme>
-<programme start="20261110041500 +0000" stop="20261115235959 +0000" channel="USNFLGAME14.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20261110000000 +0000" stop="20261110010000 +0000" channel="USNHL00.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20261110010000 +0000" stop="20261110040000 +0000" channel="USNHL00.us"><title lang="en">NHL 00: New York Rang</title><desc lang="en">NHL 00: New York Rangers at Edmonton Oilers | Mon 9th Nov 8:00PM ET</desc></programme>
-<programme start="20261110040000 +0000" stop="20261115235959 +0000" channel="USNHL00.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20261110000000 +0000" stop="20261110023000 +0000" channel="USNHL01.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20261110023000 +0000" stop="20261110053000 +0000" channel="USNHL01.us"><title lang="en">NHL 01: Philadelphia </title><desc lang="en">NHL 01: Philadelphia Flyers at Vancouver Canucks | Mon 9th Nov 9:30PM ET</desc></programme>
-<programme start="20261110053000 +0000" stop="20261115235959 +0000" channel="USNHL01.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20261110000000 +0000" stop="20261110030000 +0000" channel="USNHL02.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20261110030000 +0000" stop="20261110060000 +0000" channel="USNHL02.us"><title lang="en">NHL 02: New York Isla</title><desc lang="en">NHL 02: New York Islanders at San Jose Sharks | Mon 9th Nov 10:00PM ET</desc></programme>
-<programme start="20261110060000 +0000" stop="20261115235959 +0000" channel="USNHL02.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20261110000000 +0000" stop="20261110000000 +0000" channel="USNBA01.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20261110000000 +0000" stop="20261110030000 +0000" channel="USNBA01.us"><title lang="en">NBA 01: Los Angeles L</title><desc lang="en">NBA 01: Los Angeles Lakers at Atlanta Hawks | Mon 9th Nov 7:00PM ET</desc></programme>
-<programme start="20261110030000 +0000" stop="20261115235959 +0000" channel="USNBA01.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20261110000000 +0000" stop="20261110000000 +0000" channel="USNBA02.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20261110000000 +0000" stop="20261110030000 +0000" channel="USNBA02.us"><title lang="en">NBA 02: Cleveland Cav</title><desc lang="en">NBA 02: Cleveland Cavaliers at Charlotte Hornets | Mon 9th Nov 7:00PM ET</desc></programme>
-<programme start="20261110030000 +0000" stop="20261115235959 +0000" channel="USNBA02.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20261110000000 +0000" stop="20261110000000 +0000" channel="USNBA03.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20261110000000 +0000" stop="20261110030000 +0000" channel="USNBA03.us"><title lang="en">NBA 03: Washington Wi</title><desc lang="en">NBA 03: Washington Wizards at Detroit Pistons | Mon 9th Nov 7:00PM ET</desc></programme>
-<programme start="20261110030000 +0000" stop="20261115235959 +0000" channel="USNBA03.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20261110000000 +0000" stop="20261110003000 +0000" channel="USNBA04.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20261110003000 +0000" stop="20261110033000 +0000" channel="USNBA04.us"><title lang="en">NBA 04: Memphis Grizz</title><desc lang="en">NBA 04: Memphis Grizzlies at Toronto Raptors | Mon 9th Nov 7:30PM ET</desc></programme>
-<programme start="20261110033000 +0000" stop="20261115235959 +0000" channel="USNBA04.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20261110000000 +0000" stop="20261110010000 +0000" channel="USNBA05.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20261110010000 +0000" stop="20261110040000 +0000" channel="USNBA05.us"><title lang="en">NBA 05: Indiana Pacer</title><desc lang="en">NBA 05: Indiana Pacers at Dallas Mavericks | Mon 9th Nov 8:00PM ET</desc></programme>
-<programme start="20261110040000 +0000" stop="20261115235959 +0000" channel="USNBA05.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20261110000000 +0000" stop="20261110013000 +0000" channel="USNBA06.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20261110013000 +0000" stop="20261110043000 +0000" channel="USNBA06.us"><title lang="en">NBA 06: Denver Nugget</title><desc lang="en">NBA 06: Denver Nuggets at Houston Rockets | Mon 9th Nov 8:30PM ET</desc></programme>
-<programme start="20261110043000 +0000" stop="20261115235959 +0000" channel="USNBA06.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20261110000000 +0000" stop="20261110020000 +0000" channel="USNBA07.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20261110020000 +0000" stop="20261110050000 +0000" channel="USNBA07.us"><title lang="en">NBA 07: San Antonio S</title><desc lang="en">NBA 07: San Antonio Spurs at Phoenix Suns | Mon 9th Nov 9:00PM ET</desc></programme>
-<programme start="20261110050000 +0000" stop="20261115235959 +0000" channel="USNBA07.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20261110000000 +0000" stop="20261110030000 +0000" channel="USNBA08.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20261110030000 +0000" stop="20261110060000 +0000" channel="USNBA08.us"><title lang="en">NBA 08: New Orleans P</title><desc lang="en">NBA 08: New Orleans Pelicans at Golden State Warriors | Mon 9th Nov 10:00PM ET</desc></programme>
-<programme start="20261110060000 +0000" stop="20261115235959 +0000" channel="USNBA08.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20261110000000 +0000" stop="20261110010000 +0000" channel="USPPV01.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20261110010000 +0000" stop="20261110040000 +0000" channel="USPPV01.us"><title lang="en">PPV 01 : WWE | Monday</title><desc lang="en">PPV 01 : WWE | Monday Night RAW | Mon 9th Nov 1:00AM UK/8:00 PM ET</desc></programme>
-<programme start="20261110040000 +0000" stop="20261115235959 +0000" channel="USPPV01.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261110000000 +0000" stop="20261110170000 +0000" channel="USEVENTS02.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261110170000 +0000" stop="20261110200000 +0000" channel="USEVENTS02.us"><title lang="en">Event 02: Basketball </title><desc lang="en">Event 02: Basketball | Eurocup | Universitatea Cluj-Napoca vs. Turk Telekom | Tuesday. 10 November 2026 17:00</desc></programme>
+<programme start="20261110200000 +0000" stop="20261115235959 +0000" channel="USEVENTS02.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261110000000 +0000" stop="20261110170000 +0000" channel="USEVENTS03.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261110170000 +0000" stop="20261110200000 +0000" channel="USEVENTS03.us"><title lang="en">Event 03: Basketball </title><desc lang="en">Event 03: Basketball | Eurocup | BC Neptunas Klaipeda vs. Slask Wroclaw | Tuesday. 10 November 2026 17:00</desc></programme>
+<programme start="20261110200000 +0000" stop="20261115235959 +0000" channel="USEVENTS03.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261110000000 +0000" stop="20261110170000 +0000" channel="USEVENTS04.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261110170000 +0000" stop="20261110200000 +0000" channel="USEVENTS04.us"><title lang="en">Event 04: Basketball </title><desc lang="en">Event 04: Basketball | Eurocup | Balkan Botevgrad vs. PAOK Thessaloniki | Tuesday. 10 November 2026 17:00</desc></programme>
+<programme start="20261110200000 +0000" stop="20261115235959 +0000" channel="USEVENTS04.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261110000000 +0000" stop="20261110183000 +0000" channel="USEVENTS05.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261110183000 +0000" stop="20261110213000 +0000" channel="USEVENTS05.us"><title lang="en">Event 05: Basketball </title><desc lang="en">Event 05: Basketball | Eurocup | JL Bourg vs. Buducnost Voli | Tuesday. 10 November 2026 18:30</desc></programme>
+<programme start="20261110213000 +0000" stop="20261115235959 +0000" channel="USEVENTS05.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261110000000 +0000" stop="20261110190000 +0000" channel="USEVENTS06.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261110190000 +0000" stop="20261110220000 +0000" channel="USEVENTS06.us"><title lang="en">Event 06: Basketball </title><desc lang="en">Event 06: Basketball | FIBA Champions League | Spartak Subotica vs. Cholet Basket | Tuesday. 10 November 2026 19:00</desc></programme>
+<programme start="20261110220000 +0000" stop="20261115235959 +0000" channel="USEVENTS06.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261110000000 +0000" stop="20261110190000 +0000" channel="USEVENTS07.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261110190000 +0000" stop="20261110220000 +0000" channel="USEVENTS07.us"><title lang="en">Event 07: Basketball </title><desc lang="en">Event 07: Basketball | FIBA Champions League | Bilbao Basket vs. Alba Berlin | Tuesday. 10 November 2026 19:00</desc></programme>
+<programme start="20261110220000 +0000" stop="20261115235959 +0000" channel="USEVENTS07.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261110000000 +0000" stop="20261110193000 +0000" channel="USEVENTS08.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261110193000 +0000" stop="20261110223000 +0000" channel="USEVENTS08.us"><title lang="en">Event 08: Basketball </title><desc lang="en">Event 08: Basketball | Eurocup | London Lions vs. Reyer Venezia | Tuesday. 10 November 2026 19:30</desc></programme>
+<programme start="20261110223000 +0000" stop="20261115235959 +0000" channel="USEVENTS08.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261110000000 +0000" stop="20261110193000 +0000" channel="USEVENTS09.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261110193000 +0000" stop="20261110223000 +0000" channel="USEVENTS09.us"><title lang="en">Event 09: Basketball </title><desc lang="en">Event 09: Basketball | Eurocup | Basquet Manresa vs. KK Bosna Royal Sarajevo | Tuesday. 10 November 2026 19:30</desc></programme>
+<programme start="20261110223000 +0000" stop="20261115235959 +0000" channel="USEVENTS09.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261110000000 +0000" stop="20261110173000 +0000" channel="USSOCCER01.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261110173000 +0000" stop="20261110200000 +0000" channel="USSOCCER01.us"><title lang="en">SOCCER 01: Romania. L</title><desc lang="en">SOCCER 01: Romania. Liga 2 | AFC Metalul Buzau vs. CSA Steaua Bucuresti | Tuesday. 10 November 2026 17:30</desc></programme>
+<programme start="20261110200000 +0000" stop="20261115235959 +0000" channel="USSOCCER01.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261110000000 +0000" stop="20261110174500 +0000" channel="USSOCCER02.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261110174500 +0000" stop="20261110201500 +0000" channel="USSOCCER02.us"><title lang="en">SOCCER 02: UEFA. Cham</title><desc lang="en">SOCCER 02: UEFA. Champions League. Women | Real Madrid vs. Paris FC | Tuesday. 10 November 2026 17:45</desc></programme>
+<programme start="20261110201500 +0000" stop="20261115235959 +0000" channel="USSOCCER02.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261110000000 +0000" stop="20261110180000 +0000" channel="USSOCCER03.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261110180000 +0000" stop="20261110203000 +0000" channel="USSOCCER03.us"><title lang="en">SOCCER 03: Denmark. A</title><desc lang="en">SOCCER 03: Denmark. A Liga. Women | FC Midtjylland vs. OB Odense | Tuesday. 10 November 2026 18:00</desc></programme>
+<programme start="20261110203000 +0000" stop="20261115235959 +0000" channel="USSOCCER03.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261110000000 +0000" stop="20261110200000 +0000" channel="USSOCCER04.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261110200000 +0000" stop="20261110223000 +0000" channel="USSOCCER04.us"><title lang="en">SOCCER 04: Denmark. A</title><desc lang="en">SOCCER 04: Denmark. A Liga. Women | AS Roma vs. Servette Geneva | Tuesday. 10 November 2026 20:00</desc></programme>
+<programme start="20261110223000 +0000" stop="20261115235959 +0000" channel="USSOCCER04.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261110000000 +0000" stop="20261111000000 +0000" channel="USNHL00.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261111000000 +0000" stop="20261111030000 +0000" channel="USNHL00.us"><title lang="en">NHL 00: Colorado Aval</title><desc lang="en">NHL 00: Colorado Avalanche at Toronto Maple Leafs | Tue 10th Nov 7:00PM ET</desc></programme>
+<programme start="20261111030000 +0000" stop="20261115235959 +0000" channel="USNHL00.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261110000000 +0000" stop="20261111000000 +0000" channel="USNHL01.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261111000000 +0000" stop="20261111030000 +0000" channel="USNHL01.us"><title lang="en">NHL 01: Minnesota Wil</title><desc lang="en">NHL 01: Minnesota Wild at Montreal Canadiens | Tue 10th Nov 7:00PM ET</desc></programme>
+<programme start="20261111030000 +0000" stop="20261115235959 +0000" channel="USNHL01.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261110000000 +0000" stop="20261111000000 +0000" channel="USNHL02.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261111000000 +0000" stop="20261111030000 +0000" channel="USNHL02.us"><title lang="en">NHL 02: Washington Ca</title><desc lang="en">NHL 02: Washington Capitals at Ottawa Senators | Tue 10th Nov 7:00PM ET</desc></programme>
+<programme start="20261111030000 +0000" stop="20261115235959 +0000" channel="USNHL02.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261110000000 +0000" stop="20261111000000 +0000" channel="USNHL03.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261111000000 +0000" stop="20261111030000 +0000" channel="USNHL03.us"><title lang="en">NHL 03: New Jersey De</title><desc lang="en">NHL 03: New Jersey Devils at Winnipeg Jets | Tue 10th Nov 7:00PM ET</desc></programme>
+<programme start="20261111030000 +0000" stop="20261115235959 +0000" channel="USNHL03.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261110000000 +0000" stop="20261111003000 +0000" channel="USNHL04.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261111003000 +0000" stop="20261111033000 +0000" channel="USNHL04.us"><title lang="en">NHL 04: Florida Panth</title><desc lang="en">NHL 04: Florida Panthers at Columbus Blue Jackets | Tue 10th Nov 7:30PM ET</desc></programme>
+<programme start="20261111033000 +0000" stop="20261115235959 +0000" channel="USNHL04.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261110000000 +0000" stop="20261111010000 +0000" channel="USNHL05.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261111010000 +0000" stop="20261111040000 +0000" channel="USNHL05.us"><title lang="en">NHL 05: Detroit Red W</title><desc lang="en">NHL 05: Detroit Red Wings at St. Louis Blues | Tue 10th Nov 8:00PM ET</desc></programme>
+<programme start="20261111040000 +0000" stop="20261115235959 +0000" channel="USNHL05.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261110000000 +0000" stop="20261111030000 +0000" channel="USNHL06.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261111030000 +0000" stop="20261111060000 +0000" channel="USNHL06.us"><title lang="en">NHL 06: Nashville Pre</title><desc lang="en">NHL 06: Nashville Predators at Los Angeles Kings | Tue 10th Nov 10:00PM ET</desc></programme>
+<programme start="20261111060000 +0000" stop="20261115235959 +0000" channel="USNHL06.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261110000000 +0000" stop="20261110184500 +0000" channel="UKSkySports+02.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261110184500 +0000" stop="20261110211500 +0000" channel="UKSkySports+02.uk"><title lang="en">Sky Sports+ 2 : Leice</title><desc lang="en">Sky Sports+ 2 : Leicester vs Walsall // UK Tue 10 Nov 6:45pm // ET Tue 10 Nov 1:45pm</desc></programme>
+<programme start="20261110211500 +0000" stop="20261115235959 +0000" channel="UKSkySports+02.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261110000000 +0000" stop="20261110184500 +0000" channel="UKSkySports+19.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261110184500 +0000" stop="20261110211500 +0000" channel="UKSkySports+19.uk"><title lang="en">Sky Sports+ 19 : Barn</title><desc lang="en">Sky Sports+ 19 : Barnet vs L Orient // UK Tue 10 Nov 6:45pm // ET Tue 10 Nov 1:45pm</desc></programme>
+<programme start="20261110211500 +0000" stop="20261115235959 +0000" channel="UKSkySports+19.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261110000000 +0000" stop="20261110184500 +0000" channel="UKSkySports+20.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261110184500 +0000" stop="20261110211500 +0000" channel="UKSkySports+20.uk"><title lang="en">Sky Sports+ 20 : Bris</title><desc lang="en">Sky Sports+ 20 : Bristol Rovers vs Reading // UK Tue 10 Nov 6:45pm // ET Tue 10 Nov 1:45pm</desc></programme>
+<programme start="20261110211500 +0000" stop="20261115235959 +0000" channel="UKSkySports+20.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261110000000 +0000" stop="20261110184500 +0000" channel="UKSkySports+21.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261110184500 +0000" stop="20261110211500 +0000" channel="UKSkySports+21.uk"><title lang="en">Sky Sports+ 21 : Burt</title><desc lang="en">Sky Sports+ 21 : Burton vs Notts County // UK Tue 10 Nov 6:45pm // ET Tue 10 Nov 1:45pm</desc></programme>
+<programme start="20261110211500 +0000" stop="20261115235959 +0000" channel="UKSkySports+21.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261110000000 +0000" stop="20261110184500 +0000" channel="UKSkySports+22.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261110184500 +0000" stop="20261110211500 +0000" channel="UKSkySports+22.uk"><title lang="en">Sky Sports+ 22 : Crew</title><desc lang="en">Sky Sports+ 22 : Crewe vs Wigan // UK Tue 10 Nov 6:45pm // ET Tue 10 Nov 1:45pm</desc></programme>
+<programme start="20261110211500 +0000" stop="20261115235959 +0000" channel="UKSkySports+22.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261110000000 +0000" stop="20261110184500 +0000" channel="UKSkySports+23.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261110184500 +0000" stop="20261110211500 +0000" channel="UKSkySports+23.uk"><title lang="en">Sky Sports+ 23 : Grim</title><desc lang="en">Sky Sports+ 23 : Grimsby vs Nottm Forest U21 // UK Tue 10 Nov 6:45pm // ET Tue 10 Nov 1:45pm</desc></programme>
+<programme start="20261110211500 +0000" stop="20261115235959 +0000" channel="UKSkySports+23.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261110000000 +0000" stop="20261110184500 +0000" channel="UKSkySports+24.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261110184500 +0000" stop="20261110211500 +0000" channel="UKSkySports+24.uk"><title lang="en">Sky Sports+ 24 : Hudd</title><desc lang="en">Sky Sports+ 24 : Huddersfield vs Liverpool U21 // UK Tue 10 Nov 6:45pm // ET Tue 10 Nov 1:45pm</desc></programme>
+<programme start="20261110211500 +0000" stop="20261115235959 +0000" channel="UKSkySports+24.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261110000000 +0000" stop="20261110184500 +0000" channel="UKSkySports+25.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261110184500 +0000" stop="20261110211500 +0000" channel="UKSkySports+25.uk"><title lang="en">Sky Sports+ 25 : Mans</title><desc lang="en">Sky Sports+ 25 : Mansfield vs Chesterfield // UK Tue 10 Nov 6:45pm // ET Tue 10 Nov 1:45pm</desc></programme>
+<programme start="20261110211500 +0000" stop="20261115235959 +0000" channel="UKSkySports+25.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261110000000 +0000" stop="20261110184500 +0000" channel="UKSkySports+26.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261110184500 +0000" stop="20261110211500 +0000" channel="UKSkySports+26.uk"><title lang="en">Sky Sports+ 26 : Nort</title><desc lang="en">Sky Sports+ 26 : Northampton vs Gillingham // UK Tue 10 Nov 6:45pm // ET Tue 10 Nov 1:45pm</desc></programme>
+<programme start="20261110211500 +0000" stop="20261115235959 +0000" channel="UKSkySports+26.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261110000000 +0000" stop="20261111003000 +0000" channel="USNBA01.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261111003000 +0000" stop="20261111033000 +0000" channel="USNBA01.us"><title lang="en">NBA 01: Milwaukee Buc</title><desc lang="en">NBA 01: Milwaukee Bucks at New York Knicks | Tue 10th Nov 7:30PM ET</desc></programme>
+<programme start="20261111033000 +0000" stop="20261115235959 +0000" channel="USNBA01.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261110000000 +0000" stop="20261111010000 +0000" channel="USNBA02.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261111010000 +0000" stop="20261111040000 +0000" channel="USNBA02.us"><title lang="en">NBA 02: Boston Celtic</title><desc lang="en">NBA 02: Boston Celtics at Philadelphia 76ers | Tue 10th Nov 8:00PM ET</desc></programme>
+<programme start="20261111040000 +0000" stop="20261115235959 +0000" channel="USNBA02.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261110000000 +0000" stop="20261111020000 +0000" channel="USNBA03.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261111020000 +0000" stop="20261111050000 +0000" channel="USNBA03.us"><title lang="en">NBA 03: LA Clippers a</title><desc lang="en">NBA 03: LA Clippers at Phoenix Suns | Tue 10th Nov 9:00PM ET</desc></programme>
+<programme start="20261111050000 +0000" stop="20261115235959 +0000" channel="USNBA03.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261110000000 +0000" stop="20261111020000 +0000" channel="USNBA04.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261111020000 +0000" stop="20261111050000 +0000" channel="USNBA04.us"><title lang="en">NBA 04: Miami Heat at</title><desc lang="en">NBA 04: Miami Heat at Utah Jazz | Tue 10th Nov 9:00PM ET</desc></programme>
+<programme start="20261111050000 +0000" stop="20261115235959 +0000" channel="USNBA04.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261110000000 +0000" stop="20261111030000 +0000" channel="USNBA05.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261111030000 +0000" stop="20261111060000 +0000" channel="USNBA05.us"><title lang="en">NBA 05: Orlando Magic</title><desc lang="en">NBA 05: Orlando Magic at Sacramento Kings | Tue 10th Nov 10:00PM ET</desc></programme>
+<programme start="20261111060000 +0000" stop="20261115235959 +0000" channel="USNBA05.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261110000000 +0000" stop="20261111040000 +0000" channel="USNBA06.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261111040000 +0000" stop="20261111070000 +0000" channel="USNBA06.us"><title lang="en">NBA 06: Oklahoma City</title><desc lang="en">NBA 06: Oklahoma City Thunder at Portland Trail Blazers | Tue 10th Nov 11:00PM ET</desc></programme>
+<programme start="20261111070000 +0000" stop="20261115235959 +0000" channel="USNBA06.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20261110000000 +0000" stop="20261115235959 +0000" channel="UKEPL01.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20261110000000 +0000" stop="20261115235959 +0000" channel="UKEPL02.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20261110000000 +0000" stop="20261115235959 +0000" channel="UKEPL03.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
@@ -593,14 +656,6 @@
 <programme start="20261110000000 +0000" stop="20261115235959 +0000" channel="UKSPFL06.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20261110000000 +0000" stop="20261115235959 +0000" channel="UKSPFL07.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20261110000000 +0000" stop="20261115235959 +0000" channel="USEVENTS01.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20261110000000 +0000" stop="20261115235959 +0000" channel="USEVENTS02.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20261110000000 +0000" stop="20261115235959 +0000" channel="USEVENTS03.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20261110000000 +0000" stop="20261115235959 +0000" channel="USEVENTS04.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20261110000000 +0000" stop="20261115235959 +0000" channel="USEVENTS05.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20261110000000 +0000" stop="20261115235959 +0000" channel="USEVENTS06.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20261110000000 +0000" stop="20261115235959 +0000" channel="USEVENTS07.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20261110000000 +0000" stop="20261115235959 +0000" channel="USEVENTS08.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20261110000000 +0000" stop="20261115235959 +0000" channel="USEVENTS09.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20261110000000 +0000" stop="20261115235959 +0000" channel="USEVENTS10.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20261110000000 +0000" stop="20261115235959 +0000" channel="USEVENTS11.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20261110000000 +0000" stop="20261115235959 +0000" channel="USEVENTS12.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
@@ -691,10 +746,6 @@
 <programme start="20261110000000 +0000" stop="20261115235959 +0000" channel="USEVENTS97.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20261110000000 +0000" stop="20261115235959 +0000" channel="USEVENTS98.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20261110000000 +0000" stop="20261115235959 +0000" channel="USEVENTS99.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20261110000000 +0000" stop="20261115235959 +0000" channel="USSOCCER01.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20261110000000 +0000" stop="20261115235959 +0000" channel="USSOCCER02.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20261110000000 +0000" stop="20261115235959 +0000" channel="USSOCCER03.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20261110000000 +0000" stop="20261115235959 +0000" channel="USSOCCER04.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20261110000000 +0000" stop="20261115235959 +0000" channel="USSOCCER05.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20261110000000 +0000" stop="20261115235959 +0000" channel="USSOCCER06.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20261110000000 +0000" stop="20261115235959 +0000" channel="USSOCCER07.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
@@ -824,6 +875,7 @@
 <programme start="20261110000000 +0000" stop="20261115235959 +0000" channel="USNFLGAME11.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20261110000000 +0000" stop="20261115235959 +0000" channel="USNFLGAME12.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20261110000000 +0000" stop="20261115235959 +0000" channel="USNFLGAME13.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261110000000 +0000" stop="20261115235959 +0000" channel="USNFLGAME14.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20261110000000 +0000" stop="20261115235959 +0000" channel="USNFLGAME15.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20261110000000 +0000" stop="20261115235959 +0000" channel="IECLUBBER00.ie"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20261110000000 +0000" stop="20261115235959 +0000" channel="IECLUBBER01.ie"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
@@ -870,10 +922,6 @@
 <programme start="20261110000000 +0000" stop="20261115235959 +0000" channel="IECLUBBER42.ie"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20261110000000 +0000" stop="20261115235959 +0000" channel="IECLUBBER43.ie"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20261110000000 +0000" stop="20261115235959 +0000" channel="IECLUBBER44.ie"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20261110000000 +0000" stop="20261115235959 +0000" channel="USNHL03.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20261110000000 +0000" stop="20261115235959 +0000" channel="USNHL04.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20261110000000 +0000" stop="20261115235959 +0000" channel="USNHL05.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20261110000000 +0000" stop="20261115235959 +0000" channel="USNHL06.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20261110000000 +0000" stop="20261115235959 +0000" channel="USNHL07.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20261110000000 +0000" stop="20261115235959 +0000" channel="USNHL08.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20261110000000 +0000" stop="20261115235959 +0000" channel="USNHL09.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
@@ -884,7 +932,6 @@
 <programme start="20261110000000 +0000" stop="20261115235959 +0000" channel="USNHL14.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20261110000000 +0000" stop="20261115235959 +0000" channel="USNHL15.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20261110000000 +0000" stop="20261115235959 +0000" channel="UKSkySports+01.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20261110000000 +0000" stop="20261115235959 +0000" channel="UKSkySports+02.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20261110000000 +0000" stop="20261115235959 +0000" channel="UKSkySports+03.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20261110000000 +0000" stop="20261115235959 +0000" channel="UKSkySports+04.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20261110000000 +0000" stop="20261115235959 +0000" channel="UKSkySports+05.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
@@ -901,14 +948,6 @@
 <programme start="20261110000000 +0000" stop="20261115235959 +0000" channel="UKSkySports+16.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20261110000000 +0000" stop="20261115235959 +0000" channel="UKSkySports+17.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20261110000000 +0000" stop="20261115235959 +0000" channel="UKSkySports+18.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20261110000000 +0000" stop="20261115235959 +0000" channel="UKSkySports+19.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20261110000000 +0000" stop="20261115235959 +0000" channel="UKSkySports+20.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20261110000000 +0000" stop="20261115235959 +0000" channel="UKSkySports+21.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20261110000000 +0000" stop="20261115235959 +0000" channel="UKSkySports+22.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20261110000000 +0000" stop="20261115235959 +0000" channel="UKSkySports+23.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20261110000000 +0000" stop="20261115235959 +0000" channel="UKSkySports+24.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20261110000000 +0000" stop="20261115235959 +0000" channel="UKSkySports+25.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
-<programme start="20261110000000 +0000" stop="20261115235959 +0000" channel="UKSkySports+26.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20261110000000 +0000" stop="20261115235959 +0000" channel="UKSkySports+27.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20261110000000 +0000" stop="20261115235959 +0000" channel="UKSkySports+28.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20261110000000 +0000" stop="20261115235959 +0000" channel="UKSkySports+29.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
@@ -979,6 +1018,8 @@
 <programme start="20261110000000 +0000" stop="20261115235959 +0000" channel="UKEFL34.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20261110000000 +0000" stop="20261115235959 +0000" channel="UKEFL35.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20261110000000 +0000" stop="20261115235959 +0000" channel="UKEFL36.uk"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261110000000 +0000" stop="20261115235959 +0000" channel="USNBA07.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261110000000 +0000" stop="20261115235959 +0000" channel="USNBA08.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20261110000000 +0000" stop="20261115235959 +0000" channel="USNBA09.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20261110000000 +0000" stop="20261115235959 +0000" channel="USNBA10.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20261110000000 +0000" stop="20261115235959 +0000" channel="USNBA11.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
@@ -1046,6 +1087,7 @@
 <programme start="20261110000000 +0000" stop="20261115235959 +0000" channel="USMLS13.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20261110000000 +0000" stop="20261115235959 +0000" channel="USMLS14.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20261110000000 +0000" stop="20261115235959 +0000" channel="USMLS15.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
+<programme start="20261110000000 +0000" stop="20261115235959 +0000" channel="USPPV01.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20261110000000 +0000" stop="20261115235959 +0000" channel="USPPV02.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20261110000000 +0000" stop="20261115235959 +0000" channel="USPPV03.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
 <programme start="20261110000000 +0000" stop="20261115235959 +0000" channel="USPPV04.us"><title lang="en">Program Coming Soon..</title><desc lang="en">Program Coming Soon..</desc></programme>
